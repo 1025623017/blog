@@ -1,2 +1,2 @@
-# blog
-Murphy Leung 's Personal Blog
+# Murphy Leung 's Personal Blog
+## http://1025623017.github.io/blog
