@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Sony数码相机</title>
+  <meta name="description" content="Sony数码相机">
+  <meta name="keywords" content="Sony数码相机">
+  <meta name="author" content="1025623017@qq.com">
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+  <link rel="shortcut icon" href="images/ico.png">
+  <link href="bootstrap-3.3.5-dist/css/bootstrap.min.css" rel="stylesheet">
+  <!--[if lt IE 9]>
+    <script src="bootstrap-3.3.5-dist/js/html5shiv.js"></script>
+    <script src="bootstrap-3.3.5-dist/js/respond.min.js"></script>
+  <![endif]-->
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/news.css">
+</head>
+<body>
+  <!--导航栏-->
+  <nav id="nav" class="navbar navbar-default" role="navigation">
+    <div class="main">
+     <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+           <span class="sr-only">切换导航</span>
+           <span class="icon-bar"></span>
+           <span class="icon-bar"></span>
+           <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="index.html">
+          Sony数码相机
+        </a>
+     </div>
+     <div class="collapse navbar-collapse" id="navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li>
+            <a href="index.html">首页</a>
+          </li>
+          <li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:;">
+              产品中心<span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu">
+              <li>
+                摄影摄像
+                <a href="javascript:;">
+                  <span class="text-primary">数码相机</span>
+                </a>
+                <a href="javascript:;">
+                  <span class="text-primary">单电/微单相机</span>
+                </a>
+              </li>
+              <li class="divider"></li>
+              <li>
+                数码配件
+                <a href="javascript:;">
+                  <span class="text-primary">存储卡</span>
+                </a>
+                <a href="javascript:;">
+                  <span class="text-primary">电池/充电器</span>
+                </a>
+              </li>
+              <li class="divider"></li>
+              <li>
+                时尚影音
+                <a href="javascript:;">
+                  <span class="text-primary">MP3/MP4</span>
+                </a>
+                <a href="javascript:;">
+                  <span class="text-primary">耳机</span>
+                </a>
+              </li>
+            </ul>
+         </li>
+          <li class="active">
+            <a href="news.html">新闻中心</a>
+          </li>
+          <li>
+            <a href="about.html">关于我们</a>
+          </li>
+          <li>
+            <a href="contact.html">联系我们</a>
+          </li>
+          <li>
+            <a href="purchase.html">购买流程</a>
+          </li>
+          <li>
+            <a href="advice.html">投诉中心</a>
+          </li>
+          <li class="user text-center">
+            <button type="submit" class="btn-login btn btn-success" data-toggle="modal" data-target="#user-login">
+              登录
+            </button>
+            <button type="submit" class="btn-regist btn btn-primary" data-toggle="modal" data-target="#user-regist">
+              注册
+            </button>
+            <!--登录弹窗-->
+            <div class="modal fade" id="user-login" tabindex="-1" role="dialog" aria-labelledby="login-title" aria-hidden="true">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+                      &times;
+                    </button>
+                    <h4 class="modal-title" id="login-title">
+                      欢迎登录
+                    </h4>
+                  </div>
+                  <div class="modal-body">
+                    <form class="form-horizontal" role="form">
+                      <div class="form-group">
+                        <label class="col-sm-2 pull-left control-label">用户名</label>
+                        <div class="col-sm-10">
+                          <input class="form-control" placeholder="请输入用户名" type="text" value="">
+                        </div>
+                      </div>
+                      <div class="form-group">
+                        <label class="col-sm-2 pull-left control-label">密码</label>
+                        <div class="col-sm-10">
+                          <input class="form-control" placeholder="请输入密码" type="text" value="">
+                        </div>
+                      </div>
+                      <div class="form-group">
+                        <label class="col-sm-2 pull-left control-label">验证码</label>
+                        <div class="col-sm-10">
+                          <input class="form-control" placeholder="请输入验证码" type="text" value="">
+                        </div>
+                      </div>
+                      <div class="form-group">
+                        <img src="yzm" alt="验证码">
+                      </div>
+                    </form>
+                  </div>
+                  <div class="modal-footer">
+                    <button type="button" class="btn btn-success">
+                      确定
+                    </button>
+                    <button type="button" class="btn btn-default" data-dismiss="modal">
+                      取消
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!--注册弹窗-->
+            <div class="modal fade" id="user-regist" tabindex="-1" role="dialog" aria-labelledby="regist-title" aria-hidden="true">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+                      &times;
+                    </button>
+                    <h4 class="modal-title" id="regist-title">
+                      注册成为Sony会员
+                    </h4>
+                  </div>
+                  <div class="modal-body">
+                    <form class="form-horizontal" role="form">
+                      <div class="form-group">
+                        <label class="col-sm-2 pull-left control-label">用户名</label>
+                        <div class="col-sm-10">
+                          <input class="form-control" placeholder="用户名必须为6-11位" type="text" value="">
+                        </div>
+                      </div>
+                      <div class="form-group">
+                        <label class="col-sm-2 pull-left control-label">密码</label>
+                        <div class="col-sm-10">
+                          <input class="form-control" placeholder="密码必须为6-11位" type="text" value="">
+                        </div>
+                      </div>
+                      <div class="form-group">
+                        <label class="col-sm-2 pull-left control-label">邮箱</label>
+                        <div class="col-sm-10">
+                          <input class="form-control" placeholder="请输入正确的邮箱" type="text" value="">
+                        </div>
+                      </div>
+                      <div class="form-group">
+                        <label class="col-sm-2 pull-left control-label">验证码</label>
+                        <div class="col-sm-10">
+                          <input class="form-control" placeholder="请输入验证码" type="text" value="">
+                        </div>
+                      </div>
+                      <div class="form-group">
+                        <img src="yzm" alt="验证码">
+                      </div>
+                    </form>
+                  </div>
+                  <div class="modal-footer">
+                    <button type="button" class="btn btn-primary">
+                      确定
+                    </button>
+                    <button type="button" class="btn btn-default" data-dismiss="modal">
+                      取消
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-right" role="search">
+          <input type="text" class="form-control" placeholder="4K数码摄像机">
+          <button type="submit" class="hidden-xs btn btn-success">搜索</button>
+          <button type="submit" class="visible-xs btn btn-success btn-block">搜索</button>
+        </form>
+     </div>
+    </div>
+  </nav>
+  <!--内容-->
+  <div id="contain">
+    <div class="container">
+      <div class="main">
+        <!--Something-->
+        <p>
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+        </p>
+        <p>
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+        </p>
+        <p>
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+        </p>
+        <p>
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+        </p>
+        <p>
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+          Something in the paragraph...
+        </p>
+      </div>
+    </div>
+  </div>
+  <!--版权-->
+  <div id="footer">
+    <div>
+      <a href="javascript:;">首页</a>
+      |
+      <a href="javascript:;">首页</a>
+      |
+      <a href="javascript:;">首页</a>
+    </div>
+    <div>
+      &copy;2016 8#706 版权所有
+    </div>
+    <div>
+      技术支持：
+      <a href="javascript:;">梁文昊</a>
+      |
+      <a href="javascript:;">林万鸿</a>
+      |
+      <a href="javascript:;">符立新</a>
+      <br>
+      <a href="javascript:;">梁增云</a>
+      |
+      <a href="javascript:;">陈思雨</a>
+      |
+      <a href="javascript:;">王丽霞</a>
+    </div>
+  </div>
+  <!--返回顶部-->
+  <a href="javascript:;" class="hidden-xs text-center" id="toTop">↑</a>
+</body>
+  <script src="bootstrap-3.3.5-dist/js/jquery.js"></script>
+  <script src="bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+  <script src="js/comm.js"></script>
+</html>

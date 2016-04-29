@@ -1,0 +1,144 @@
+@charset "utf-8";
+/*
+ *首页模块
+ *
+ *轮播
+ *首页公共
+ *热门推荐
+ *最新产品
+ *新闻动态
+ *********************************************************/
+
+
+
+/*
+ *轮播
+ *********************************************************/
+#scroll{
+  img{
+    width: 100%;
+  }
+  a.left,
+  a.right{
+    background: #f2f2f2;
+    width: 9%;
+    color: #0067a6;
+  }
+  .carousel-indicators li{
+    border: 1px #0067a6 solid;
+  }
+  .active{
+    background: #0067a6;
+  }
+}
+
+
+
+/*
+ *首页公共
+ *********************************************************/
+#contain{
+  .block-title{
+    padding: 10px 0;
+    margin: 40px auto;
+    text-align: center;
+    width: 200px;
+    font-weight: 800;
+    font-size: 1.3em;
+    background: #1dd08e;
+    display: block;
+    border-radius: 50px;
+    color: #fff;
+  }
+  img{
+    border: 1px solid #e7e7e7;
+  }
+  .prd-name{
+    height: 30px;
+    line-height: 30px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+  .prd-script{
+    margin-bottom: 10px;
+    height: 80px;
+    overflow: hidden;
+  }
+  .prd-price{
+    margin-bottom: 10px;
+    font-size: 20px;
+  }
+  .prd-link{
+    margin-bottom: 50px;
+  }
+  .pull-right{
+    margin-right: 30px;
+  }
+  .more{
+    padding: 0 30px;
+    .btn{
+      margin-bottom: 20px;
+      &.hidden-xs{
+        position: relative;
+        right: -30px;
+      }
+    }
+  }
+}
+
+
+
+/*
+ *热门推荐
+ *********************************************************/
+.recom{
+  overflow: auto;
+  .prd-price{
+    color: #c30;
+  }
+}
+
+
+
+/*
+ *最新产品
+ *********************************************************/
+.prd{
+  overflow: auto;
+  background: #009ddc;
+  small{
+    color: #fff;
+  }
+  a{
+    color: #fff;
+    &:hover{
+      color: #ddd;
+      text-decoration: underline;
+    }
+  }
+  .prd-price{
+    color: #ffe85f;
+  }
+}
+
+
+
+/*
+ *新闻动态
+ *********************************************************/
+.news{
+  overflow: auto;
+  li{
+    list-style: none;
+    margin: 15px 0;
+  }
+  .col-xs-8{
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+  .col-xs-4{
+    text-align: center;
+  }
+}
