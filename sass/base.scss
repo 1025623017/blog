@@ -1,65 +1,41 @@
 @charset "utf-8";
 /*
- *公共模块
+ *公共
  *
- *杂项
- *导航栏
+ *重置
+ *首屏
  *版权
- *返回顶部模块
+ *返回顶部
  *********************************************************/
 
 
 
 /*
- *杂项
+ *重置
  *********************************************************/
-ul,li{
+.navbar{
   margin: 0;
-  padding: 0;
-}
-small{
-  color: #81878c;
-}
-.container{
-  width: 100%;
-  padding: 0;
-}
-.row{
-  margin: 0;
-}
-.main{
-  margin: 0 auto;
-  max-width: 1200px;
 }
 
 
 
 /*
- *导航栏
+ *首屏
  *********************************************************/
-#nav{
-  margin-bottom: 0;
-  .btn-nav{
-    margin-top: 10px;
+#banner{
+  height: 300px;
+  background: #159957;
+  background-image: linear-gradient(120deg,#155799,#159957);
+  text-align: center;
+  color: #fff;
+  h1{
+    margin: 0;
+    padding: 100px 0;
   }
-  .dropdown-menu li{
-    padding: 0 20px;
-  }
-  .visible-xs{
-    margin-top: 5px;
-  }
-  .user{
-    line-height: 50px;
-    form{
-      line-height: 22px;
-    }
-    .btn{
-      padding-left: 20px;
-      padding-right: 20px;
-    }
-  }
-  .navbar-form{
-    padding: 0;
+  small{
+    display: block;
+    padding: 20px 0;
+    color: #fff;
   }
 }
 
@@ -69,41 +45,38 @@ small{
  *版权
  *********************************************************/
 #footer{
-  padding: 10px 0;
-  clear: both;
-  background: #f8f8f8;
+  padding: 15px 0;
+  line-height: 22px;
+  font-size: 12px;
   text-align: center;
-  line-height: 20px;
-  word-spacing: .4em;
-  border: 1px solid #e7e7e7;
+  background: #f8f8f8;
   border-radius: 5px;
+  border: 1px #e7e7e7 solid;
 }
 
 
 
 /*
- *返回顶部模块
+ *返回顶部
  *********************************************************/
 #toTop{
   position: fixed;
-  bottom: 8%;
+  bottom: 5%;
   right: 3%;
   display: inline-block;
   width: 45px;
   height: 45px;
-  background: #0067a6;
   font-size: 20px;
   line-height: 40px;
-  color: #f2f2f2;
-  border: 2px #f2f2f2 solid;
+  color: #fff;
+  border: 2px #ddd solid;
   border-radius: 45px;
+  background: #159957;
+  background-image: linear-gradient(120deg,#155799,#159957);
   &:hover{
-    border: 2px #0067a6 solid;
-    background: #fff;
-    color: #0067a6;
-    text-decoration: none;
-  }
-  &:focus{
+    background: #159957;
+    border: 2px #155799 solid;
+    color: #fff;
     text-decoration: none;
   }
 }

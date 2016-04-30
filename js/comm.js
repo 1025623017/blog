@@ -1,10 +1,5 @@
 $(function() {
 
-  //自动轮播
-  $('.carousel').carousel({
-    interval: 4000
-  });
-
 
 
   //返回顶部
@@ -23,5 +18,7 @@ $(function() {
       }
     },10);
   });
+
+  
 
 });
