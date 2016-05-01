@@ -1,3 +1,4 @@
+admin = "梁文昊"
 ###
 square = (x) -> x * x
 cube = (x) -> square(x) * x

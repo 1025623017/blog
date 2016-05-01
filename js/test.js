@@ -1,3 +1,7 @@
+var admin;
+
+admin = "梁文昊";
+
 
 /*
 square = (x) -> x * x
@@ -40,4 +44,3 @@ $("h1").click ->
     "border": "1px red solid"
   alert("我是h1！")
  */
-
