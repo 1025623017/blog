@@ -7,14 +7,31 @@
 ## 知识分享
 ###### （注：分享的并不是全部，而是重要的部分）
 
-* html
-  * 大一的时候老师带着入门，后来就靠自学了。一开始没什么感觉，后来因为网页的炫酷特效，激发了我对前端的渴望。
-  * 
-* css
-  * 有些程序员不喜欢css，大概是因为它的语法根本没逻辑，复制粘贴般又要自己调试N次才达到理想效果吧？
-  * [sass](http://www.ruanyifeng.com/blog/2012/06/sass.html)
-    * sass可谓是写css的神器！随着我对css越来越熟悉，sass也出现在我的眼前。原生css真的很麻烦，代码量大是其次，最主要是它的结构不够清晰。sass是通过嵌套形式编写css的，这使得我们更易于管理调试css。
-* javascript
+* 工具
+  * [Sublime Text 3](http://www.sublimetext.com)
+  * 浏览器
+    * Firebug（浏览器内置调试工具）
+    * [Lantern](http://www.iyaxi.com/2015-11-17/732.html)（翻墙工具）
+  * Photoshop
+
+* [规范](http://codeguide.bootcss.com)
+  * 代码必须按照规范编写！
+
+* [html](http://www.runoob.com/html/html-tutorial.html)
+  * html4 + html5
+
+* [css](http://www.runoob.com/css/css-tutorial.html)
+  * css2 + css3
+
+* [sass](http://www.ruanyifeng.com/blog/2012/06/sass.html)
+  * sass可谓是写css的神器！随着我对css越来越熟悉，sass也出现在我的眼前。原生css真的很麻烦，代码量大是其次，最主要是它的结构不够清晰。sass是通过嵌套形式编写css的，这使得我们更易于管理调试css。
+  * 或许你不喜欢使用命令行执行sass编译，那么，使用[Koala](http://koala-app.com/index.html)可以更适合你。
+  * 学习[compass](http://www.ruanyifeng.com/blog/2012/11/compass.html)会让sass更强大！
+  * 相关链接
+    * [安装sass和compass](http://devework.com/sass-compass.html)
+    * [教程](http://www.tuicool.com/articles/NNbaM3)
+
+* [javascript](http://edu.51cto.com/lesson/id-2376.html)
   * 我学过C、java、PHP这些语言，但javascript对我来说更有魅力。javascript没有类的概念，而是“一切皆对象”，在其它语言的眼里，它就像是一个怪胎，可我却不这么认为，可能是我C和java学得不好（笑）。
   * javascript的历史
     * 雷锋和雷峰塔，说的就是javascript和java，没半点关系好不好！（其他请自行Google或Baidu）
@@ -46,19 +63,42 @@
   * 节点属性：nodeType、nodeValue、nodeName
   * offsetTop、offsetHeight、scrollTop、scrollHeight
   * event对象
-  * [正则表达式](http://wsq.discuz.qq.com/?c=index&a=viewthread&f=wx&tid=85503&siteid=261146700&source=mq&_wv=1)
   * eval()将字符串转换为Javascript语句并执行（只用于绝对信任的字符串！防止代码注入和XSS攻击）
-* jquery
-* 
-* 工具
-  * Sublime Text 3
-  * 浏览器
-  * Firebug
-  * Photoshop
-  * Lantern
+
+* [jquery](http://edu.51cto.com/index.php?do=lession&id=14456)
+  * jquery使DOM操作和ajax请求变得更加方便，但是在你的项目中不是必须引入的，有时候javascript比jquery更省资源！
+
+* [正则表达式](http://wsq.discuz.qq.com/?c=index&a=viewthread&f=wx&tid=85503&siteid=261146700&source=mq&_wv=1)
+  * 正则表达式是验证数据的手法
+
+* ajax
+
+* json
+
+* Bootstrap
+  * 非常易学的响应式框架
+  * 官网：http://v3.bootcss.com/
+  * 教程：http://www.runoob.com/bootstrap/bootstrap-tutorial.html
+
+* Foundation
+  * 和Bootstrap不一样，Foundation _不支持_ IE8-！
+  * 教程：http://www.runoob.com/foundation/foundation-tutorial.html
+
+* AngularJS
+  * AngularJS是MVC框架
+
+* Vue
+  * Vue是MVVM框架
+
+* Node.js
+  * Gulp
+
 * 其他
-  * PHP
   * HTTP
+  * PHP
+  * XML
+  * DTD
+  * web安全
 
 ## 我的项目
 
