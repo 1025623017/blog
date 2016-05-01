@@ -35,7 +35,7 @@
   * 开发环境：
     * 操作系统：windows 7
     * 编辑器：Sublime Text 3
-    * 主调试浏览器：Chorme Google
+    * 主调试浏览器：Google Chorme
   * 技术选型：
     * html4 + css3
     * javascript + jquery
