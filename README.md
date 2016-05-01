@@ -4,23 +4,21 @@
 
 >博客管理：https://github.com/1025623017/blog/tree/gh-pages
 
-##知识分享
-###（注：分享的并不是全部，而是重要的部分）
+## 知识分享（注：分享的并不是全部，而是重要的部分）
 
-* 目录
-  * html4 / html5
-  * css2 / css3
-  * javascript
-  * jquery
-  * 
-  * 其他
-    * PHP
-    * HTTP
+
 
 * html
-  * 123
-    * 243243243
-  * 123
+  * html部分
+* css
+* javascript
+* jquery
+* 
+* 其他
+  * PHP
+  * HTTP
+
+
 
 ##前端知识树
 ![GitHub Logo](images/tree.jpg)
