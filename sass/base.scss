@@ -17,8 +17,11 @@
 .navbar{
   margin: 0;
 }
-p{
-  text-indent: 2em;
+.a4{
+  margin: 20px auto;
+  border: 1px #ddd solid;
+  max-width: 1240px;
+  height: 1754px;
 }
 
 
@@ -52,6 +55,11 @@ p{
     display: block;
     padding: 20px 0;
     color: #fff;
+  }
+}
+#profile{
+  h2{
+    text-align: center;
   }
 }
 
@@ -91,7 +99,7 @@ p{
   background-image: linear-gradient(120deg,#155799,#159957);
   &:hover{
     background: #159957;
-    border: 2px #155799 solid;
+    border: 2px #fff solid;
     color: #fff;
     text-decoration: none;
   }
