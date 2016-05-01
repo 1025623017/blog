@@ -65,6 +65,10 @@
   * event对象
   * eval()将字符串转换为Javascript语句并执行（只用于绝对信任的字符串！防止代码注入和XSS攻击）
 
+* [coffeeScript](http://coffee-script.org)
+  * coffeeScript和sass一样都是预编译，一样可以使用Koala编译
+  * coffeeScript使你编写javascript更加方便！
+
 * [jquery](http://edu.51cto.com/index.php?do=lession&id=14456)
   * jquery使DOM操作和ajax请求变得更加方便，但是在你的项目中不是必须引入的，有时候javascript比jquery更省资源！
 
