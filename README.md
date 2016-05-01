@@ -1,6 +1,6 @@
-#Murphy Leung 's Personal Blog
+# Murphy Leung 's Personal Blog
 
->博客地址：http://1025623017.github.io/blog
+> 博客地址：http://1025623017.github.io/blog
 
 ## 知识分享
 ###### （注：分享的并不是全部，而是重要的部分）
@@ -25,5 +25,25 @@
   * PHP
   * HTTP
 
-##前端知识树
+## 前端知识树
 ![GitHub Logo](images/tree.jpg)
+
+## 我的项目
+
+* [茂名职业技术学院-计算机工程系](http://www.mmvtc.cn/templet/jsjgcx/index.jsp)
+  * 介绍：
+    * 学校官网里面计算机系的系部网站改版，能参与到自己学校的网站建设中去，感到非常荣幸。这是我的第一个响应式网站，也是第一个正式发布的网站。
+  * 开发环境：
+    * 操作系统：windows 7
+    * 编辑器：Sublime Text 3
+    * 主调试浏览器：Chorme Google
+  * 技术选型：
+    * html4 + css3
+    * Sass
+    * Foundation / Bootstrap
+  * 职责领域：
+    * 前端代码编写
+    * 图片处理
+    * 颜色搭配
+  * 相关链接：
+    * http://www.mmvtc.cn/templet/jsjgcx/index.jsp
