@@ -39,7 +39,8 @@
     * 主调试浏览器：Chorme Google
   * 技术选型：
     * html4 + css3
-    * Sass
+    * javascript + jquery
+    * sass
     * Foundation / Bootstrap
   * 职责领域：
     * 前端代码编写
