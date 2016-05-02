@@ -9,6 +9,9 @@
 
 * 工具
   * [Sublime Text 3](http://www.sublimetext.com)
+    * Sublime Text有各种好用的[插件](http://www.oschina.net/translate/20-powerful-sublimetext-plugins)
+    * [汉化版下载](http://haojian138.blog.163.com/blog/static/212643110201393010438357)
+    * [汉化/破解/插件](http://jingyan.baidu.com/album/ff4116259b057c12e48237b8.html?picindex=1)
   * 浏览器
     * IE（不推荐IE8及更低版本的浏览器）(Trident)
     * Firefox(Gecko)
@@ -20,12 +23,12 @@
   * 切图 + 其他处理：Photoshop
   * 快速取色量度：[Markman](http://www.getmarkman.com)
   * 雪碧图生成工具：[CSS Sprite Generator](http://www.cn.spritegen.website-performance.org)
-  * [Koala](http://koala-app.com/index.html)
-  * [Can I use?](http://caniuse.com)
+  * Less/Sass/CoffeeScript预处理的GUI编译器：[Koala](http://koala-app.com/index.html)
+  * 兼容性查询：[Can I use?](http://caniuse.com)
   * 版本管理：[GitHub](https://github.com)
   * 项目架构 / 代码优化：[Gulp](http://www.gulpjs.com.cn)
-  * Navicat for MySQL
-  * WampServer
+  * 数据库：Navicat for MySQL
+  * 服务器：WampServer
 
 * 规范
   * [代码规范](http://codeguide.bootcss.com)
