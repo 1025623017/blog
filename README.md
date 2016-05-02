@@ -40,9 +40,15 @@
     * html是非常容易上手的语言，注意缩进、模块化即可。
     * 国内仍有许多IE8-用户，html4的标签仍会起着非常重要的作用。但即使如此，我们仍然可以使用html5模版，所有浏览器都支持`<!DOCTYPE html>`标签，写代码的时候就等于在html5里面写html4的标签。
   * html5
-    * 增加语义化标签header, section, footer, aside, nav, main, article, figure （引入插件可以使IE8支持这些标签）
-    * 增加新属性（input的新属性支持度比较差）
-    * 增加canvas，基于javascript的绘图API
+    * 增加语义化标签（引入插件可以使IE8支持这些标签）
+    * 增加新属性（兼容性自行百度）
+    * canvas（比较高大上，没学）
+    * SVG（可缩放矢量图形，没有锯齿的图像）
+    * MathM（输出数学表达式）
+    * 拖放功能（拖拽上传文件功能、html5游戏等等）
+    * 地理位置（适合手机应用）
+    * localStorage 和 sessionStorage（非常重要的知识点）
+    * 其他功能因兼容性非常不好（IE不配合啊···），这里请查看[手册](http://www.runoob.com/html/html5-intro.html)
 
 * [css](http://www.runoob.com/css/css-tutorial.html)
   * css2
@@ -60,7 +66,7 @@
     * css代码缩写：
       * 盒子模型上下左右缩写
       * 颜色值缩写
-      * 字体缩写font:italic small-caps bold 12px/1.5em "宋体";(前提有font-zise和font-family)
+      * 字体缩写font: italic small-caps bold 12px/1.5em "宋体";(前提有font-zise和font-family)
     * css长度单位：rem、em、px、%
     * 其他请自行查询[手册](http://www.w3school.com.cn/cssref/index.asp)
   * css3
@@ -124,7 +130,6 @@
   * jquery插件
 
 * [正则表达式](http://wsq.discuz.qq.com/?c=index&a=viewthread&f=wx&tid=85503&siteid=261146700&source=mq&_wv=1)
-  * 正则表达式是验证数据的手法
 
 * ajax
   * javascript中的ajax
@@ -134,37 +139,36 @@
   * 注意，json是一门独立的语言
 
 * AngularJS
-  * AngularJS是MVC框架
 
 * Vue
-  * Vue是MVVM框架
 
 * [coffeeScript](http://coffee-script.org)
   * coffeeScript和sass一样都是预编译，一样可以使用[Koala](http://koala-app.com/index.html)编译
   * coffeeScript使你编写javascript更加方便！
 
 * Bootstrap
-  * 非常易学的响应式框架
   * 官网：http://v3.bootcss.com/
   * 教程：http://www.runoob.com/bootstrap/bootstrap-tutorial.html
+  * Bootstrap用起来是非常简单的，只需要引入它的2个文件，在它的js前引入jquery，即可运行起来。Bootstrap没什么好说的，写上对应的class和html结构即可实现响应式。
 
 * Foundation
-  * 和Bootstrap不一样，Foundation *不支持IE8-！*
   * 教程：http://www.runoob.com/foundation/foundation-tutorial.html
+  * 和Bootstrap不一样，Foundation *不支持IE8-！*
 
 * [jQuery Mobile](http://jquerymobile.com/)
 
 * [D3](https://d3js.org/) - javascript可视化
 
 * Node.js
+  * Node.js引起了前端的工业革命，它使前端不仅仅是前端，使javascript变得无比强大。
   * Gulp
 
 * SEO
   * 代码简练
-  * 减少链接或设置rel="nofollow"
-  * 正确的meta、title标签
+  * 减少链接或在`<a>`标签中设置rel="nofollow"
+  * 正确的`<meta>`、`<title>`标签
   * 面包屑(让用户了解所在位置)
-  * html语义化(使用适当标签)
+  * html语义化(使用适当标签，重要内容放前面)
 
 * 其他
   * PHP
