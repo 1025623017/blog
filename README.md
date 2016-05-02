@@ -10,12 +10,26 @@
 * 工具
   * [Sublime Text 3](http://www.sublimetext.com)
   * 浏览器
-    * Firebug（浏览器内置调试工具）
-    * [Lantern](http://www.iyaxi.com/2015-11-17/732.html)（翻墙工具）
-  * Photoshop
+    * IE（不推荐IE8及更低版本的浏览器）
+    * Firefox
+    * Chorme
+    * Safari
+    * Opera
+  * Firebug（浏览器内置调试工具）
+  * [Lantern](http://www.iyaxi.com/2015-11-17/732.html)（翻墙工具）
+  * 切图 + 其他处理：Photoshop
+  * [快速取色量度：Markman](http://www.getmarkman.com)
+  * [雪碧图生成工具：CSS Sprite Generator](http://www.cn.spritegen.website-performance.org)
+  * [Koala](http://koala-app.com/index.html)
+  * [Can I use?](http://caniuse.com)
+  * 版本管理：[GitHub](https://github.com)
+  * 项目架构 / 代码优化：[Gulp](http://www.gulpjs.com.cn)
+  * Navicat for MySQL
+  * WampServer
 
-* [规范](http://codeguide.bootcss.com)
-  * 代码必须按照规范编写！
+* [代码规范](http://codeguide.bootcss.com)
+* [W3C规范](https://www.w3.org)
+* HTTP
 
 * [html](http://www.runoob.com/html/html-tutorial.html)
   * html4 + html5
@@ -65,10 +79,6 @@
   * event对象
   * eval()将字符串转换为Javascript语句并执行（只用于绝对信任的字符串！防止代码注入和XSS攻击）
 
-* [coffeeScript](http://coffee-script.org)
-  * coffeeScript和sass一样都是预编译，一样可以使用Koala编译
-  * coffeeScript使你编写javascript更加方便！
-
 * [jquery](http://edu.51cto.com/index.php?do=lession&id=14456)
   * jquery使DOM操作和ajax请求变得更加方便，但是在你的项目中不是必须引入的，有时候javascript比jquery更省资源！
 
@@ -79,30 +89,41 @@
 
 * json
 
-* Bootstrap
-  * 非常易学的响应式框架
-  * 官网：http://v3.bootcss.com/
-  * 教程：http://www.runoob.com/bootstrap/bootstrap-tutorial.html
-
-* Foundation
-  * 和Bootstrap不一样，Foundation _不支持_ IE8-！
-  * 教程：http://www.runoob.com/foundation/foundation-tutorial.html
-
 * AngularJS
   * AngularJS是MVC框架
 
 * Vue
   * Vue是MVVM框架
 
+* [coffeeScript](http://coffee-script.org)
+  * coffeeScript和sass一样都是预编译，一样可以使用[Koala](http://koala-app.com/index.html)编译
+  * coffeeScript使你编写javascript更加方便！
+
+* Bootstrap
+  * 非常易学的响应式框架
+  * 官网：http://v3.bootcss.com/
+  * 教程：http://www.runoob.com/bootstrap/bootstrap-tutorial.html
+
+* Foundation
+  * 和Bootstrap不一样，Foundation *不支持IE8-！*
+  * 教程：http://www.runoob.com/foundation/foundation-tutorial.html
+
+* [jQuery Mobile](http://jquerymobile.com/)
+
+* [D3](https://d3js.org/) - javascript可视化
+
 * Node.js
   * Gulp
 
+* SEO
+
 * 其他
-  * HTTP
   * PHP
   * XML
   * DTD
   * web安全
+    * XSS攻击
+    * CSRF攻击
 
 ## 我的项目
 
