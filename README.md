@@ -2,7 +2,7 @@
 
 > 博客地址：http://1025623017.github.io/blog
 >
->[前端知识树](http://1025623017.github.io/blog/images/tree.jpg)
+>[前端知识树图](http://1025623017.github.io/blog/images/tree.jpg)
 
 ## 知识分享
 ###### （注：分享的并不是全部，而是重要的部分）
@@ -27,16 +27,18 @@
   * Navicat for MySQL
   * WampServer
 
-*规范
+* 规范
   * [代码规范](http://codeguide.bootcss.com)
   * [W3C标准](https://www.w3.org)
   * [HTTP权威指南](https://book.douban.com/subject/10746113)
 
 * [html](http://www.runoob.com/html/html-tutorial.html)
-  * html4 + html5
+  * html4
+  * html5
 
 * [css](http://www.runoob.com/css/css-tutorial.html)
-  * css2 + css3
+  * css2
+  * css3
 
 * [sass](http://www.ruanyifeng.com/blog/2012/06/sass.html)
   * sass可谓是写css的神器！随着我对css越来越熟悉，sass也出现在我的眼前。原生css真的很麻烦，代码量大是其次，最主要是它的结构不够清晰。sass是通过嵌套形式编写css的，这使得我们更易于管理调试css。
@@ -87,8 +89,11 @@
   * 正则表达式是验证数据的手法
 
 * ajax
+  * javascript中的ajax
+  * jquery中的ajax
 
 * json
+  * 注意，json是一门独立的语言
 
 * AngularJS
   * AngularJS是MVC框架
