@@ -18,8 +18,8 @@
     * Chorme(Blink)
     * Safari(WebKit)
     * Opera(Blink)
-  * Firebug（浏览器内置调试工具）
-  * [Lantern](http://www.iyaxi.com/2015-11-17/732.html)（翻墙工具）
+  * 浏览器内置调试工具：Firebug
+  * 翻墙工具：[Lantern](http://www.iyaxi.com/2015-11-17/732.html)
   * 切图 + 其他处理：Photoshop
   * 快速取色量度：[Markman](http://www.getmarkman.com)
   * 雪碧图生成工具：[CSS Sprite Generator](http://www.cn.spritegen.website-performance.org)
@@ -37,7 +37,12 @@
 
 * [html](http://www.runoob.com/html/html-tutorial.html)
   * html4
+    * html是非常容易上手的语言，注意缩进、模块化即可。
+    * 国内仍有许多IE8-用户，html4的标签仍会起着非常重要的作用。但即使如此，我们仍然可以使用html5模版，所有浏览器都支持`<!DOCTYPE html>`标签，写代码的时候就等于在html5里面写html4的标签。
   * html5
+    * 增加语义化标签header, section, footer, aside, nav, main, article, figure （引入插件可以使IE8支持这些标签）
+    * 增加新属性（input的新属性支持度比较差）
+    * 增加canvas，基于javascript的绘图API
 
 * [css](http://www.runoob.com/css/css-tutorial.html)
   * css2
