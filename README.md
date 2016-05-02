@@ -10,11 +10,11 @@
 * 工具
   * [Sublime Text 3](http://www.sublimetext.com)
   * 浏览器
-    * IE（不推荐IE8及更低版本的浏览器）
-    * Firefox
-    * Chorme
-    * Safari
-    * Opera
+    * IE（不推荐IE8及更低版本的浏览器）(Trident)
+    * Firefox(Gecko)
+    * Chorme(Blink)
+    * Safari(WebKit)
+    * Opera(Blink)
   * Firebug（浏览器内置调试工具）
   * [Lantern](http://www.iyaxi.com/2015-11-17/732.html)（翻墙工具）
   * 切图 + 其他处理：Photoshop
@@ -38,7 +38,25 @@
 
 * [css](http://www.runoob.com/css/css-tutorial.html)
   * css2
+    * 优先级：内联式>嵌入式>外部式
+    * 重复选择器将以最后一个为准（代码重写）
+    * 某些样式具有继承性
+    * 权值：标签的权值为1，类选择符的权值为10，ID选择符的权值最高为100，!important权值最高
+    * 文字大小颜色装饰、段落对齐缩进行高，文字字母间距
+    * 块状元素：div/p/h1-6/ol/ul/dl/table/form/address/blockquote(独占一行，全可设)
+    * 内联元素:a/span/br/i/em/strong/q/code(并肩并自动换行，w、h、mt、mb不可设置)
+    * 内联块元素：input/img(同时拥有内联和块属性，全可设)
+    * 隐藏元素：display:none;
+    * 盒子模型：边框、内外边距、宽高
+    * 文档流
+    * css代码缩写：
+      * 盒子模型上下左右缩写
+      * 颜色值缩写
+      * 字体缩写font:italic small-caps bold 12px/1.5em "宋体";(前提有font-zise和font-family)
+    * css长度单位：rem、em、px、%
+    * 其他请自行查询[手册](http://www.w3school.com.cn/cssref/index.asp)
   * css3
+    * 动画
 
 * [sass](http://www.ruanyifeng.com/blog/2012/06/sass.html)
   * sass可谓是写css的神器！随着我对css越来越熟悉，sass也出现在我的眼前。原生css真的很麻烦，代码量大是其次，最主要是它的结构不够清晰。sass是通过嵌套形式编写css的，这使得我们更易于管理调试css。
@@ -84,6 +102,18 @@
 
 * [jquery](http://edu.51cto.com/index.php?do=lession&id=14456)
   * jquery使DOM操作和ajax请求变得更加方便，但是在你的项目中不是必须引入的，有时候javascript比jquery更省资源！
+  * jquery版本
+  * 选择器
+  * 修改属性
+  * 修改css
+  * DOM操作
+  * DOM筛选
+  * 事件
+  * 动画
+  * event对象
+  * ajax
+  * jquery工具
+  * jquery插件
 
 * [正则表达式](http://wsq.discuz.qq.com/?c=index&a=viewthread&f=wx&tid=85503&siteid=261146700&source=mq&_wv=1)
   * 正则表达式是验证数据的手法
@@ -122,6 +152,11 @@
   * Gulp
 
 * SEO
+  * 代码简练
+  * 减少链接或设置rel="nofollow"
+  * 正确的meta、title标签
+  * 面包屑(让用户了解所在位置)
+  * html语义化(使用适当标签)
 
 * 其他
   * PHP
