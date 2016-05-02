@@ -18,8 +18,8 @@
   * Firebug（浏览器内置调试工具）
   * [Lantern](http://www.iyaxi.com/2015-11-17/732.html)（翻墙工具）
   * 切图 + 其他处理：Photoshop
-  * [快速取色量度：Markman](http://www.getmarkman.com)
-  * [雪碧图生成工具：CSS Sprite Generator](http://www.cn.spritegen.website-performance.org)
+  * 快速取色量度：[Markman](http://www.getmarkman.com)
+  * 雪碧图生成工具：[CSS Sprite Generator](http://www.cn.spritegen.website-performance.org)
   * [Koala](http://koala-app.com/index.html)
   * [Can I use?](http://caniuse.com)
   * 版本管理：[GitHub](https://github.com)
@@ -27,9 +27,10 @@
   * Navicat for MySQL
   * WampServer
 
-* [代码规范](http://codeguide.bootcss.com)
-* [W3C规范](https://www.w3.org)
-* HTTP
+*规范
+  * [代码规范](http://codeguide.bootcss.com)
+  * [W3C标准](https://www.w3.org)
+  * [HTTP权威指南](https://book.douban.com/subject/10746113)
 
 * [html](http://www.runoob.com/html/html-tutorial.html)
   * html4 + html5
@@ -124,6 +125,10 @@
   * web安全
     * XSS攻击
     * CSRF攻击
+
+## 书籍
+
+* https://www.douban.com/doulist/13701898/
 
 ## 我的项目
 
