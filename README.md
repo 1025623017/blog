@@ -192,7 +192,7 @@
     * 编辑器：Sublime Text 3
     * 主调试浏览器：Google Chorme
   * 技术选型：
-    * html4 + css3
+    * html5 + css3
     * javascript + jquery
     * sass
     * Foundation / Bootstrap
@@ -202,3 +202,24 @@
     * 颜色搭配
   * 相关链接：
     * http://www.mmvtc.cn/templet/jsjgcx/index.jsp
+
+* [数码相机商城](http://1025623017.hgfree.kuxier.club)
+  * 介绍：
+    * 在校期间的PHP课程期末作品，使用TP开发后台的一个网站，这是一个响应式网站。
+  * 开发环境：
+    * 操作系统：windows 7
+    * 编辑器：Sublime Text 3
+    * 主调试浏览器：Google Chorme
+  * 技术选型：
+    * html5 + css3
+    * javascript + jquery
+    * sass
+    * Foundation / Bootstrap
+  * 职责领域：
+    * 前端代码编写
+    * 图片处理
+    * 颜色搭配
+  * 相关链接：
+    * http://1025623017.hgfree.kuxier.club
+
+_持续更新，了解更多请浏览我的[博客](http://1025623017.github.io/blog)_
