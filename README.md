@@ -161,7 +161,7 @@
 
 * Node.js
   * Node.js引起了前端的工业革命，它使前端不仅仅是前端，使javascript变得无比强大。
-  * Gulp
+  * [Gulp](http://jingyan.baidu.com/article/f79b7cb37ec0219145023e79.html)
 
 * SEO
   * 代码简练
