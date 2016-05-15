@@ -35,11 +35,11 @@
 
 - 规范
   - [代码规范](http://codeguide.bootcss.com)
-  - [W3C标准](https://www.w3.org)
+  - [W3C中文网](http://www.chinaw3c.org/)
   - [HTTP权威指南](https://book.douban.com/subject/10746113)
 
 - [html](http://www.runoob.com/html/html-tutorial.html)
-  - html4
+  - html4.01
     - html是非常容易上手的语言，注意缩进、模块化即可。
     - 国内仍有许多IE8-用户，html4的标签仍会起着非常重要的作用。但即使如此，我们仍然可以使用html5模版，所有浏览器都支持`<!DOCTYPE html>`标签，写代码的时候就等于在html5里面写html4的标签。
   - html5
@@ -60,9 +60,9 @@
     - 某些样式具有继承性
     - 权值：标签的权值为1，类选择符的权值为10，ID选择符的权值最高为100，!important权值最高
     - 文字大小颜色装饰、段落对齐缩进行高，文字字母间距
-    - 块状元素：div/p/h1-6/ol/ul/dl/table/form/address/blockquote(独占一行，全可设)
-    - 内联元素:a/span/br/i/em/strong/q/code(并肩并自动换行，w、h、mt、mb不可设置)
-    - 内联块元素：input/img(同时拥有内联和块属性，全可设)
+    - 块状元素：div/p/h1-6/ol/ul/dl/table/form/address/blockquote
+    - 内联元素:a/span/br/i/em/strong/q/code
+    - 内联块元素：input/img
     - 隐藏元素：display:none;
     - 盒子模型：边框、内外边距、宽高
     - 文档流
