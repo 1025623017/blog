@@ -174,6 +174,7 @@
   - html语义化(使用适当标签，重要内容放前面)
 
 - 其他
+  - [Markdown](http://sspai.com/25137)
   - PHP
   - XML
   - DTD
