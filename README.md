@@ -73,7 +73,9 @@
     - css长度单位：rem、em、px、%
     - 其他请自行查询[手册](http://www.w3school.com.cn/cssref/index.asp)
   - css3
+    - 让css3兼容低级浏览器的[Modernizr.js](http://www.tuicool.com/articles/UVnEVj)
     - 动画
+    - 特别推荐此书：[《CSS Secrets》](https://github.com/cssmagic/CSS-Secrets)
 
 - [sass](http://www.ruanyifeng.com/blog/2012/06/sass.html)
   - sass可谓是写css的神器！随着我对css越来越熟悉，sass也出现在我的眼前。原生css真的很麻烦，代码量大是其次，最主要是它的结构不够清晰。sass是通过嵌套形式编写css的，这使得我们更易于管理调试css。
