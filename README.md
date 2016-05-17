@@ -70,7 +70,7 @@
       - 盒子模型上下左右缩写
       - 颜色值缩写
       - 字体缩写font: italic small-caps bold 12px/1.5em "宋体";(前提有font-zise和font-family)
-    - css长度单位：rem、em、px、%
+    - css长度单位：rem、em、px、%、vw等
     - float原理：实现文字环绕效果
     - float的：
       - 包裹：收缩(缩宽)、坚挺(撑高)、隔绝
