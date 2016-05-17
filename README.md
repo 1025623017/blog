@@ -71,6 +71,24 @@
       - 颜色值缩写
       - 字体缩写font: italic small-caps bold 12px/1.5em "宋体";(前提有font-zise和font-family)
     - css长度单位：rem、em、px、%
+    - float原理：实现文字环绕效果
+    - float的：
+      - 包裹：收缩(缩宽)、坚挺(撑高)、隔绝
+      - 破坏：父元素高度塌陷
+      - 兼容性差(替代float的方法)：
+        - display: table-cell;
+        - width:2000px;
+        - *display: inline-block;
+        - *width: auto;
+    - FC：指页面中的一个渲染区域，并且拥有一套渲染规则，他决定了其子元素如何定位，以及与其他元素的相互关系和作用
+    - BFC：Block formatting context(块级格式化上下文)，它是指一个独立的块级渲染区域，只有Block-level BOX参与，该区域拥有一套渲染规则来约束块级盒子的布局，且与区域外部无关。
+    - absolute(float的兄弟)：
+      - 无依赖：不设父元素relative和定位值，具有跟随性(相对定位效果)，设置内外边距即可
+      - 下拉框、图标定位、居中靠右定位、对齐
+    - body平级下的爆裂全屏模式：
+      - html,body{height: 100%;}
+      - top/bottom/left/right全设，能在无宽度父元素内使用百分比宽高
+    - overflow: visible;解决IE7按钮左右内空白增多
     - 其他请自行查询[手册](http://www.w3school.com.cn/cssref/index.asp)
   - css3
     - 让css3兼容低级浏览器的[Modernizr.js](http://www.tuicool.com/articles/UVnEVj)
@@ -155,6 +173,7 @@
   - 官网：http://v3.bootcss.com/
   - 教程：http://www.runoob.com/bootstrap/bootstrap-tutorial.html
   - Bootstrap用起来是非常简单的，只需要引入它的2个文件，在它的js前引入jquery，即可运行起来。Bootstrap没什么好说的，写上对应的class和html结构即可实现响应式。
+  - [Bootstrap轮播实例](https://gist.github.com/1025623017/402225548153ca13a467b37825429e37)
 
 - Foundation
   - 教程：http://www.runoob.com/foundation/foundation-tutorial.html
