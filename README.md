@@ -155,11 +155,12 @@
 - [正则表达式](http://wsq.discuz.qq.com/?c=index&a=viewthread&f=wx&tid=85503&siteid=261146700&source=mq&_wv=1)
 
 - ajax
-  - javascript中的ajax
-  - jquery中的ajax
+    - 天气预报API
+    - 数据分页
+    - 表单服务器数据验证
 
 - json
-  - 注意，json是一门独立的语言
+  - json是一门独立的语言
 
 - AngularJS
 
