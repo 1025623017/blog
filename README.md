@@ -5,7 +5,6 @@
 >[前端知识树图](http://1025623017.github.io/blog/images/tree.jpg)
 
 ## 知识分享
-###### （注：分享的并不是全部，而是重要的部分）
 
 - 工具
   - [Sublime Text 3](http://www.sublimetext.com)
@@ -44,14 +43,14 @@
     - 国内仍有许多IE8-用户，html4的标签仍会起着非常重要的作用。但即使如此，我们仍然可以使用html5模版，所有浏览器都支持`<!DOCTYPE html>`标签，写代码的时候就等于在html5里面写html4的标签。
   - html5
     - 增加语义化标签（引入插件可以使IE8支持这些标签）
-    - 增加新属性（兼容性自行百度）
-    - canvas（比较高大上，没学）
+    - 增加新属性
+    - canvas
     - SVG（可缩放矢量图形，没有锯齿的图像）
     - MathM（输出数学表达式）
     - 拖放功能（拖拽上传文件功能、html5游戏等等）
-    - 地理位置（适合手机应用）
-    - localStorage 和 sessionStorage（非常重要的知识点）
-    - 其他功能因兼容性非常不好（IE不配合啊···），这里请查看[手册](http://www.runoob.com/html/html5-intro.html)
+    - 地理位置
+    - localStorage 和 sessionStorage
+    - [html5手册](http://www.runoob.com/html/html5-intro.html)
 
 - [css](http://www.runoob.com/css/css-tutorial.html)
   - css2
