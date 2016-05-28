@@ -91,7 +91,6 @@
     - 其他请自行查询[手册](http://www.w3school.com.cn/cssref/index.asp)
   - css3
     - 让css3兼容低级浏览器的[Modernizr.js](http://www.tuicool.com/articles/UVnEVj)
-    - 动画
     - 特别推荐此书：[《CSS Secrets》](https://github.com/cssmagic/CSS-Secrets)
 
 - [sass](http://www.ruanyifeng.com/blog/2012/06/sass.html)
