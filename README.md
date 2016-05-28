@@ -28,6 +28,7 @@
   - 版本管理：[GitHub](https://github.com)→[GitHub客户端](https://desktop.github.com)
   - [NodeJS & 淘宝npm](http://npm.taobao.org)
   - 项目架构 / 代码优化：[Gulp](http://www.gulpjs.com.cn)
+  - 编辑器插件：[ckeditor](http://ckeditor.com/)
   - 其他
     - 数据库：[Navicat for MySQL](http://navicatformysql.en.softonic.com)
     - 服务器：[WampServer](http://www.wampserver.com)
@@ -103,8 +104,9 @@
 
 - [javascript](http://edu.51cto.com/lesson/id-2376.html)
   - 我学过C、java、PHP这些语言，但javascript对我来说更有魅力。javascript没有类的概念，而是“一切皆对象”，在其它语言的眼里，它就像是一个怪胎，可我却不这么认为，可能是我C和java学得不好（笑）。
-  - javascript的历史
-    - 雷锋和雷峰塔，说的就是javascript和java，没半点关系好不好！（其他请自行Google或Baidu）
+  - javascript的[历史](http://baike.baidu.com/view/16168.htm)
+    - javascript和java没有任何关系
+  }
   - 基于对象、事件驱动、松散型语言
     - 一切皆对象，像“var a = 0;”这样，a也是先转换成对象再销毁
     - 用函数或匿名函数来定义事件并且被调用触发
