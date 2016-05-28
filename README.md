@@ -84,7 +84,7 @@
     - absolute(float的兄弟)：
       - 无依赖：不设父元素relative和定位值，具有跟随性(相对定位效果)，设置内外边距即可
       - 下拉框、图标定位、居中靠右定位、对齐
-    - body平级下的爆裂全屏模式：
+    - body平级下的全屏模式：
       - html,body{height: 100%;}
       - top/bottom/left/right全设，能在无宽度父元素内使用百分比宽高
     - overflow: visible;解决IE7按钮左右内空白增多
