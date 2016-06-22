@@ -103,10 +103,7 @@
     - [教程](http://www.tuicool.com/articles/NNbaM3)
 
 - [javascript](http://edu.51cto.com/lesson/id-2376.html)
-  - 我学过C、java、PHP这些语言，但javascript对我来说更有魅力。javascript没有类的概念，而是“一切皆对象”，在其它语言的眼里，它就像是一个怪胎，可我却不这么认为，可能是我C和java学得不好（笑）。
-  - javascript的[历史](http://baike.baidu.com/view/16168.htm)
-    - javascript和java没有任何关系
-  }
+  - [廖雪峰JavaScript教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
   - 基于对象、事件驱动、松散型语言
     - 一切皆对象，像“var a = 0;”这样，a也是先转换成对象再销毁
     - 用函数或匿名函数来定义事件并且被调用触发
@@ -185,7 +182,6 @@
 - [D3](https://d3js.org/) - javascript可视化
 
 - Node.js
-  - Node.js引起了前端的工业革命，它使前端不仅仅是前端，使javascript变得无比强大。
   - [Gulp](http://jingyan.baidu.com/article/f79b7cb37ec0219145023e79.html)
 
 - SEO
