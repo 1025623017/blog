@@ -1,0 +1,96 @@
+@charset "utf-8";
+/*
+ *此文件为公共模块
+ *
+ *侧边栏
+ *主要内容
+ *轮播
+ *********************************************************/
+
+
+
+/*
+ *侧边栏
+ *********************************************************/
+.side-bar{
+  margin-top: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background: url("../images/bg_snow.gif");
+  .cat-title{
+    margin-top: 20px;
+    font-size: 18px;
+    background: #84c2e0;
+    color: #fff;
+  }
+  li{
+    border-bottom: 1px dashed #000;
+    font-size: 16px;
+    a{
+      display: inline-block;
+      width: 100%;
+      padding: 10px;
+      border-radius: 5px;
+      &:hover{
+        background: #1173b5;
+        color: #fff;
+      }
+    }
+  }
+}
+
+
+
+/*
+ *主要内容
+ *********************************************************/
+.main-list{
+  .container{
+    padding: 10px;
+    ul{
+      height: 250px;
+      overflow: auto;
+    }
+    li{
+      line-height: 28px;
+    }
+  }
+  .more{
+    font-size: 12px;
+    line-height: 22px;
+    color: #000;
+    &:hover{
+      color: #1173b5;
+    }
+  }
+}
+
+
+
+/*
+ *轮播
+ *********************************************************/
+.scroll{
+  ul{
+    height: 300px!important;
+  }
+  li{
+    float: left;
+    margin: 0 10px;
+    img{
+      width: 220px;
+      height: 130px;
+    /*
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+    */
+    }
+    span{
+      display: inline-block;
+      width: 220px;
+      white-space: pre-wrap;
+      text-indent: 0;
+    }
+  }
+}

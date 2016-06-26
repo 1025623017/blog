@@ -1,0 +1,170 @@
+@charset "utf-8";
+/*
+ *此文件为公共模块
+ *
+ *初始化
+ *头部
+ *版权
+ *返回顶部
+ *********************************************************/
+
+
+
+/*
+ *初始化
+ *********************************************************/
+html,body{
+  overflow-x: hidden;
+}
+body{
+  font-family: "微软雅黑";
+  font-size: 14px;
+  background: url("../images/bg_sq.gif");
+}
+ul,li{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+img{
+  display: block;
+}
+a{
+  transition: all;
+  transition-duration: .2s;
+  text-decoration: none;
+  &:hover,
+  &:focus{
+    text-decoration: none;
+    outline: none;
+  }
+}
+p{
+  text-indent: 2em;
+  line-height: 25px;
+}
+.bg{
+  background: url("../images/bg_snow.gif");
+}
+.cat-title{
+  margin-top: 20px;
+  padding: 10px;
+  font-size: 16px;
+  font-weight: 800;
+  color: #1173b5;
+  background: url("../images/bg_title.gif");
+  border-radius: 5px;
+}
+.side-list{
+  a{
+    display: inline-block;
+    width: 100%;
+    padding: 7px 10px;
+    border-radius: 5px;
+    &:hover{
+      color: #fff;
+      background: #1173b5;
+    }
+  }
+}
+.breadcrumb{
+  position: relative;
+  top: 30px;
+}
+.pdf{
+  margin-top: 10px;
+  width: 100%;
+  height: 800px;
+}
+/*宽度限制*/
+.main{
+  margin: 0 auto;
+  max-width: 1100px;
+}
+/*框架样式重写*/
+.container{
+  width: 100%;
+}
+.nav>li{
+  font-size: 16px;
+}
+.navbar-default{
+  margin-bottom: 0;
+}
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-default .navbar-brand:hover,
+.dropdown-menu>li>a:hover{
+  color: #0073e6;
+}
+.dropdown-menu>li>a{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.navbar-nav>li{
+  &:hover,
+  &.active{
+    border-bottom: 3px #0073e6 solid;
+  }
+}
+
+
+
+/*
+ *头部
+ *********************************************************/
+#banner{
+  img{
+    width: 100%;
+  }
+  .swf{
+    width: 100%;
+    height: 250px;
+    border: 0;
+  }
+}
+.date{
+  padding: 7px;
+  font-weight: 800;
+  background: url("../images/bg_snow.gif");
+}
+
+
+
+/*
+ *版权
+ *********************************************************/
+#footer{
+  margin-top: 20px;
+  padding: 5px 0;
+  border: 1px #e7e7e7 solid;
+  background: #f8f8f8;
+  .row>div{
+    padding: 10px 30px;
+  }
+}
+
+
+
+/*
+ *返回顶部
+ *********************************************************/
+#toTop{
+  position: fixed;
+  bottom: 5%;
+  right: 3%;
+  display: inline-block;
+  width: 45px;
+  height: 45px;
+  font-size: 20px;
+  line-height: 40px;
+  color: #fff;
+  border: 2px #ddd solid;
+  background: #155799;
+  background-image: linear-gradient(120deg,#155799,#84c2e0);
+  &:hover{
+    background: #155799;
+    border: 2px #fff solid;
+    color: #fff;
+    text-decoration: none;
+  }
+}

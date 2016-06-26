@@ -1,0 +1,85 @@
+@charset "UTF-8";
+/*
+ *此文件为公共模块
+ *
+ *侧边栏
+ *主要内容
+ *轮播
+ *********************************************************/
+/*
+ *侧边栏
+ *********************************************************/
+.side-bar {
+  margin-top: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background: url("../images/bg_snow.gif");
+}
+.side-bar .cat-title {
+  margin-top: 20px;
+  font-size: 18px;
+  background: #84c2e0;
+  color: #fff;
+}
+.side-bar li {
+  border-bottom: 1px dashed #000;
+  font-size: 16px;
+}
+.side-bar li a {
+  display: inline-block;
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+}
+.side-bar li a:hover {
+  background: #1173b5;
+  color: #fff;
+}
+
+/*
+ *主要内容
+ *********************************************************/
+.main-list .container {
+  padding: 10px;
+}
+.main-list .container ul {
+  height: 250px;
+  overflow: auto;
+}
+.main-list .container li {
+  line-height: 28px;
+}
+.main-list .more {
+  font-size: 12px;
+  line-height: 22px;
+  color: #000;
+}
+.main-list .more:hover {
+  color: #1173b5;
+}
+
+/*
+ *轮播
+ *********************************************************/
+.scroll ul {
+  height: 300px !important;
+}
+.scroll li {
+  float: left;
+  margin: 0 10px;
+}
+.scroll li img {
+  width: 220px;
+  height: 130px;
+  /*
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  */
+}
+.scroll li span {
+  display: inline-block;
+  width: 220px;
+  white-space: pre-wrap;
+  text-indent: 0;
+}
