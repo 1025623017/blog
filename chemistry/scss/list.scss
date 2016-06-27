@@ -12,7 +12,22 @@
  *********************************************************/
 .side-bar{
   .cat-title{
-    background: #84c2e0;
+    background: #1173b5;
     color: #fff;
+  }
+  a{
+    &:hover{
+      background: #59a0e5;
+      color: #fff;
+    }
+  }
+}
+.success-list{
+  padding: 30px 0;
+  li{
+    padding: 0 0 20px 45px;
+  }
+  a{
+    font-size: 16px;
   }
 }

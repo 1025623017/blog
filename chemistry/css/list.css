@@ -8,6 +8,20 @@
  *侧列表
  *********************************************************/
 .side-bar .cat-title {
-  background: #84c2e0;
+  background: #1173b5;
   color: #fff;
+}
+.side-bar a:hover {
+  background: #59a0e5;
+  color: #fff;
+}
+
+.success-list {
+  padding: 30px 0;
+}
+.success-list li {
+  padding: 0 0 20px 45px;
+}
+.success-list a {
+  font-size: 16px;
 }

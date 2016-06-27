@@ -43,16 +43,20 @@ p{
   text-indent: 2em;
   line-height: 25px;
 }
+video{
+  margin: 20px 0;
+}
 .bg{
   background: url("../images/bg_snow.gif");
 }
 .cat-title{
   margin-top: 20px;
   padding: 10px;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 800;
   color: #1173b5;
   background: url("../images/bg_title.gif");
+  border: 1px #1173b5 dotted;
   border-radius: 5px;
 }
 .side-list{
@@ -60,7 +64,6 @@ p{
     display: inline-block;
     width: 100%;
     padding: 7px 10px;
-    border-radius: 5px;
     &:hover{
       color: #fff;
       background: #1173b5;
@@ -90,20 +93,54 @@ p{
 }
 .navbar-default{
   margin-bottom: 0;
+  border-bottom: 2px #1173b5 solid;
+}
+.navbar-default .navbar-nav>li>a{
+  color: #fff;
 }
 .navbar-default .navbar-nav>li>a:hover,
-.navbar-default .navbar-brand:hover,
 .dropdown-menu>li>a:hover{
-  color: #0073e6;
+  color: #59a0e5!important;
+  background: #fff;
 }
 .dropdown-menu>li>a{
   padding-top: 10px;
   padding-bottom: 10px;
 }
-.navbar-nav>li{
-  &:hover,
-  &.active{
-    border-bottom: 3px #0073e6 solid;
+.navbar{
+  background-color: #59a0e5;
+  .navbar-brand,
+  .dropdown-toggle{
+    color: #fff!important;
+  }
+}
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover,
+.nav .open>a,
+.nav .open>a:focus,
+.nav .open>a:hover{
+  color: #59a0e5!important;
+  background-color: #fff!important;
+}
+.navbar-default .navbar-toggle:focus,
+.navbar-default .navbar-toggle:hover{
+  background-color: #fff;
+}
+.navbar-default .navbar-toggle .icon-bar{
+  background-color: #fff;
+}
+.navbar-default .navbar-toggle:focus .icon-bar,
+.navbar-default .navbar-toggle:hover .icon-bar{
+  background-color: #59a0e5;
+}
+@media (max-width: 767px){
+  .navbar-default .navbar-nav .open .dropdown-menu>li>a{
+    color: #fff;
+    &:hover{
+      color: #59a0e5;
+      background-color: #fff;
+    }
   }
 }
 

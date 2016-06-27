@@ -18,7 +18,7 @@ $(function() {
   //导航条响应
   var nav_h = $("#nav").height();
   $("#banner").css({
-    "marginTop": nav_h
+    "marginTop": nav_h+2
   });
   if($(window).width()<=974 && $(window).width()>=360) {
     $(".side-bar img.center-block").css({"width": "50%"});
@@ -28,7 +28,7 @@ $(function() {
   $(window).resize(function() {
     var nav_h = $("#nav").height();
     $("#banner").css({
-      "marginTop": nav_h
+      "marginTop": nav_h+2
     });
     if($(window).width()<=974 && $(window).width()>=360) {
       $(".side-bar img.center-block").css({"width": "50%"});
@@ -56,9 +56,5 @@ $(function() {
     "<span>今天是："+y+m+d+"</span>"+
     "<span>&nbsp;&nbsp;"+w+"</span>"
   );
-
-  //轮播
-  var imgL = $(".scroll ul img").length*($(".scroll ul img").width()+21);
-  $(".scroll ul").width(imgL);
 
 });
