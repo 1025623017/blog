@@ -57,6 +57,7 @@ $(function() {
     "<span>&nbsp;&nbsp;"+w+"</span>"
   );
 
-  //<a href="" download="doc/二、课程设置1-课程定位.pdf">下载此文档</a>
-  
+  var x = $(".pdf").attr("src");
+  $(".pdf").parent().append('<a href="" download="'+x+'">下载此文档</a>');
+
 });
