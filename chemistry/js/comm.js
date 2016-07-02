@@ -57,7 +57,7 @@ $(function() {
     "<span>&nbsp;&nbsp;"+w+"</span>"
   );
 
-  var x = $(".pdf").attr("src");
-  $(".pdf").parent().append('<a href="http://1025623017.github.io/blog/chemistry/'+x+'">下载此文档</a>');
+  var link = $(".main-list .pdf").attr("src");
+  $(".main-list .cat-title").after('<a style="font-size: 20px;margin-right: 30px;" href="http://1025623017.github.io/blog/chemistry/'+link+'">下载此文档</a><a href="https://get.adobe.com/reader/?loc=cn">无法查看？点击下载pdf插件</a>');
 
 });
