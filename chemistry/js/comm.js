@@ -57,7 +57,12 @@ $(function() {
     "<span>&nbsp;&nbsp;"+w+"</span>"
   );
 
-  var link = $(".main-list .pdf").attr("src");
-  $(".main-list .cat-title").after('<a style="font-size: 20px;margin-right: 30px;" href="http://1025623017.github.io/blog/chemistry/'+link+'">下载此文档</a><a href="https://get.adobe.com/reader/?loc=cn">无法查看？点击下载pdf插件</a>');
+  var  filename=location.href;
+  filename=filename.substr(filename.lastIndexOf('/')+1);
+  var reg = /^l/ig;
+  if(reg.test(filename)){
+    var link = $(".main-list .pdf").attr("src");
+    $(".main-list .cat-title").after('<a style="font-size: 20px;margin-right: 30px;" href="http://1025623017.github.io/blog/chemistry/'+link+'">下载此文档</a><a href="https://get.adobe.com/reader/?loc=cn">无法查看？点击下载pdf插件</a>');
+  }
 
 });
