@@ -58,6 +58,6 @@ $(function() {
   );
 
   var x = $(".pdf").attr("src");
-  $(".pdf").parent().append('<a href="" download="http://1025623017.github.io/blog/chemistry/'+x+'">下载此文档</a>');
+  $(".pdf").parent().append('<a href="http://1025623017.github.io/blog/chemistry/'+x+'">下载此文档</a>');
 
 });
