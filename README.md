@@ -204,6 +204,11 @@
 
 - https://www.douban.com/doulist/13701898/
 
+## 公司
+
+- 历史列表
+  - 深圳市友福同享信息科技有限公司
+
 ## 我的项目
 
 - [茂名职业技术学院-计算机工程系](http://www.mmvtc.cn/templet/jsjgcx/index.jsp)
