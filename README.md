@@ -159,9 +159,13 @@
 - json
   - json是一门独立的语言
 
-- AngularJS
-
-- Vue
+- MVVM框架
+  - AngularJS
+    - 经典
+  - Vue
+    - 不兼容IE8
+  - Avalon
+    - http://edu.51cto.com/lesson/id-46898.html
 
 - [coffeeScript](http://coffee-script.org)
   - coffeeScript和sass一样都是预编译，一样可以使用[Koala](http://koala-app.com/index.html)编译
@@ -206,8 +210,7 @@
 
 ## 公司
 
-- 历史列表
-  - 深圳市友福同享信息科技有限公司
+- 深圳市友福同享信息科技有限公司
 
 ## 我的项目
 
