@@ -151,6 +151,10 @@
 
 - [正则表达式](http://wsq.discuz.qq.com/?c=index&a=viewthread&f=wx&tid=85503&siteid=261146700&source=mq&_wv=1)
 
+- javascript库
+  - [RequireJS](http://www.wojilu.com/Forum1/Topic/4205)
+  - [D3](https://d3js.org/)：javascript可视化
+
 - ajax
     - 天气预报API
     - 数据分页
@@ -166,6 +170,14 @@
     - 不兼容IE8
   - Avalon
     - http://edu.51cto.com/lesson/id-46898.html
+    - PC端：直接引入avalon.js
+    - 移动端：avalon.modern.js + mobile.js(支持触屏事件)
+    - 禁用Avalon加载器
+      - 在avalon.config中配置
+      - 在源代码中配置
+      - 删除源代码中的AMD加载器
+      - 在[require.js](http://www.requirejs.cn/)环境下，引用avalon.shim.js
+      - ...
 
 - [coffeeScript](http://coffee-script.org)
   - coffeeScript和sass一样都是预编译，一样可以使用[Koala](http://koala-app.com/index.html)编译
@@ -182,8 +194,6 @@
   - 和Bootstrap不一样，Foundation -不支持IE8-！-
 
 - [jQuery Mobile](http://jquerymobile.com/)
-
-- [D3](https://d3js.org/) - javascript可视化
 
 - Node.js
   - [Gulp](http://jingyan.baidu.com/article/f79b7cb37ec0219145023e79.html)
