@@ -177,7 +177,8 @@
       - 在源代码中配置
       - 删除源代码中的AMD加载器
       - 在[require.js](http://www.requirejs.cn/)环境下，引用avalon.shim.js
-      - ...
+    - Avalon fekit部署
+      - https://github.com/rinh/fekit
 
 - [coffeeScript](http://coffee-script.org)
   - coffeeScript和sass一样都是预编译，一样可以使用[Koala](http://koala-app.com/index.html)编译
