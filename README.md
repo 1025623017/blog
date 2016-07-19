@@ -14,24 +14,31 @@
   - [Hbuilder](http://www.dcloud.io)
   - 浏览器
     - IE（不推荐IE8及更低版本的浏览器）(Trident)
-    - Firefox(Gecko)
-    - Chorme(Blink)
-    - Safari(WebKit)
-    - Opera(Blink)
+    - Chorme
+    - Firefox
+    - Opera
+    - Safari
   - 浏览器内置调试工具：Firebug
   - 翻墙工具：[Lantern](http://www.iyaxi.com/2015-11-17/732.html)
   - 切图 + 其他处理：Photoshop
-  - 快速取色量度：[Markman](http://www.getmarkman.com)
+  - 快速取色+像素量度：[Markman](http://www.getmarkman.com)
   - 雪碧图生成工具：[CSS Sprite Generator](http://www.cn.spritegen.website-performance.org)
   - Less/Sass/CoffeeScript预处理的GUI编译器：[Koala](http://koala-app.com/index.html)
   - 兼容性查询：[Can I use?](http://caniuse.com)
-  - 版本管理：[GitHub](https://github.com)→[GitHub客户端](https://desktop.github.com)
+  - 版本管理
+    - [GitHub](https://github.com)
+    - [GitHub客户端](https://desktop.github.com)
+    - [Git](https://git-scm.com/)
+    - [TortoiseSVN](https://tortoisesvn.net/)
   - [NodeJS & 淘宝npm](http://npm.taobao.org)
-  - 项目架构 / 代码优化：[Gulp](http://www.gulpjs.com.cn)
+  - 代码优化
+    - [Gulp](http://www.gulpjs.com.cn)
   - 编辑器插件：[ckeditor](http://ckeditor.com/)
+  - 后端
+    - [Navicat for MySQL](http://navicatformysql.en.softonic.com)
+    - [WampServer](http://www.wampserver.com)
   - 其他
-    - 数据库：[Navicat for MySQL](http://navicatformysql.en.softonic.com)
-    - 服务器：[WampServer](http://www.wampserver.com)
+    - _暂未添加！_
 
 - 规范
   - [代码规范](http://codeguide.bootcss.com)
@@ -152,8 +159,9 @@
 - [正则表达式](http://wsq.discuz.qq.com/?c=index&a=viewthread&f=wx&tid=85503&siteid=261146700&source=mq&_wv=1)
 
 - javascript库
-  - [RequireJS](http://www.wojilu.com/Forum1/Topic/4205)
+  - [RequireJS](http://www.wojilu.com/Forum1/Topic/4205)：JS模块化
   - [D3](https://d3js.org/)：javascript可视化
+  - [layer](http://layer.layui.com/)：web弹层组件
 
 - ajax
     - 天气预报API
@@ -207,9 +215,22 @@
   - html语义化(使用适当标签，重要内容放前面)
 
 - 其他
-  - [Markdown](http://sspai.com/25137)
-  - PHP
+  - 标记语言
+    - [Markdown](http://sspai.com/25137)
+    - [Wiki](https://www.dokuwiki.org/dokuwiki)
+  - [PHP](http://www.php.net/)
+  - PHP框架
+    - [ThinkPHP](http://www.thinkphp.cn/)
+    - [Composer](https://getcomposer.org/)
   - XML
+  - Java
+  - C
+  - C++
+  - C#
+  - ASP
+  - JSP
+  - Python
+  - Ruby
   - DTD
   - web安全
     - XSS攻击
