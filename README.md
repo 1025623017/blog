@@ -243,6 +243,7 @@
 ## 公司
 
 - 深圳市友福同享信息科技有限公司
+  - [公司Wiki](http://wiki.ufutx.net/doku.php?id=webenvconfig)
 
 ## 我的项目
 
