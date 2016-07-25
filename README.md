@@ -178,7 +178,9 @@
   - AngularJS
     - 经典
   - Vue
-    - 不兼容IE8
+    - [官方文档](http://cn.vuejs.org/guide/)
+    - [VUX教程](https://vuxjs.gitbooks.io/vux/content/)
+    - [VUX团队](vux.bearychat.com)
   - Avalon
     - http://edu.51cto.com/lesson/id-46898.html
     - PC端：直接引入avalon.js
