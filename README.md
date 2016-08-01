@@ -107,7 +107,6 @@
       - 舍弃浏览器前缀
       - 代码要变得更DRY和可维护（如衍生只需覆盖某几小条代码）
       - 理性使用预编译器（生成SoureMap减轻维护负担）和代码缩写
-      - 
       - _我的书签：P00_
 
 - [sass](http://www.ruanyifeng.com/blog/2012/06/sass.html)
