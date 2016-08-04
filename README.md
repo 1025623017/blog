@@ -65,6 +65,10 @@
     - localStorage 和 sessionStorage
     - [html5手册](http://www.runoob.com/html/html5-intro.html)
 
+- 图标库
+  - [阿里巴巴](http://www.iconfont.cn/)
+  - [icomoon](https://icomoon.io/)
+
 - [css](http://www.runoob.com/css/css-tutorial.html)
   - css2
     - 优先级：内联式>嵌入式>外部式
@@ -103,7 +107,9 @@
     - overflow: visible;解决IE7按钮左右内空白增多
     - 其他请自行查询[手册](http://www.w3school.com.cn/cssref/index.asp)
   - css3
-    - 让css3兼容低级浏览器的[Modernizr.js](http://www.tuicool.com/articles/UVnEVj)
+    - [codepen](http://codepen.io/)
+    - [threejs](http://threejs.org/)
+    - [Modernizr.js](http://www.tuicool.com/articles/UVnEVj)
     - 特别推荐此书：[《CSS Secrets》](https://github.com/cssmagic/CSS-Secrets)
       - 以下是我的《CSS Secrets》笔记
       - 舍弃浏览器前缀
@@ -225,6 +231,11 @@
 - UI设计（用户体验）
   - 不搞好用户体验，你的网站跟咸鱼有什么区别！
   - [优秀的用户界面设计](http://www.cnblogs.com/Wayou/p/goodui.html)
+  - 视觉享受
+    - https://www.graphicstock.com/
+    - http://www.webdesignclip.com/
+    - http://reeoo.com/
+    - http://lea.verou.me/
 
 - SEO
   - 代码简练
