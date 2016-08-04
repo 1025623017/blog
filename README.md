@@ -14,9 +14,11 @@
     - Sublime Text有各种好用的[插件](http://www.oschina.net/translate/20-powerful-sublimetext-plugins)
     - [汉化版下载](http://haojian138.blog.163.com/blog/static/212643110201393010438357)
     - [汉化 / 破解 / 插件](http://jingyan.baidu.com/album/ff4116259b057c12e48237b8.html?picindex=1)
+    - [APICloud](http://www.apicloud.com/)云端一体的移动应用开发平台
   - [Hbuilder](http://www.dcloud.io)
+    - [DCloud](http://ask.dcloud.net.cn/docs/#http://ask.dcloud.net.cn/article/89)
   - 浏览器
-    - IE（不推荐IE8及更低版本的浏览器）(Trident)
+    - IE
     - Chorme
     - Firefox
     - Opera
@@ -212,7 +214,10 @@
   - 教程：http://www.runoob.com/foundation/foundation-tutorial.html
   - 和Bootstrap不一样，Foundation -不支持IE8-！-
 
-- [jQuery Mobile](http://jquerymobile.com/)
+- 移动端APP应用开发
+  - [jQuery Mobile](http://jquerymobile.com/)
+  - [MUI](http://dev.dcloud.net.cn/mui/)
+  - [AUI](http://www.auicss.com/)
 
 - Node.js
   - [Gulp](http://jingyan.baidu.com/article/f79b7cb37ec0219145023e79.html)
