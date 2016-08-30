@@ -13,19 +13,19 @@
   - 推荐：APICloud Studio - Eclipse Plugins
 
 - 推荐的目录结构
-  - css[] `√`
+  - css[] 
   - error[] 
     - error.html `404页面`
   - feature[] `存放模块资源`
-  - html[] `√`
+  - html[] 
   - icon[] `APP图标`
-  - image[] `√`
+  - image[] 
   - launch[] `APP启动页`
   - res[] `存放音频视频、加密信息等资源`
-  - script[] `√`
+  - script[] 
   - wgt[] `存放子widget`
   - config.xml `配置文件`
-  - index.html `√`
+  - index.html 
 
 - 在移动端APP中的Viewport
   - 
