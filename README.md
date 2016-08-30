@@ -315,6 +315,43 @@
   - 相关链接：
     - http://1025623017.hgfree.kuxier.club
 
+------
+
+## [APICloud](http://www.apicloud.com/)开发小结
+
+- [教程](http://community.apicloud.com/bbs/forum.php?mod=viewthread&tid=9306)
+
+- [工具](http://www.apicloud.com/devtools)
+  - 推荐：APICloud Studio - Eclipse Plugins
+
+- 推荐的目录结构
+  - css[] 
+  - error[] 
+    - error.html `404页面`
+  - feature[] `存放模块资源`
+  - html[] 
+  - icon[] `APP图标`
+  - image[] 
+  - launch[] `APP启动页`
+  - res[] `存放音频视频、加密信息等资源`
+  - script[] 
+  - wgt[] `存放子widget`
+  - config.xml `配置文件`
+  - index.html 
+
+- 微信分享
+  - 首先需要安装自己的应用
+  - 使用[签名工具](https://open.weixin.qq.com/cgi-bin/showdocument?action=dir_list&t=resource/res_list&verify=1&id=open1419319167&token=e3fb99e79a53a496220daa633e66fa3065537275&lang=zh_CN)获取应用签名
+  - 在config.xml中添加wx模块的[配置代码](http://docs.apicloud.com/Client-API/Open-SDK/wx)
+  - isInstalled方法，判断当前设备是否安装微信客户端（其他方法在文档中查看即可）
+
+- 1
+  - 1
+
+- other
+
+
+
 _持续更新，了解更多请浏览我的[博客](http://1025623017.github.io/blog)_
 
 作者：Murphy Leung流星酱
