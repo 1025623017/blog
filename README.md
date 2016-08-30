@@ -343,12 +343,17 @@
   - 在config.xml中添加wx模块的[配置代码](http://docs.apicloud.com/Client-API/Open-SDK/wx)
   - isInstalled方法，判断当前设备是否安装微信客户端（其他方法在文档中查看即可）
 
-- ...
-  - ...
+- 编译自定义AppLoader
+  - 必须先进行云端控制台设置，并提交config.xml文件
+  - 申请微信的Appi和AppSecret时所填的包名、签名要与APICloud平台的一致
 
 - other
+- 
 
+- other
+- 
 
+------
 
 _持续更新，了解更多请浏览我的[博客](http://1025623017.github.io/blog)_
 
