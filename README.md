@@ -7,8 +7,10 @@
 
 ## APICloud开发小结
 
-- 工具
-  - [APICloud Studio - Eclipse Plugins](http://www.apicloud.com/devtools#eclipse)
+- [教程](http://community.apicloud.com/bbs/forum.php?mod=viewthread&tid=9306)
+
+- [工具](http://www.apicloud.com/devtools)
+  - 推荐：APICloud Studio - Eclipse Plugins
 
 - 1
   - 1
