@@ -14,6 +14,8 @@
 
 - 推荐的目录结构
   - css[] `√`
+  - error[] 
+    - error.html `404页面`
   - feature[] `存放模块资源`
   - html[] `√`
   - icon[] `APP图标`
@@ -25,7 +27,8 @@
   - config.xml `配置文件`
   - index.html `√`
 
-- other
+- 在移动端APP中的Viewport
+  - 
 
 
 - other
