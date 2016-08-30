@@ -351,7 +351,7 @@
   - 配置引擎默认行为`<preference>`
   - 配置应用运行参数`<feature>`
   - 配置云端编译选项
-`<preference>`
+
 - ...
   - ...
 
@@ -359,4 +359,4 @@
 
 _持续更新，了解更多请浏览我的[博客](http://1025623017.github.io/blog)_
 
-作者：Murphy Leung流星酱
+作者：Murphy Leung
