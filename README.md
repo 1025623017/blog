@@ -355,7 +355,6 @@
 - APLCloud应用组成
   - 父Widget+子Widget
   - 通过ID对Widget进行管理
-  - 
 
 - ...
   - ...
