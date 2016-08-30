@@ -315,8 +315,6 @@
   - 相关链接：
     - http://1025623017.hgfree.kuxier.club
 
-------
-
 ## [APICloud](http://www.apicloud.com/)开发小结
 
 - [教程](http://community.apicloud.com/bbs/forum.php?mod=viewthread&tid=9306)
@@ -345,8 +343,8 @@
   - 在config.xml中添加wx模块的[配置代码](http://docs.apicloud.com/Client-API/Open-SDK/wx)
   - isInstalled方法，判断当前设备是否安装微信客户端（其他方法在文档中查看即可）
 
-- 1
-  - 1
+- ...
+  - ...
 
 - other
 
