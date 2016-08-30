@@ -333,7 +333,7 @@
   - launch[] `APP启动页`
   - res[] `存放音频视频、加密信息等资源`
   - script[] 
-  - wgt[] `存放子widget`
+  - wgt[] `存放子Widget`
   - config.xml `配置文件`
   - index.html 
 
@@ -351,6 +351,11 @@
   - 配置引擎默认行为`<preference>`
   - 配置应用运行参数`<feature>`
   - 配置云端编译选项
+
+- APLCloud应用组成
+  - 父Widget+子Widget
+  - 通过ID对Widget进行管理
+  - 
 
 - ...
   - ...
