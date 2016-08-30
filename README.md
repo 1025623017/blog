@@ -13,26 +13,17 @@
   - 推荐：APICloud Studio - Eclipse Plugins
 
 - 推荐的目录结构
-  - css
-    - 
-  - feature
-    - 
-  - html
-    - 
-  - icon
-    - 
-  - image
-    - 
-  - launch
-    - 
-  - res
-    - 
-  - script
-    - 
-  - wgt
-    - 
-  - config.xml
-  - index.html
+  - css[] `√`
+  - feature[] `存放模块资源`
+  - html[] `√`
+  - icon[] `APP图标`
+  - image[] `√`
+  - launch[] `APP启动页`
+  - res[] `存放音频视频、加密信息等资源`
+  - script[] `√`
+  - wgt[] `存放子widget`
+  - config.xml `配置文件`
+  - index.html `√`
 
 - other
 
