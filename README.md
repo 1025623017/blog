@@ -31,8 +31,10 @@
   - 首先需要安装自己的应用
   - 使用[签名工具](https://open.weixin.qq.com/cgi-bin/showdocument?action=dir_list&t=resource/res_list&verify=1&id=open1419319167&token=e3fb99e79a53a496220daa633e66fa3065537275&lang=zh_CN)获取应用签名
   - 在config.xml中添加wx模块的[配置代码](http://docs.apicloud.com/Client-API/Open-SDK/wx)
-  - 
+  - isInstalled方法，判断当前设备是否安装微信客户端
 
+- 1
+  - 1
 
 - other
 
