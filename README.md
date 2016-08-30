@@ -27,7 +27,10 @@
   - config.xml `配置文件`
   - index.html 
 
-- 在移动端APP中的Viewport
+- 微信分享
+  - 首先需要安装自己的应用
+  - 使用[签名工具](https://open.weixin.qq.com/cgi-bin/showdocument?action=dir_list&t=resource/res_list&verify=1&id=open1419319167&token=e3fb99e79a53a496220daa633e66fa3065537275&lang=zh_CN)获取应用签名
+  - 在config.xml中添加wx模块的[配置代码](http://docs.apicloud.com/Client-API/Open-SDK/wx)
   - 
 
 
