@@ -347,11 +347,13 @@
   - 必须先进行云端控制台设置，并提交config.xml文件
   - 申请微信的Appi和AppSecret时所填的包名、签名要与APICloud平台的一致
 
-- other
-- 
+- config.xml（配置文件）的作用
+  - 配置引擎默认行为`<preference>`
+  - 配置应用运行参数`<feature>`
+  - 配置云端编译选项
 
-- other
-- 
+- ...
+  - ...
 
 ------
 
