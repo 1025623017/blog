@@ -6,6 +6,8 @@
 >
 > [Bootstrap中文网开源项目免费CDN服务](http://www.bootcdn.cn/)
 >
+> [buyee日本代购](http://buyee.jp/)
+>
 
 
 
@@ -50,6 +52,13 @@
 
 
 
+- 第三方技术支持
+  - [Youtube视频下载](http://www.clipconverter.cc/)
+  - [阿里云OSS](https://help.aliyun.com/document_detail/31883.html?spm=5176.doc31817.6.108.zNcxQ8)
+  - [Plupload文档](http://www.phpin.net/tools/plupload/)
+
+
+
 - 规范
   - [代码规范](http://codeguide.bootcss.com)
   - [W3C中文网](http://www.chinaw3c.org/)
@@ -77,8 +86,6 @@
 - 图标库
   - [阿里巴巴](http://www.iconfont.cn/)
   - [icomoon](https://icomoon.io/)
-
-
 
 - [css](http://www.runoob.com/css/css-tutorial.html)
   - css2
@@ -171,6 +178,7 @@
   - offsetTop、offsetHeight、scrollTop、scrollHeight
   - event对象
   - eval()将字符串转换为Javascript语句并执行（只用于绝对信任的字符串！防止代码注入和XSS攻击）
+  - [组件开发](http://blog.csdn.net/bingqingsuimeng/article/details/44451481)
 
 
 
@@ -199,6 +207,7 @@
   - [RequireJS](http://www.wojilu.com/Forum1/Topic/4205)：JS模块化
   - [D3](https://d3js.org/)：javascript可视化
   - [layer](http://layer.layui.com/)：web弹层组件
+  - [zTree](http://www.treejs.cn/v3/demo.php#_101)：树结构视图
 
 
 
@@ -222,7 +231,8 @@
     - [Vux demo](https://vux.li/)
     - [Vux on Github](https://github.com/airyland/vux/)
     - [Vux 沟通团队](https://vux.bearychat.com/)
-  - [Avalon](http://edu.51cto.com/lesson/id-46898.html)
+  - [Avalon](http://avalonjs.coding.me/)
+    - [视频教程](http://edu.51cto.com/lesson/id-46898.html)
     - PC端：直接引入avalon.js
     - 移动端：avalon.modern.js + mobile.js(支持触屏事件)
     - 禁用Avalon加载器
@@ -281,6 +291,7 @@
     - http://www.webdesignclip.com/
     - http://reeoo.com/
     - http://lea.verou.me/
+    - https://mediatemple.net/
 
 
 
