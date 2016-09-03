@@ -2,7 +2,8 @@
 
 > 博客地址：http://1025623017.github.io/blog
 >
-> [前端知识树图](http://1025623017.github.io/blog/images/tree.jpg)
+> 前端知识树图1：http://1025623017.github.io/blog/images/tree.jpg
+> 前端知识树图2：https://raw.githubusercontent.com/unruledboy/WebFrontEndStack/master/Web%20Front%20End%20Stack.png
 >
 > [Bootstrap中文网开源项目免费CDN服务](http://www.bootcdn.cn/)
 >
