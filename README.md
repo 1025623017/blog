@@ -217,12 +217,12 @@
 
 - MVVM框架
   - AngularJS
-  - Vue
-    - [官方文档](http://cn.vuejs.org/guide/)
-    - [VUX教程](https://vuxjs.gitbooks.io/vux/content/)
-    - [VUX团队](https://vux.bearychat.com/)
-  - Avalon
-    - http://edu.51cto.com/lesson/id-46898.html
+  - [Vue](http://cn.vuejs.org/guide/)
+    - [Vux](https://vuxjs.gitbooks.io/vux/content/)
+    - [Vux demo](https://vux.li/)
+    - [Vux on Github](https://github.com/airyland/vux/)
+    - [Vux 沟通团队](https://vux.bearychat.com/)
+  - [Avalon](http://edu.51cto.com/lesson/id-46898.html)
     - PC端：直接引入avalon.js
     - 移动端：avalon.modern.js + mobile.js(支持触屏事件)
     - 禁用Avalon加载器
@@ -298,18 +298,7 @@
     - [Markdown](http://sspai.com/25137)
     - [Wiki](https://www.dokuwiki.org/dokuwiki)
   - [PHP](http://www.php.net/)
-  - PHP框架
-    - [ThinkPHP](http://www.thinkphp.cn/)
-    - [Composer](https://getcomposer.org/)
   - XML
-  - Java
-  - C
-  - C++
-  - C#
-  - ASP
-  - JSP
-  - Python
-  - Ruby
   - DTD
   - web安全
     - XSS攻击
