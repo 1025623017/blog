@@ -35,9 +35,6 @@
     - [GitHub客户端](https://desktop.github.com)
     - [Git](https://git-scm.com/)
     - [TortoiseSVN](https://tortoisesvn.net/)
-  - [NodeJS & 淘宝npm](http://npm.taobao.org)
-  - 代码优化
-    - [Gulp](http://www.gulpjs.com.cn)
   - 编辑器插件：[ckeditor](http://ckeditor.com/)
   - 后端
     - [Navicat for MySQL](http://navicatformysql.en.softonic.com)
@@ -224,11 +221,15 @@
   - [jQuery Mobile](http://jquerymobile.com/)
   - [MUI](http://dev.dcloud.net.cn/mui/)
   - [AUI](http://www.auicss.com/)
-    - 你这个是不是给了广告费给APICloud啊？【滑稽】
-    - ...
 
 - Node.js
-  - [Gulp](http://jingyan.baidu.com/article/f79b7cb37ec0219145023e79.html)
+  - [淘宝镜像 & cnpm](http://npm.taobao.org)
+  - [Gulp](http://www.gulpjs.com.cn)
+    - `cnpm install --global gulp`
+    - `cnpm install`
+    - 在项目文件夹中：`cnpm install --save-dev gulp`
+    - `gulp`
+    - `gulp watch`
 
 - UI设计（用户体验）
   - 不搞好用户体验，你的网站跟咸鱼有什么区别！
@@ -357,9 +358,6 @@
 - APLCloud应用组成
   - 父Widget+子Widget
   - 通过ID对Widget进行管理
-
-- ...
-  - ...
 
 ------
 
