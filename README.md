@@ -7,6 +7,8 @@
 > [Bootstrap中文网开源项目免费CDN服务](http://www.bootcdn.cn/)
 >
 
+
+
 ## 知识分享
 
 - 工具
@@ -34,6 +36,10 @@
     - [GitHub](https://github.com)
     - [GitHub客户端](https://desktop.github.com)
     - [Git](https://git-scm.com/)
+      - 安装Git（windows: tortoisesvn | Mac: SourceTree）
+      - 在任意文件夹中`Git Clone`项目
+      - 保存公共密钥和私有密钥，在Clone时引入私有密钥
+      - commit - push - fetch - rebase - push
     - [TortoiseSVN](https://tortoisesvn.net/)
   - 编辑器插件：[ckeditor](http://ckeditor.com/)
   - 后端
@@ -42,10 +48,14 @@
   - 其他
     - _暂未添加！_
 
+
+
 - 规范
   - [代码规范](http://codeguide.bootcss.com)
   - [W3C中文网](http://www.chinaw3c.org/)
   - [HTTP权威指南](https://book.douban.com/subject/10746113)
+
+
 
 - [html](http://www.runoob.com/html/html-tutorial.html)
   - html4.01
@@ -62,9 +72,13 @@
     - localStorage 和 sessionStorage
     - [html5手册](http://www.runoob.com/html/html5-intro.html)
 
+
+
 - 图标库
   - [阿里巴巴](http://www.iconfont.cn/)
   - [icomoon](https://icomoon.io/)
+
+
 
 - [css](http://www.runoob.com/css/css-tutorial.html)
   - css2
@@ -114,6 +128,8 @@
       - 理性使用预编译器（生成SoureMap减轻维护负担）和代码缩写
       - _我的书签：P00_
 
+
+
 - [sass](http://www.ruanyifeng.com/blog/2012/06/sass.html)
   - sass可谓是写css的神器！随着我对css越来越熟悉，sass也出现在我的眼前。原生css真的很麻烦，代码量大是其次，最主要是它的结构不够清晰。sass是通过嵌套形式编写css的，这使得我们更易于管理调试css。
   - 或许你不喜欢使用命令行执行sass编译，那么，使用[Koala](http://koala-app.com/index.html)可以更适合你。
@@ -121,6 +137,8 @@
   - 相关链接
     - [安装sass和compass](http://devework.com/sass-compass.html)
     - [教程](http://www.tuicool.com/articles/NNbaM3)
+
+
 
 - [javascript](http://edu.51cto.com/lesson/id-2376.html)
   - [廖雪峰JavaScript教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
@@ -154,6 +172,8 @@
   - event对象
   - eval()将字符串转换为Javascript语句并执行（只用于绝对信任的字符串！防止代码注入和XSS攻击）
 
+
+
 - [jquery](http://edu.51cto.com/index.php?do=lession&id=14456)
   - jquery使DOM操作和ajax请求变得更加方便，但是在你的项目中不是必须引入的，有时候javascript比jquery更省资源！
   - jquery版本
@@ -169,24 +189,34 @@
   - jquery工具
   - jquery插件
 
+
+
 - [正则表达式](http://wsq.discuz.qq.com/?c=index&a=viewthread&f=wx&tid=85503&siteid=261146700&source=mq&_wv=1)
+
+
 
 - javascript库
   - [RequireJS](http://www.wojilu.com/Forum1/Topic/4205)：JS模块化
   - [D3](https://d3js.org/)：javascript可视化
   - [layer](http://layer.layui.com/)：web弹层组件
 
+
+
 - ajax
     - 天气预报API
     - 数据分页
     - 表单服务器数据验证
 
+
+
 - json
   - json是一门独立的语言
+  - jsonp跨域请求
+
+
 
 - MVVM框架
   - AngularJS
-    - 经典
   - Vue
     - [官方文档](http://cn.vuejs.org/guide/)
     - [VUX教程](https://vuxjs.gitbooks.io/vux/content/)
@@ -203,9 +233,13 @@
     - Avalon fekit部署
       - https://github.com/rinh/fekit
 
+
+
 - [coffeeScript](http://coffee-script.org)
   - coffeeScript和sass一样都是预编译，一样可以使用[Koala](http://koala-app.com/index.html)编译
   - coffeeScript使你编写javascript更加方便！
+
+
 
 - Bootstrap
   - 官网：http://v3.bootcss.com/
@@ -213,14 +247,20 @@
   - Bootstrap用起来是非常简单的，只需要引入它的2个文件，在它的js前引入jquery，即可运行起来。Bootstrap没什么好说的，写上对应的class和html结构即可实现响应式。
   - [Bootstrap轮播实例](https://gist.github.com/1025623017/402225548153ca13a467b37825429e37)
 
+
+
 - Foundation
   - 教程：http://www.runoob.com/foundation/foundation-tutorial.html
   - 和Bootstrap不一样，Foundation -不支持IE8-！-
+
+
 
 - 移动端APP应用开发
   - [jQuery Mobile](http://jquerymobile.com/)
   - [MUI](http://dev.dcloud.net.cn/mui/)
   - [AUI](http://www.auicss.com/)
+
+
 
 - Node.js
   - [淘宝镜像 & cnpm](http://npm.taobao.org)
@@ -231,6 +271,8 @@
     - `gulp`
     - `gulp watch`
 
+
+
 - UI设计（用户体验）
   - 不搞好用户体验，你的网站跟咸鱼有什么区别！
   - [优秀的用户界面设计](http://www.cnblogs.com/Wayou/p/goodui.html)
@@ -240,12 +282,16 @@
     - http://reeoo.com/
     - http://lea.verou.me/
 
+
+
 - SEO
   - 代码简练
   - 减少链接或在`<a>`标签中设置rel="nofollow"
   - 正确的`<meta>`、`<title>`标签
   - 面包屑(让用户了解所在位置)
   - html语义化(使用适当标签，重要内容放前面)
+
+
 
 - 其他
   - 标记语言
@@ -269,14 +315,20 @@
     - XSS攻击
     - CSRF攻击
 
+
+
 ## 书籍
 
 - https://www.douban.com/doulist/13701898/
+
+
 
 ## 公司
 
 - 深圳市友福同享信息科技有限公司
   - [公司Wiki](http://wiki.ufutx.net/doku.php?id=webenvconfig)
+
+
 
 ## 我的项目
 
@@ -317,6 +369,8 @@
     - 颜色搭配
   - 相关链接：
     - http://1025623017.hgfree.kuxier.club
+
+
 
 ## [APICloud](http://www.apicloud.com/)开发小结
 
@@ -359,7 +413,11 @@
   - 父Widget+子Widget
   - 通过ID对Widget进行管理
 
+
+
 ------
+
+
 
 _持续更新，了解更多请浏览我的[博客](http://1025623017.github.io/blog)_
 
