@@ -237,7 +237,8 @@
     - [Vue-filter](https://github.com/wy-ei/vue-filter)：时间转换过滤器，可用于处理时间戳，还有其他很好用的转换功能
     - [vue-loader](https://github.com/vuejs/vue-loader)：Vue组件化开发，结合Webpack自动化生产Vue SPA
     - [Vue-router](https://github.com/vuejs/vue-router)：Vue SPA（单页应用）的路由管理
-    - [vue-transition](https://github.com/Twiknight/vue-transition)：SPA页面切换过渡效果
+    - [vue-router-transition](https://github.com/Twiknight/vue-transition)：SPA页面切换过渡效果
+    - [vue-resource](https://github.com/vuejs/vue-resource)：Vue版AJAX
     - [Vux](https://vuxjs.gitbooks.io/vux/content/)：集成了微信UI、Vue、Webpack等，高效制作SPA（single page web application）
       - [Vux demo](https://vux.li/)：单页应用demo
       - [Vux on Github](https://github.com/airyland/vux/)
