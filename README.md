@@ -234,10 +234,14 @@
 - MVVM框架
   - AngularJS
   - [Vue](http://cn.vuejs.org/guide/)
-    - [Vux](https://vuxjs.gitbooks.io/vux/content/)
-    - [Vux demo](https://vux.li/)
-    - [Vux on Github](https://github.com/airyland/vux/)
-    - [Vux 沟通团队](https://vux.bearychat.com/)
+    - [Vue-filter](https://github.com/wy-ei/vue-filter)：时间转换过滤器，可用于处理时间戳，还有其他很好用的转换功能
+    - [vue-loader](https://github.com/vuejs/vue-loader)：Vue组件化开发，结合Webpack自动化生产Vue SPA
+    - [Vue-router](https://github.com/vuejs/vue-router)：Vue SPA（单页应用）的路由管理
+    - [vue-transition](https://github.com/Twiknight/vue-transition)：SPA页面切换过渡效果
+    - [Vux](https://vuxjs.gitbooks.io/vux/content/)：集成了微信UI、Vue、Webpack等，高效制作SPA（single page web application）
+      - [Vux demo](https://vux.li/)：单页应用demo
+      - [Vux on Github](https://github.com/airyland/vux/)
+      - [Vux 沟通团队](https://vux.bearychat.com/)：实在不懂Vux的某处东西，直接问作者
   - [Avalon](http://avalonjs.coding.me/)
     - [视频教程](http://edu.51cto.com/lesson/id-46898.html)
     - PC端：直接引入avalon.js
@@ -281,6 +285,7 @@
 
 - Node.js
   - [淘宝镜像 & cnpm](http://npm.taobao.org)
+  - [webpack](http://webpack.github.io/)：前端自动化，可与Gulp结合使用
   - [Gulp](http://www.gulpjs.com.cn)
     - `cnpm install --global gulp`
     - `cnpm install`
@@ -341,42 +346,7 @@
 ## 我的项目
 
 - [茂名职业技术学院-计算机工程系](http://www.mmvtc.cn/templet/jsjgcx/index.jsp)
-  - 介绍：
-    - 学校官网里面计算机系的系部网站改版，能参与到自己学校的网站建设中去，感到非常荣幸。这是我的第一个响应式网站，也是第一个正式发布的网站。
-  - 开发环境：
-    - 操作系统：windows 7
-    - 编辑器：Sublime Text 3
-    - 主调试浏览器：Google Chorme
-  - 技术选型：
-    - html5 + css3
-    - javascript + jquery
-    - sass
-    - Foundation / Bootstrap
-  - 职责领域：
-    - 前端代码编写
-    - 图片处理
-    - 颜色搭配
-  - 相关链接：
-    - http://www.mmvtc.cn/templet/jsjgcx/index.jsp
-
 - [数码相机商城](http://1025623017.hgfree.kuxier.club)
-  - 介绍：
-    - 在校期间的PHP课程期末作品，使用TP开发后台的一个网站，这是一个响应式网站。
-  - 开发环境：
-    - 操作系统：windows 7
-    - 编辑器：Sublime Text 3
-    - 主调试浏览器：Google Chorme
-  - 技术选型：
-    - html5 + css3
-    - javascript + jquery
-    - sass
-    - Foundation / Bootstrap
-  - 职责领域：
-    - 前端代码编写
-    - 图片处理
-    - 颜色搭配
-  - 相关链接：
-    - http://1025623017.hgfree.kuxier.club
 
 
 
