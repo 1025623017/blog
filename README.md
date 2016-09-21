@@ -215,6 +215,7 @@
   - [D3](https://d3js.org/)：javascript可视化
   - [layer](http://layer.layui.com/)：web弹层组件
   - [zTree](http://www.treejs.cn/v3/demo.php#_101)：树结构视图
+  - [HTML5 Sortable jQuery Plugin](https://github.com/farhadi/html5sortable)：拖拽拖拽排序列表
 
 
 
