@@ -34,7 +34,7 @@
     - Opera
     - Safari
   - 浏览器内置调试工具：Firebug
-  - 翻墙工具：[Lantern](http://www.iyaxi.com/2015-11-17/732.html)
+  - 翻墙工具：[Lantern](https://github.com/getlantern/lantern)
   - 切图 + 其他处理：Photoshop
   - 快速取色+像素量度：[Markman](http://www.getmarkman.com)
   - 雪碧图生成工具：[CSS Sprite Generator](http://www.cn.spritegen.website-performance.org)
