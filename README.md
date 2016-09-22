@@ -49,7 +49,9 @@
       - 保存公共密钥和私有密钥，在Clone时引入私有密钥
       - commit - push - fetch - rebase - push
     - [TortoiseSVN](https://tortoisesvn.net/)
-  - 编辑器插件：[ckeditor](http://ckeditor.com/)
+  - 编辑器插件
+    - [ckeditor](http://ckeditor.com/)
+    - [UEditor](http://fex.baidu.com/ueditor/)
   - 后端
     - [Navicat for MySQL](http://navicatformysql.en.softonic.com)
     - [WampServer](http://www.wampserver.com)
