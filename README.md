@@ -158,6 +158,7 @@
 - [javascript](http://edu.51cto.com/lesson/id-2376.html)
   - [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
   - [廖雪峰JavaScript教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
+  - [阮一峰 ECMAScript 6](http://es6.ruanyifeng.com/)
   - 基于对象、事件驱动、松散型语言
     - 一切皆对象，像“var a = 0;”这样，a也是先转换成对象再销毁
     - 用函数或匿名函数来定义事件并且被调用触发
