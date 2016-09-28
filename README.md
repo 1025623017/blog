@@ -326,8 +326,7 @@
 
 - 其他
   - 标记语言
-    - [Markdown](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown)
-      - [数学公式](https://www.zybuluo.com/codeep/note/163962)
+    - [Markdown](https://www.zybuluo.com/mdeditor)
     - [Wiki](https://www.dokuwiki.org/dokuwiki)
   - [PHP](http://www.php.net/)
   - XML
