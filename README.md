@@ -274,6 +274,7 @@
   - 教程：http://www.runoob.com/bootstrap/bootstrap-tutorial.html
   - Bootstrap用起来是非常简单的，只需要引入它的2个文件，在它的js前引入jquery，即可运行起来。Bootstrap没什么好说的，写上对应的class和html结构即可实现响应式。
   - [Bootstrap轮播实例](https://gist.github.com/1025623017/402225548153ca13a467b37825429e37)
+  - [ace](http://ace.jeka.by/)后台管理模块
 
 
 
