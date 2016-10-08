@@ -249,6 +249,7 @@
       - [Vux demo](https://vux.li/)：单页应用demo
       - [Vux on Github](https://github.com/airyland/vux/)
       - [Vux 沟通团队](https://vux.bearychat.com/)：实在不懂Vux的某处东西，直接问作者
+    - [iview](https://www.iviewui.com/docs/guide/introduce)：PC端单页应用
   - [Avalon](http://avalonjs.coding.me/)
     - [视频教程](http://edu.51cto.com/lesson/id-46898.html)
     - PC端：直接引入avalon.js
