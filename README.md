@@ -37,4 +37,4 @@ workspace清单原地址：https://github.com/1025623017/blog/wiki/Workspace-Not
 
 `Vacation at 0月0日-0日`
 
-2016年10月7日 &copy; copyright MurphyLeung
+2016年10月12日 &copy; copyright Murphy Leung
