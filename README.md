@@ -9,9 +9,6 @@
 
 
 
-workspace清单原地址：https://github.com/1025623017/blog/wiki/Workspace-Note
-
-
 ### workspace清单
 
 * 设计规范
