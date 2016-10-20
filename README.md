@@ -247,6 +247,10 @@ _持续更新，了解更多请浏览我的[博客](http://1025623017.github.io/
 
 
 
+``` javascript
+
+/*
+
 ## 待整理
 
   - [css](http://www.runoob.com/css/css-tutorial.html)
@@ -333,3 +337,7 @@ _持续更新，了解更多请浏览我的[博客](http://1025623017.github.io/
     - event对象
     - eval()将字符串转换为Javascript语句并执行（只用于绝对信任的字符串！防止代码注入和XSS攻击）
     - [组件开发](http://blog.csdn.net/bingqingsuimeng/article/details/44451481)
+
+*/
+
+```
