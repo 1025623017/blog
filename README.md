@@ -34,4 +34,4 @@
 
 `Vacation at 0月0日-0日`
 
-2016年10月17日 &copy; copyright Murphy Leung
+Last update at 2016/10/17 | Copyright &copy; 2016 Murphy Leung Powered By Github
