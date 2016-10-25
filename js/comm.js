@@ -20,9 +20,8 @@ $(function() {
   });
 
   $.ajax({
-    url: '/blog/db/db.json',
+    url: '/blog/db/db.php',
     type: 'GET',
-    dataType: 'json',
     success: function(rsp1,rsp2,rsp3) {
       console.log(rsp1)
       console.log(rsp2)
