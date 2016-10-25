@@ -20,7 +20,7 @@ $(function() {
   });
 
   $.ajax({
-    url: '/blog/db/db.json',
+    url: '/blog/db/db.php',
     type: 'GET',
     success: function(rsp) {
       console.log(rsp)
