@@ -24,7 +24,7 @@ $(function() {
     type: 'GET',
     dataType: 'json',
     success: function(rsp) {
-      console.log(rsp)
+      alert(rsp)
     }
   })
 
