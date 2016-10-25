@@ -1,9 +1,15 @@
-<?php 
+<?php
+   
+  $data = array(
+    'name' => 'Murphy',
+    'sex' => 'male');
 
-  echo `author: {
-    name: 'Murphy Leung',
-    sex: 'male',
-    home: 'Jiangmen'
-  }`;
+  $response = array(
+    'code'  => 200, 
+    'message' => 'success for request',
+    'data'  => $data,
+    );
 
- ?>
+  echojson_encode($response);
+
+?>
