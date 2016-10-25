@@ -1,5 +1,10 @@
-author: {
-  name: 'Murphy Leung',
-  sex: 'male',
-  home: 'Jiangmen'
-}
+
+<?php 
+
+  echo `author: {
+    name: 'Murphy Leung',
+    sex: 'male',
+    home: 'Jiangmen'
+  }`;
+
+ ?>
