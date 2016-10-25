@@ -19,6 +19,15 @@ $(function() {
     },10);
   });
 
+  $.ajax({
+    url: '/db/db.json',
+    type: 'GET',
+    dataType: 'json',
+    success: function(rsp) {
+      console.log(rsp)
+    }
+  })
+
   
 
 });
