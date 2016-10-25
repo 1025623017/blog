@@ -48,6 +48,9 @@
 			UNPAID: 1476797516,
 			CANCELED: 1476945905
 		},
+		vips: [
+			1,2,3,4,5,6,7,8,9,0
+		],
 		shipper_name: null,
 		customer: null,
 		goods_tuan_info: {
