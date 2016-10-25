@@ -22,9 +22,8 @@ $(function() {
   $.ajax({
     url: '/blog/db/db.json',
     type: 'GET',
-    dataType: 'JSON',
     success: function(rsp1,rsp2,rsp3) {
-      console.log(rsp1)
+      console.log(rsp1.parseJSON())
       console.log(rsp2)
       console.log(rsp3)
     }
