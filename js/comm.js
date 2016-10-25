@@ -23,8 +23,8 @@ $(function() {
     url: '/blog/db/db.php',
     type: 'GET',
     success: function(rsp) {
-      console.log(rsp)
-      console.log(eval('(' + rsp + ')'));
+      eval('var db = ' + rsp)
+      console.log(db);
     }
   })
 
