@@ -10,6 +10,6 @@
     'data'  => $data,
     );
 
-  echojson_encode($response);
+  echo json_encode($response);
 
 ?>
