@@ -1,7 +1,8 @@
 var index = new Vue({
   el: '#index',
   data: {
-    ex: '123'
+    //数据库
+    db: {}
   },
   methods: {
     init: function() {
@@ -27,8 +28,7 @@ var index = new Vue({
         url: '/blog/db/db',
         type: 'GET',
         success: function(rsp) {
-          eval('var db = ' + rsp)
-          console.log(db);
+          eval('index.db = ' + rsp)
         }
       })
     }

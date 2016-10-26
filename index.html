@@ -133,7 +133,7 @@
   <!--首屏-->
   <div id="banner">
     <h1>
-      Murphy Leung流星酱 | {{ex}}
+      Murphy Leung流星酱
       <small>
         GitHub 博客
       </small>
@@ -151,6 +151,14 @@
           </li>
           <li>
             购物公园（地铁站）地下步行街
+          </li>
+        </ul>
+        <ul>
+          <li v-for="el in db">
+            <h3>{{el.news.title}}</h3>
+            <p>
+              {{el.news.body}}
+            </p>
           </li>
         </ul>
       </div>
