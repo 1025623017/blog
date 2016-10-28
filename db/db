@@ -1,28 +1,8 @@
 {
 	news: [
 		{
-			title: '新闻title1111111111111',
-			body: '12312312323wepedw;laj;lwjaweweaeaweaweaweaweaweaweaweewkwe'
-		},
-		{
-			title: '新闻title2222222',
-			body: '1231231232weweaeaweaweaweaweaweaweaweew3wepedw;laj;weweaeaweaweaweaweaweaweaweewlwjakwe'
-		},
-		{
-			title: '新闻title3333333333333333333333333333333333',
-			body: '12312312323wepedw;laj;lw212weweaeaweaweaweajakwe'
-		},
-		{
-			title: '新闻title44444444',
-			body: '12312312323wepedw;laweweaeaweaweaweaweaweaweaweewj;lwjakwe'
-		},
-		{
-			title: '新闻title55555555555',
-			body: '12312312323weweaeaweaweaweaweaweaweaweewwepedw;24124124weaweaweaweaweaweaweaweew43laj;lwjakwe'
-		},
-		{
-			title: '新闻title66666666666',
-			body: '12312312323wepedw;lajweweaeaweaweawweaweaweew41123weweaeaeaweaweaweaweew;lwjakwe'
+			title: '···',
+			body: '···'
 		},
 	]
 }
