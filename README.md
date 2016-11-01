@@ -56,7 +56,56 @@
     - [Bootstrap](http://v3.bootcss.com/)
       - [Bootstrap轮播实例](https://gist.github.com/1025623017/402225548153ca13a467b37825429e37)
         ``` html
+          <!DOCTYPE html>
           <html lang="en">
+            <head>
+              <meta charset="UTF-8">
+              <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+              <title></title>
+              <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+              <link href="bootstrap.min.css" rel="stylesheet">
+              <!--[if lt IE 9]>
+                <script src="bootstrap-3.3.5-dist/js/html5shiv.js"></script>
+                <script src="bootstrap-3.3.5-dist/js/respond.min.js"></script>
+              <![endif]-->
+            </head>
+            <body>
+              <div id="scroll" class="carousel slide">
+                <ol class="carousel-indicators">
+                  <li data-target="#scroll" data-slide-to="0" class="active"></li>
+                  <li data-target="#scroll" data-slide-to="1"></li>
+                  <li data-target="#scroll" data-slide-to="2"></li>
+                </ol>
+                <div class="carousel-inner">
+                  <div class="item active">
+                    <a href="javascript:;">
+                      <img src="images/banner01.jpg" alt="First slide">
+                    </a>
+                  </div>
+                  <div class="item">
+                    <a href="javascript:;">
+                      <img src="images/banner02.jpg" alt="Second slide">
+                    </a>
+                  </div>
+                  <div class="item">
+                    <a href="javascript:;">
+                      <img src="images/banner03.jpg" alt="Third slide">
+                    </a>
+                  </div>
+                </div>
+                <a class="left carousel-control" href="#scroll" role="button" data-slide="prev">
+                  <span class="glyphicon glyphicon-chevron-left"></span>
+                  <span class="sr-only">Previous</span>
+                </a>
+                <a class="right carousel-control" href="#scroll" role="button" data-slide="next">
+                  <span class="glyphicon glyphicon-chevron-right"></span>
+                  <span class="sr-only">Next</span>
+                </a>
+              </div>
+            </body>
+              <script src="jquery.js"></script>
+              <script src="bootstrap.min.js"></script>
+            </html>
         ```
     - [ace](http://ace.jeka.by/)后台管理模块
     - [Foundation](http://www.runoob.com/foundation/foundation-tutorial.html)
