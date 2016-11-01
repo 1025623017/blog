@@ -37,14 +37,11 @@
       - [GitHub](https://github.com)
       - [GitHub客户端](https://desktop.github.com)
       - [Git](https://git-scm.com/)
-        - 安装Git（windows: tortoisesvn | Mac: SourceTree）
-      - [TortoiseSVN](https://tortoisesvn.net/)
+        - 安装Git（windows: [TortoiseSVN](https://tortoisesvn.net/) | Mac: SourceTree）
     - 服务器端
       - [XAMPP](https://www.apachefriends.org/index.html)
       - [Navicat for MySQL](http://navicatformysql.en.softonic.com)
       - [WampServer](http://www.wampserver.com)
-    - 其他
-      - _暂未添加！_
 
 
 
@@ -58,6 +55,9 @@
   - html
     - [Bootstrap](http://v3.bootcss.com/)
       - [Bootstrap轮播实例](https://gist.github.com/1025623017/402225548153ca13a467b37825429e37)
+        ``` html
+          <html lang="en">
+        ```
     - [ace](http://ace.jeka.by/)后台管理模块
     - [Foundation](http://www.runoob.com/foundation/foundation-tutorial.html)
     - 移动端APP应用开发
