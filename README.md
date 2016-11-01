@@ -56,7 +56,7 @@
     - [Bootstrap](http://v3.bootcss.com/)
       - [Bootstrap轮播实例](https://gist.github.com/1025623017/402225548153ca13a467b37825429e37)
 
-        ```
+        ``` html
           <!DOCTYPE html>
           <html lang="en">
             <head>
