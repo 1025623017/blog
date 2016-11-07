@@ -17,12 +17,13 @@
 
 
   - 工具
-    - 浏览器(F12 Firebug和国内浏览器不多说)
+    - 浏览器
       - IE
       - Chorme(I usually use this)
       - Firefox
       - Opera
       - Safari
+    - Firebug
     - [Sublime Text 3](http://www.sublimetext.com)
       - Sublime Text有各种好用的[插件](http://www.oschina.net/translate/20-powerful-sublimetext-plugins)
       - [汉化版下载](http://haojian138.blog.163.com/blog/static/212643110201393010438357)
@@ -55,60 +56,6 @@
   - html
     - [Bootstrap](http://v3.bootcss.com/)
       - [Bootstrap轮播实例](https://gist.github.com/1025623017/402225548153ca13a467b37825429e37)
-
-        ``` html
-          <!DOCTYPE html>
-          <html lang="en">
-            <head>
-              <meta charset="UTF-8">
-              <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-              <title></title>
-              <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
-              <link href="bootstrap.min.css" rel="stylesheet">
-              <!--[if lt IE 9]>
-                <script src="bootstrap-3.3.5-dist/js/html5shiv.js"></script>
-                <script src="bootstrap-3.3.5-dist/js/respond.min.js"></script>
-              <![endif]-->
-            </head>
-            <body>
-              <div id="scroll" class="carousel slide">
-                <ol class="carousel-indicators">
-                  <li data-target="#scroll" data-slide-to="0" class="active"></li>
-                  <li data-target="#scroll" data-slide-to="1"></li>
-                  <li data-target="#scroll" data-slide-to="2"></li>
-                </ol>
-                <div class="carousel-inner">
-                  <div class="item active">
-                    <a href="javascript:;">
-                      <img src="images/banner01.jpg" alt="First slide">
-                    </a>
-                  </div>
-                  <div class="item">
-                    <a href="javascript:;">
-                      <img src="images/banner02.jpg" alt="Second slide">
-                    </a>
-                  </div>
-                  <div class="item">
-                    <a href="javascript:;">
-                      <img src="images/banner03.jpg" alt="Third slide">
-                    </a>
-                  </div>
-                </div>
-                <a class="left carousel-control" href="#scroll" role="button" data-slide="prev">
-                  <span class="glyphicon glyphicon-chevron-left"></span>
-                  <span class="sr-only">Previous</span>
-                </a>
-                <a class="right carousel-control" href="#scroll" role="button" data-slide="next">
-                  <span class="glyphicon glyphicon-chevron-right"></span>
-                  <span class="sr-only">Next</span>
-                </a>
-              </div>
-            </body>
-              <script src="jquery.js"></script>
-              <script src="bootstrap.min.js"></script>
-            </html>
-        ```
-
     - [ace](http://ace.jeka.by/)后台管理模块
     - [Foundation](http://www.runoob.com/foundation/foundation-tutorial.html)
     - 移动端APP应用开发
@@ -124,6 +71,12 @@
       - 或许你不喜欢使用命令行执行sass编译，那么使用GUI工具[Koala](http://koala-app.com/index.html)更适合你。
       - [compass](http://www.ruanyifeng.com/blog/2012/11/compass.html)
       - [安装sass和compass](http://devework.com/sass-compass.html)
+    - 特别推荐此书：[《CSS Secrets》](https://github.com/cssmagic/CSS-Secrets)
+      - 以下是我的《CSS Secrets》笔记
+      - 舍弃浏览器前缀
+      - 代码要变得更DRY和可维护（如衍生只需覆盖某几小条代码）
+      - 理性使用预编译器（生成SoureMap减轻维护负担）和代码缩写
+      - _我的书签：P00_
 
 
   - javascript
@@ -345,12 +298,6 @@ _持续更新，了解更多请浏览我的[博客](http://1025623017.github.io/
       - [codepen](http://codepen.io/)
       - [threejs](http://threejs.org/)
       - [Modernizr.js](http://www.tuicool.com/articles/UVnEVj)
-      - 特别推荐此书：[《CSS Secrets》](https://github.com/cssmagic/CSS-Secrets)
-        - 以下是我的《CSS Secrets》笔记
-        - 舍弃浏览器前缀
-        - 代码要变得更DRY和可维护（如衍生只需覆盖某几小条代码）
-        - 理性使用预编译器（生成SoureMap减轻维护负担）和代码缩写
-        - _我的书签：P00_
     - [post css](http://postcss.org/)
       - https://github.com/postcss/postcss
 
