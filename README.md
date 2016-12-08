@@ -101,7 +101,8 @@
       - [layer](http://layer.layui.com/)：web弹层组件
       -  [Baidu EFE team](https://github.com/ecomfe)
         -  [ECharts](http://echarts.baidu.com/examples.html)
-        -  [Region地区多选插件](https://github.com/lengxing/region)
+        -  [Region地区多选](https://github.com/lengxing/region)
+      - [三级联动地区选择](https://github.com/fengyuanchen/distpicker)
       - [zTree](http://www.treejs.cn/v3/demo.php#_101)：树结构视图
       - [HTML5 Sortable jQuery Plugin](https://github.com/farhadi/html5sortable)：拖拽排序列表
       - 编辑器
