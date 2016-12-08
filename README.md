@@ -99,6 +99,11 @@
       - [RequireJS](http://www.wojilu.com/Forum1/Topic/4205)：JS模块化
       - [D3](https://d3js.org/)：javascript可视化
       - [layer](http://layer.layui.com/)：web弹层组件
+      <ul>
+        <li>
+          [Baidu EFE team](https://github.com/ecomfe)
+        </li>
+      </ul>
       - [Baidu EFE team](https://github.com/ecomfe)
         - [ECharts](http://echarts.baidu.com/examples.html)
         - [Region地区多选插件](https://github.com/lengxing/region)
