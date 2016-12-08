@@ -99,14 +99,9 @@
       - [RequireJS](http://www.wojilu.com/Forum1/Topic/4205)：JS模块化
       - [D3](https://d3js.org/)：javascript可视化
       - [layer](http://layer.layui.com/)：web弹层组件
-      <ul>
-        <li>
-          [Baidu EFE team](https://github.com/ecomfe)
-        </li>
-      </ul>
-      - [Baidu EFE team](https://github.com/ecomfe)
-        - [ECharts](http://echarts.baidu.com/examples.html)
-        - [Region地区多选插件](https://github.com/lengxing/region)
+      -  [Baidu EFE team](https://github.com/ecomfe)
+        -  [ECharts](http://echarts.baidu.com/examples.html)
+        -  [Region地区多选插件](https://github.com/lengxing/region)
       - [zTree](http://www.treejs.cn/v3/demo.php#_101)：树结构视图
       - [HTML5 Sortable jQuery Plugin](https://github.com/farhadi/html5sortable)：拖拽排序列表
       - 编辑器
