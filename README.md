@@ -16,7 +16,7 @@
 
 
 
-  ### 工具
+  - 工具
     - 浏览器
       - IE
       - Chorme(I usually use this)
@@ -46,14 +46,14 @@
 
 
 
-  ### 规范
+  - 规范
     - [代码规范](http://codeguide.bootcss.com)
     - [W3C中文网](http://www.chinaw3c.org/)
     - [HTTP权威指南](https://book.douban.com/subject/10746113)
 
 
 
-  ### html
+  - html
     - [Bootstrap](http://v3.bootcss.com/)
       - [Bootstrap轮播实例](https://gist.github.com/1025623017/402225548153ca13a467b37825429e37)
     - [ace](http://ace.jeka.by/)后台管理模块
@@ -65,7 +65,7 @@
 
 
 
-  ### css
+  - css
     - [sass](http://www.ruanyifeng.com/blog/2012/06/sass.html)
       - [教程](http://www.tuicool.com/articles/NNbaM3)
       - 或许你不喜欢使用命令行执行sass编译，那么使用GUI工具[Koala](http://koala-app.com/index.html)更适合你。
@@ -79,7 +79,7 @@
       - _我的书签：P00_
 
 
-  ### javascript
+  - javascript
     - [Bootstrap中文网开源项目免费CDN服务](http://www.bootcdn.cn/)
     - [jquery](http://edu.51cto.com/index.php?do=lession&id=14456)
     - [正则表达式](http://wsq.discuz.qq.com/?c=index&a=viewthread&f=wx&tid=85503&siteid=261146700&source=mq&_wv=1)
@@ -99,17 +99,17 @@
       - [RequireJS](http://www.wojilu.com/Forum1/Topic/4205)：JS模块化
       - [D3](https://d3js.org/)：javascript可视化
       - [layer](http://layer.layui.com/)：web弹层组件
-      -  [Baidu EFE team](https://github.com/ecomfe)
-        -  [ECharts](http://echarts.baidu.com/examples.html)
-        -  [Region地区多选](https://github.com/lengxing/region)
-      - [三级联动地区选择](https://github.com/fengyuanchen/distpicker)
-      - [zTree](http://www.treejs.cn/v3/demo.php#_101)：树结构视图
+      - [Baidu EFE team](https://github.com/ecomfe)
+        - [ECharts](http://echarts.baidu.com/examples.html)
+        - [Region地区多选](https://github.com/lengxing/region)
+      - [三级联动地区选择](https://github.com/fengyuanchen/distpicker)
+      - [zTree](http://www.treejs.cn/v3/demo.php#_101)：树结构视图
       - [HTML5 Sortable jQuery Plugin](https://github.com/farhadi/html5sortable)：拖拽排序列表
       - 编辑器
         - [ckeditor](http://ckeditor.com/)
         - [UEditor](http://fex.baidu.com/ueditor/)
     - MVVM框架
-      - [iview](https://www.iviewui.com/docs/guide/introduce)：PC端vue单页应用
+      - [iview](https://www.iviewui.com/docs/guide/introduce)：PC端vue单页应用
       - [vue](http://cn.vuejs.org/guide/)
         - [vue-loader](https://github.com/vuejs/vue-loader)：vue组件化开发，结合Webpack自动化生产vue SPA（单页应用）
         - [vue-router](https://github.com/vuejs/vue-router)：vue SPA的路由管理
@@ -134,7 +134,7 @@
 
 
 
-  ### UI设计（用户体验）
+  - UI设计（用户体验）
     - 图标库
       - [阿里巴巴](http://www.iconfont.cn/)
       - [icomoon](https://icomoon.io/)
@@ -147,7 +147,7 @@
 
 
 
-  ### SEO
+  - SEO
     - 代码简练
     - 减少链接或在`<a>`标签中设置rel="nofollow"
     - 正确的`<meta>`、`<title>`标签
@@ -156,7 +156,7 @@
 
 
 
-  ### 其他
+  - 其他
     - 标记语言
       - [Markdown](https://www.zybuluo.com/mdeditor)
       - [Wiki](https://www.dokuwiki.org/dokuwiki)
