@@ -223,8 +223,9 @@
   - [Youtube视频下载](http://www.clipconverter.cc/)
   - [阿里云OSS](https://help.aliyun.com/document_detail/31883.html?spm=5176.doc31817.6.108.zNcxQ8)
   - [Plupload文档](http://www.phpin.net/tools/plupload/)
-
-
+  - Games
+    - [贪食蛇](http://slither.io/)
+    - [贪食蛇动物版](http://mope.io/)
 
 ## 公司
 
