@@ -9,7 +9,7 @@
 >
 > 图2：https://raw.githubusercontent.com/unruledboy/WebFrontEndStack/master/Web%20Front%20End%20Stack.png
 >
-> [edit this part](https://github.com/1025623017/blog/edit/gh-pages/README.md)
+> [edit this page](https://github.com/1025623017/blog/edit/gh-pages/README.md)
 >
 
 
@@ -223,8 +223,9 @@
   - [Youtube视频下载](http://www.clipconverter.cc/)
   - [阿里云OSS](https://help.aliyun.com/document_detail/31883.html?spm=5176.doc31817.6.108.zNcxQ8)
   - [Plupload文档](http://www.phpin.net/tools/plupload/)
-  - [贪食蛇](http://slither.io/)
-  - [贪食蛇动物版](http://mope.io/)
+  - Games
+    - [贪食蛇](http://slither.io/)
+    - [贪食蛇动物版](http://mope.io/)
 
 
 
