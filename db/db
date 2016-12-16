@@ -1,28 +1,24 @@
 {
 	news: [
 		{
-			title: '新闻title1111111111111',
-			body: '12312312323wepedw;laj;lwjaweweaeaweaweaweaweaweaweaweewkwe'
+			title: '购物公园（地铁站）',
+			body: '地下跨站步行街'
 		},
 		{
-			title: '新闻title2222222',
-			body: '1231231232weweaeaweaweaweaweaweaweaweew3wepedw;laj;weweaeaweaweaweaweaweaweaweewlwjakwe'
+			title: '后海（地铁站）',
+			body: '文心五路、商业步行街'
 		},
 		{
-			title: '新闻title3333333333333333333333333333333333',
-			body: '12312312323wepedw;laj;lw212weweaeaweaweaweajakwe'
+			title: '罗湖（地铁站）',
+			body: '地王、印象城'
 		},
 		{
-			title: '新闻title44444444',
-			body: '12312312323wepedw;laweweaeaweaweaweaweaweaweaweewj;lwjakwe'
+			title: '老街（地铁站）',
+			body: '东门町'
 		},
 		{
-			title: '新闻title55555555555',
-			body: '12312312323weweaeaweaweaweaweaweaweaweewwepedw;24124124weaweaweaweaweaweaweaweew43laj;lwjakwe'
-		},
-		{
-			title: '新闻title66666666666',
-			body: '12312312323wepedw;lajweweaeaweaweawweaweaweew41123weweaeaeaweaweaweaweew;lwjakwe'
-		},
+			title: '海上世界（地铁站）',
+			body: '海岸风景、蛇口港'
+		}
 	]
 }
