@@ -28,6 +28,7 @@ var index = new Vue({
         url: '/blog/db/db',
         type: 'GET',
         success: function(rsp) {
+          console.warn(rsp)
           eval('index.db = ' + rsp)
         }
       })
