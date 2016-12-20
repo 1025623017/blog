@@ -170,7 +170,7 @@
 
 
 
-## ![VUE](https://avatars1.githubusercontent.com/u/6128107?v=3&s=20)![VUX](https://avatars1.githubusercontent.com/u/17058719?v=3&s=20)[VUX](https://github.com/airyland/vux)开发分享
+## ![VUE](https://avatars1.githubusercontent.com/u/6128107?v=3&s=18)![VUX](https://avatars1.githubusercontent.com/u/17058719?v=3&s=18)[VUX](https://github.com/airyland/vux)开发分享
 
   - [安装](https://vuxjs.gitbooks.io/vux/content/install/vue.html)（多次安装失败，请换台电脑试试）
     ``` cmd
@@ -197,7 +197,9 @@
     ```
 
   - [配置](https://vuxjs.gitbooks.io/vux/content/install/vue.html)
-    - 2
+    - 详情请看项目[Demo](https://vuxjs.gitbooks.io/vux/content/install/vue.html)
+
+  - [组件式开发](123)
 
 
 
@@ -283,7 +285,7 @@
 
 
 
-![我的头像](https://avatars1.githubusercontent.com/u/13571820?v=3&s=20)
+![我的头像](https://avatars1.githubusercontent.com/u/13571820?v=3&s=18)
 
 _持续更新，了解更多请浏览我的[博客](http://1025623017.github.io/blog)_
 
