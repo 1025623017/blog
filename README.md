@@ -5,7 +5,7 @@
 >
 > 博客地址：http://1025623017.github.io/blog
 >
-> 前端知识树图1：http://1025623017.github.io/blog/images/tree.jpg
+> 前端树图1：http://1025623017.github.io/blog/images/tree.jpg
 >
 > 图2：https://raw.githubusercontent.com/unruledboy/WebFrontEndStack/master/Web%20Front%20End%20Stack.png
 >
@@ -20,11 +20,10 @@
 
   - 工具
     - 浏览器
-      - IE
-      - Chorme(I usually use this)
+      - Chorme
       - Firefox
-      - Opera
       - Safari
+      - IE
     - Firebug
     - [Sublime Text 3](http://www.sublimetext.com)
       - Sublime Text有各种好用的[插件](http://www.oschina.net/translate/20-powerful-sublimetext-plugins)
