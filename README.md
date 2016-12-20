@@ -172,6 +172,9 @@
 
 ## [VUX](https://github.com/airyland/vux)开发分享
 
+  - ![VUE](https://camo.githubusercontent.com/728ce9f78c3139e76fa69925ad7cc502e32795d2/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67)
+  - ![VUX](https://raw.githubusercontent.com/airyland/vux/master/logo.png)
+
   - [安装](https://vuxjs.gitbooks.io/vux/content/install/vue.html)（多次安装失败，请换台电脑试试）
     ``` cmd
       # node.js 和 cnpm 必装
@@ -195,6 +198,9 @@
       # 调试
       npm run dev
     ```
+
+  - [配置](https://vuxjs.gitbooks.io/vux/content/install/vue.html)
+    - 2
 
 
 
