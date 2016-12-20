@@ -182,12 +182,16 @@
       # 初始化 webpack 项目
       vue init webpack my-project
       cd my-project
+
       # npm可能出现访问速度极慢的情况，推荐使用cnpm
       npm install
+
       #安装 vux 发版请使用 npm install vux@next
       npm install vux
+
       #安装less-loader, vuejs-templates模板默认不安装less less-loader
       npm install less less-loader --save-dev
+
       # 调试
       npm run dev
     ```
