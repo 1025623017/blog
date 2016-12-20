@@ -170,10 +170,8 @@
 
 
 
-## [VUX](https://github.com/airyland/vux)开发分享
-
-  ![VUE](https://avatars1.githubusercontent.com/u/6128107?v=3&s=30)
-  ![VUX](https://avatars1.githubusercontent.com/u/17058719?v=3&s=30)
+## ![VUE](https://avatars1.githubusercontent.com/u/6128107?v=3&s=30)![VUX](https://avatars1.githubusercontent.com/u/17058719?v=3&s=30)[VUX](https://github.com/airyland/vux)开发分享
+  
 
   - [安装](https://vuxjs.gitbooks.io/vux/content/install/vue.html)（多次安装失败，请换台电脑试试）
     ``` cmd
