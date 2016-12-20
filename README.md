@@ -25,15 +25,15 @@
       - Safari
       - IE
     - Firebug
+    - 翻墙工具：[Lantern](https://github.com/getlantern/lantern)
     - [Sublime Text 3](http://www.sublimetext.com)
       - Sublime Text有各种好用的[插件](http://www.oschina.net/translate/20-powerful-sublimetext-plugins)
       - [汉化版下载](http://haojian138.blog.163.com/blog/static/212643110201393010438357)
       - [汉化 / 破解 / 插件](http://jingyan.baidu.com/album/ff4116259b057c12e48237b8.html?picindex=1)
-    - 翻墙工具：[Lantern](https://github.com/getlantern/lantern)
-    - 切图 + 其他处理：Photoshop
-    - 快速取色+像素量度：[Markman](http://www.getmarkman.com)
+    - Photoshop
+    - 取色量度：[Markman](http://www.getmarkman.com)
     - 雪碧图生成工具：[CSS Sprite Generator](http://www.cn.spritegen.website-performance.org)
-    - Less/Sass/CoffeeScript预处理的GUI编译器：[Koala](http://koala-app.com/index.html)
+    - Less/Sass/CoffeeScript的GUI编译器：[Koala](http://koala-app.com/index.html)
     - 兼容性查询：[Can I use?](http://caniuse.com)
     - 版本管理
       - [GitHub](https://github.com)
@@ -56,13 +56,8 @@
 
   - html
     - [Bootstrap](http://v3.bootcss.com/)
-      - [Bootstrap轮播实例](https://gist.github.com/1025623017/402225548153ca13a467b37825429e37)
-    - [ace](http://ace.jeka.by/)后台管理模块
+    - [ACE](http://ace.jeka.by/)
     - [Foundation](http://www.runoob.com/foundation/foundation-tutorial.html)
-    - 移动端APP应用开发
-      - [jQuery Mobile](http://jquerymobile.com/)
-      - [MUI](http://dev.dcloud.net.cn/mui/)
-      - [AUI](http://www.auicss.com/)
 
 
 
@@ -118,7 +113,7 @@
         - [vue-filter](https://github.com/wy-ei/vue-filter)：vue增强过滤器
         - [vue-resource](https://github.com/vuejs/vue-resource)：vue版ajax
         - [vux](https://vuxjs.gitbooks.io/vux/content/)：集成了微信UI、vue、Webpack等，高效制作SPA（single page web application）
-          - [vux demo](https://vux.li/)：vux单页应用示例
+          - [vux demo](https://vux.li/)：VUX Demo
           - [airyland](https://github.com/airyland/vux/)：作者
           - [vux 沟通团队](https://vux.bearychat.com/)：实在不懂vux的某处东西，直接问作者
       - [Avalon](http://avalonjs.coding.me/)
@@ -132,6 +127,13 @@
             - 删除源代码中的AMD加载器
             - 在[require.js](http://www.requirejs.cn/)环境下，引用avalon.shim.js
       - AngularJS
+
+
+
+  - 移动端APP应用开发
+    - [jQuery Mobile](http://jquerymobile.com/)
+    - [MUI](http://dev.dcloud.net.cn/mui/)
+    - [AUI](http://www.auicss.com/)
 
 
 
@@ -168,7 +170,32 @@
 
 
 
-## [APICloud](http://www.apicloud.com/)开发小结
+## [VUX](https://github.com/airyland/vux)开发分享
+
+  - [安装](https://vuxjs.gitbooks.io/vux/content/install/vue.html)（多次安装失败，请换台电脑试试）
+    ``` cmd
+      # node.js 和 cnpm 必装
+
+      # 安装 vue-cli
+      npm install -g vue-cli
+
+      # 初始化 webpack 项目
+      vue init webpack my-project
+      cd my-project
+      # npm可能出现访问速度极慢的情况，推荐使用cnpm
+      npm install
+      #安装 vux 发版请使用 npm install vux@next
+      npm install vux
+      #安装less-loader, vuejs-templates模板默认不安装less less-loader
+      npm install less less-loader --save-dev
+      # 调试
+      npm run dev
+    ```
+
+
+
+
+## [APICloud](http://www.apicloud.com/)开发分享
 
   - [教程](http://community.apicloud.com/bbs/forum.php?mod=viewthread&tid=9306)
 
