@@ -202,10 +202,15 @@
     ```
 
   - [配置](https://vuxjs.gitbooks.io/vux/content/install/vue.html)
-    - 详情请看项目[Demo](https://vuxjs.gitbooks.io/vux/content/install/vue.html)
+    - 详情请看项目[Demo](--------------------------)
 
-  - [组件式开发](123)
+  - [组件式开发](--------------------------)
+    ``` cmd
+    日常添加路由，写.vue文件就可以了
 
+    首先在main.js新增路由，然后在新页面中复制改写[demo](https://vux.li/#!/)中的代码即可
+    ```
+    - 00000000000000000000000000000000000000000000
 
 
 
