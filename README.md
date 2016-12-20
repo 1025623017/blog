@@ -75,22 +75,13 @@
       - _我的书签：P00_
 
 
+
   - javascript
     - [Bootstrap中文网开源项目免费CDN服务](http://www.bootcdn.cn/)
     - [jquery](http://edu.51cto.com/index.php?do=lession&id=14456)
     - [正则表达式](http://wsq.discuz.qq.com/?c=index&a=viewthread&f=wx&tid=85503&siteid=261146700&source=mq&_wv=1)
     - ajax
     - json
-    - Node.js
-      - [淘宝镜像 & cnpm](http://npm.taobao.org)
-      - [CoffeeScript](http://coffee-script.org)
-      - [Gulp](http://www.gulpjs.com.cn)
-        - `cnpm install --global gulp`
-        - `cnpm install`
-        - 在项目文件夹中：`cnpm install --save-dev gulp`
-        - `gulp`
-        - `gulp watch`
-      - [Webpack](http://webpack.github.io/)
     - js插件
       - [RequireJS](http://www.wojilu.com/Forum1/Topic/4205)：JS模块化
       - [D3](https://d3js.org/)：javascript可视化
@@ -105,17 +96,18 @@
         - [ckeditor](http://ckeditor.com/)
         - [UEditor](http://fex.baidu.com/ueditor/)
     - MVVM框架
-      - [iview](https://www.iviewui.com/docs/guide/introduce)：PC端vue单页应用
-      - [vue](http://cn.vuejs.org/guide/)
+      - [vue](http://cn.vuejs.org/)
         - [vue-loader](https://github.com/vuejs/vue-loader)：vue组件化开发，结合Webpack自动化生产vue SPA（单页应用）
         - [vue-router](https://github.com/vuejs/vue-router)：vue SPA的路由管理
         - [vue-router-transition](https://github.com/Twiknight/vue-transition)：vue SPA页面切换过渡效果
         - [vue-filter](https://github.com/wy-ei/vue-filter)：vue增强过滤器
-        - [vue-resource](https://github.com/vuejs/vue-resource)：vue版ajax
+        - [vue-resource](https://github.com/vuejs/vue-resource)：vue版AJAX
+      - 基于Vue框架的项目
         - [vux](https://vuxjs.gitbooks.io/vux/content/)：集成了微信UI、vue、Webpack等，高效制作SPA（single page web application）
           - [vux demo](https://vux.li/)：VUX Demo
           - [airyland](https://github.com/airyland/vux/)：作者
           - [vux 沟通团队](https://vux.bearychat.com/)：实在不懂vux的某处东西，直接问作者
+        - [iview](https://www.iviewui.com/docs/guide/introduce)：PC端vue单页应用
       - [Avalon](http://avalonjs.coding.me/)
         - [视频教程](http://edu.51cto.com/lesson/id-46898.html)
           - [Avalon fekit部署](https://github.com/rinh/fekit)
@@ -127,6 +119,19 @@
             - 删除源代码中的AMD加载器
             - 在[require.js](http://www.requirejs.cn/)环境下，引用avalon.shim.js
       - AngularJS
+
+
+
+    - ![Node.js](https://avatars3.githubusercontent.com/u/10369302?v=3&s=18)Node.js
+      - [淘宝镜像 & cnpm](http://npm.taobao.org)
+      - [CoffeeScript](http://coffee-script.org)
+      - [Gulp](http://www.gulpjs.com.cn)
+        - `cnpm install --global gulp`
+        - `cnpm install`
+        - 在项目文件夹中：`cnpm install --save-dev gulp`
+        - `gulp`
+        - `gulp watch`
+      - [Webpack](http://webpack.github.io/)
 
 
 
