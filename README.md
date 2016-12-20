@@ -172,8 +172,8 @@
 
 ## [VUX](https://github.com/airyland/vux)开发分享
 
-  - ![VUE](https://camo.githubusercontent.com/728ce9f78c3139e76fa69925ad7cc502e32795d2/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67)
-  - ![VUX](https://raw.githubusercontent.com/airyland/vux/master/logo.png)
+  ![VUE](https://avatars1.githubusercontent.com/u/6128107?v=3&s=30)
+  ![VUX](https://avatars1.githubusercontent.com/u/17058719?v=3&s=30)
 
   - [安装](https://vuxjs.gitbooks.io/vux/content/install/vue.html)（多次安装失败，请换台电脑试试）
     ``` cmd
@@ -286,7 +286,7 @@
 
 
 
-![我的头像](https://avatars1.githubusercontent.com/u/13571820?v=3&s=50)
+![我的头像](https://avatars1.githubusercontent.com/u/13571820?v=3&s=30)
 
 _持续更新，了解更多请浏览我的[博客](http://1025623017.github.io/blog)_
 
