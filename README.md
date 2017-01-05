@@ -262,7 +262,7 @@
 
 
   - [豆瓣读书](https://book.douban.com/)
-  - [当当网](http://e.dangdang.com/)
+  - [当当网](http://www.dangdang.com/)
   - [醉牛前端](http://f2er.club/)
   - [技术类书籍](https://www.douban.com/doulist/13701898/)
   - [边学英文边搞笑](http://9gag.com/)
