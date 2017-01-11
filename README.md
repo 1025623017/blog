@@ -175,30 +175,12 @@
 
 
 
-## ![VUE](https://avatars1.githubusercontent.com/u/6128107?v=3&s=18)![VUX](https://avatars1.githubusercontent.com/u/17058719?v=3&s=18)[VUX](https://github.com/airyland/vux)开发分享
+## ![vue图标](https://avatars1.githubusercontent.com/u/6128107?v=3&s=18)![Vux图标](https://avatars1.githubusercontent.com/u/17058719?v=3&s=18)[Vux](https://vux.li/)开发分享
 
   - [安装](https://vuxjs.gitbooks.io/vux/content/install/vue.html)（多次安装失败，请换台电脑试试）
     ``` cmd
-      # node.js 和 cnpm 必装
-
-      # 安装 vue-cli
-      npm install -g vue-cli
-
-      # 初始化 webpack 项目
-      vue init webpack my-project
-      cd my-project
-
-      # npm可能出现访问速度极慢的情况，推荐使用cnpm
-      npm install
-
-      #安装 vux 发版请使用 npm install vux@next
-      npm install vux
-
-      #安装less-loader, vuejs-templates模板默认不安装less less-loader
-      npm install less less-loader --save-dev
-
-      # 调试
-      npm run dev
+      Vux项目已在2017年1月11日更新至2.0
+      https://github.com/airyland/vux
     ```
 
   - [配置](https://vuxjs.gitbooks.io/vux/content/install/vue.html)
@@ -211,6 +193,70 @@
     首先在main.js新增路由，然后在新页面中复制改写[demo](https://vux.li/#!/)中的代码即可
     ```
     - undefined
+
+  - 在```main.js```文件中封装全局ajax
+    ``` javascript
+      // 全局ajax
+      export function uAjax(init,_this) {
+          var type = init.type
+          var url = init.url
+          var params = init.params
+          var successFn = init.success
+          var failFn = init.fail
+          var showLoading = init.showLoading
+          var closeLoading = init.closeLoading
+
+          // 默认自带域名
+          var urlDefault = init.urlDefault
+
+          // 默认显示loading
+          if (showLoading != false) {
+              _this.showLoading = true
+          }
+
+          // 默认GET方法
+          type = (type==null || type=="" || typeof(type)=="undefined")? "get" : type
+
+          // 设置延时才会得到Vue.http.options.root
+          setTimeout(() => {
+              // 默认自带域名
+              if (urlDefault != false) {
+                  url = Vue.http.options.root+url
+              }
+              // 支持get/post/put方法
+              if (type=='get') {
+                  Vue.http.get(url,{params})
+                  .then(response => {
+                      if (response.data.code==0) {
+                          successFn.call(this,response.data)
+                      }else if(response.data.code==1){
+                          if (failFn) {
+                              failFn.call(this,response.data)
+                          }
+                      }else if(response.data.code==2){
+                          _this.txtError = response.data.message
+                          _this.showError = true
+                          setTimeout(() => {
+                              router.go('/login')
+                          }, 1000)
+                      }
+                      console.warn(response)
+                      // 默认关闭loading
+                      if (closeLoading != false) {
+                          _this.showLoading = false
+                      }
+                  },response => {
+                      console.warn('请求错误')
+                      console.warn(response)
+                      _this.showLoading = false
+                  })
+                  .catch(console.log)
+              }else if(type=='post'){
+                  //
+              }
+          }, 500)
+      }
+    ```
 
 
 
