@@ -177,6 +177,9 @@
 
 ## ![vue图标](https://avatars1.githubusercontent.com/u/6128107?v=3&s=18)![Vux图标](https://avatars1.githubusercontent.com/u/17058719?v=3&s=18)[Vux](https://vux.li/)开发分享
 
+  - 项目示例
+    - [Vux商家入驻](http://local-pictures.img-cn-shenzhen.aliyuncs.com/201701/11/146feb7b8cb1e9ff55e9daca1d0827b6.png)
+
   - [安装](https://vuxjs.gitbooks.io/vux/content/install/vue.html)（多次安装失败，请换台电脑试试）
     ``` cmd
       Vux项目已在2017年1月11日更新至2.0
