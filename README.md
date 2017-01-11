@@ -184,15 +184,13 @@
     ```
 
   - [配置](https://vuxjs.gitbooks.io/vux/content/install/vue.html)
-    - 详情请看项目[Demo](undefined)
+    - 详情请看项目[Demo](#)
 
-  - [组件式开发](undefined)
+  - [组件式开发](#)
     ``` cmd
     日常添加路由，写.vue文件就可以了
 
     首先在main.js新增路由，然后在新页面中复制改写[demo](https://vux.li/#!/)中的代码即可
-    ```
-    - undefined
 
   - 在```main.js```文件中封装全局ajax
     ``` javascript
@@ -257,6 +255,23 @@
           }, 500)
       }
     ```
+
+  - 在```yourfile.vue```中调用封装的ajax
+    ``` javascript
+      //<script>直属部分
+      import { uAjax } from 'src/main'
+
+      //methods部分其中一个函数
+      var _this = this
+      uAjax({
+        url: '/api/yourAPI/urlname',
+        success: function(rsp) {
+          _this.status = rsp.data.status
+        }
+        //省略参数...
+      },this)
+    ```
+
 
 
 
