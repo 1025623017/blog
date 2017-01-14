@@ -103,10 +103,10 @@
         - [vue-filter](https://github.com/wy-ei/vue-filter)：vue增强过滤器
         - [vue-resource](https://github.com/vuejs/vue-resource)：vue版AJAX
       - 基于Vue框架的项目
-        - [vux](https://vuxjs.gitbooks.io/vux/content/)：集成了微信UI、vue、Webpack等，高效制作SPA（single page web application）
-          - [vux demo](https://vux.li/)：VUX Demo
-          - [airyland](https://github.com/airyland/vux/)：作者
-          - [vux 沟通团队](https://vux.bearychat.com/)：实在不懂vux的某处东西，直接问作者
+        - [vux](https://vux.li/#/)：集成了微信UI、vue、Webpack等，高效制作SPA（single page web application）
+          - [vux demo](https://vux.li/demos/#/component/demo)：VUX Demo
+          - [Airyland](https://github.com/airyland/vux/)：作者
+          - [vux 沟通团队](https://vux.bearychat.com/)：vux技术交流
         - [iview](https://www.iviewui.com/docs/guide/introduce)：PC端vue单页应用
       - [Avalon](http://avalonjs.coding.me/)
         - [视频教程](http://edu.51cto.com/lesson/id-46898.html)
@@ -175,7 +175,7 @@
 
 
 
-## ![vue图标](https://avatars1.githubusercontent.com/u/6128107?v=3&s=18)![Vux图标](https://avatars1.githubusercontent.com/u/17058719?v=3&s=18)[Vux](https://vux.li/)开发分享
+## ![vue图标](https://avatars1.githubusercontent.com/u/6128107?v=3&s=18)![Vux图标](https://avatars1.githubusercontent.com/u/17058719?v=3&s=18)[Vux](https://vux.li/#/)开发分享
 
   - [安装](https://vuxjs.gitbooks.io/vux/content/install/vue.html)（多次安装失败，请换台电脑试试）
     ``` cmd
@@ -190,7 +190,7 @@
     ``` cmd
     日常添加路由，写.vue文件就可以了
 
-    首先在main.js新增路由，然后在新页面中复制改写[demo](https://vux.li/#!/)中的代码即可
+    首先在main.js新增路由，然后在新页面中复制改写[demo](https://vux.li/demos/#/component/demo)中的代码即可
     ```
 
   - 在```main.js```文件中封装全局ajax
