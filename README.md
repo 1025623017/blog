@@ -281,8 +281,8 @@
 ## ![Wechat图标](https://avatars0.githubusercontent.com/u/17825669?v=3&s=18)[微信小程序](https://mp.weixin.qq.com/debug/wxadoc/dev/)开发分享
 
   - 微信开发者工具：烂
-    - 无
-    
+    - 吹，继续吹这东西多多多厉害？
+    
     
     
 ## [APICloud](http://www.apicloud.com/)开发分享
