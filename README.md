@@ -83,6 +83,7 @@
     - ajax
     - json
     - js插件
+      - [百度大脑](http://ai.baidu.com/)：智能网页
       - [RequireJS](http://www.wojilu.com/Forum1/Topic/4205)：JS模块化
       - [D3](https://d3js.org/)：javascript可视化
       - [layer](http://layer.layui.com/)：web弹层组件
@@ -280,8 +281,8 @@
 
 ## ![Wechat图标](https://avatars0.githubusercontent.com/u/17825669?v=3&s=18)[微信小程序](https://mp.weixin.qq.com/debug/wxadoc/dev/)开发分享
 
-  - 微信开发者工具：烂
-    - 吹，继续吹这东西多多多厉害？
+  - 微信开发者工具[下载](#)
+  - ![字体设计](https://mp.weixin.qq.com/debug/wxadoc/design/image/8Font.png?t=2017118)
   - 
 
 
