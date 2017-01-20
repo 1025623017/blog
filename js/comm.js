@@ -29,8 +29,8 @@ var index = new Vue({
         type: 'GET',
         dataType: 'json',
         success: function(rsp) {
-          console.warn(encodeURIComponent(rsp))
-          eval('index.db = ' + encodeURIComponent(rsp))
+          console.warn(rsp)
+          eval('index.db = ' + rsp)
         }
       })
     }
