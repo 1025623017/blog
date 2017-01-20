@@ -27,7 +27,6 @@ var index = new Vue({
       $.ajax({
         url: '/blog/db/db',
         type: 'GET',
-        dataType: 'json',
         success: function(rsp) {
           console.warn(rsp)
           eval('index.db = ' + rsp)
