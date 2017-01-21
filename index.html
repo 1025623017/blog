@@ -1,5 +1,5 @@
 ﻿<!DOCTYPE html>
-<html lang="en">
+<html xmlns:wb="http://open.weibo.com/wb" lang="en">
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -9,6 +9,7 @@
   <meta name="author" content="Murphy Leung,1025623017@qq.com">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
   <meta property="wb:webmaster" content="ffcf1b55537d41fe" />
+  <script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js?appkey=4031961485" type="text/javascript" charset="utf-8"></script>
   <link rel="shortcut icon" href="images/1025623017.png">
   <link href="bootstrap-3.3.5-dist/css/bootstrap.min.css" rel="stylesheet">
   <!--[if lt IE 9]>
@@ -138,6 +139,9 @@
       <small>
         GitHub 博客
       </small>
+      <div>
+        <wb:login-button type="3,1" onlogin="login" onlogout="logout">登录按钮</wb:login-button>
+      </div>
       <div>
         <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=w-Lz8fb18fDz8vSDsrLtoKyu" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png"/></a>
       </div>
