@@ -190,6 +190,22 @@
   <script src="js/comm.js"></script>
   <script>
       index.init();
+      $(function() {
+        WB2.anyWhere(function(W){
+          W.widget.connectButton({
+            id: "wb_connect_btn", 
+            type:"3,1",
+            callback : {
+                login:function(o){  //登录后的回调函数
+                  console.warn('login');
+                  console.warn(o);
+                },  
+                logout:function(){  //退出后的回调函数
+                  console.warn('logout');
+                }
+            }
+        });
+      });
   </script>
   <!--coffeeScript-->
   <script src="js/test.js"></script>
