@@ -149,7 +149,7 @@
             var uglify = require('gulp-uglify');
             var sass = require('gulp-sass');
 
-            gulp.task('dist',function() {
+            gulp.task('default',function() {
               gulp.src('src/**/*.js')
               .pipe(uglify())
               .pipe(gulp.dest('dist'));
@@ -161,6 +161,8 @@
               gulp.src('src/**/*.html')
               .pipe(gulp.dest('dist'));
             });
+
+            gulp.watch('src/**/*.*',['default']);
           ```
         - `gulp`
         - `gulp watch`
