@@ -127,12 +127,25 @@
       - [淘宝镜像 & cnpm](http://npm.taobao.org)
       - [CoffeeScript](http://coffee-script.org)
       - [Gulp](http://www.gulpjs.com.cn)
+        - _http://www.cnblogs.com/2050/p/4198792.html_
         - `cnpm install --global gulp`
         - `cnpm install`
         - 在项目文件夹中：`cnpm install --save-dev gulp`
+        - 新建`gulpfile.js`
+          ``` javascript
+            var gulp = require('gulp'),
+                uglify = require("gulp-uglify");
+
+            gulp.task('minify-js', function(){
+              gulp.src('src/*/*.js')
+              .pipe(uglify())
+              .pipe(gulp.dest('dist'));
+            });
+          ```
         - `gulp`
         - `gulp watch`
       - [Webpack](http://webpack.github.io/)
+        - //
 
 
 
