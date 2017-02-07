@@ -133,6 +133,11 @@
         - 在项目文件夹中：`cnpm install --save-dev gulp`
         - 新建`gulpfile.js`
           ``` javascript
+            //gulp.src()匹配路径和文件
+            //gulp.dest()生成文件
+            //gulp.task()定义任务
+            //gulp.watch()用来挂机
+
             var gulp = require('gulp'),
                 uglify = require("gulp-uglify");
 
