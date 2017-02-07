@@ -105,13 +105,13 @@
         - [UEditor](http://fex.baidu.com/ueditor/)
     - MVVM框架
       - [vue](http://cn.vuejs.org/)
-        - [vue-loader](https://github.com/vuejs/vue-loader)：vue组件化开发，结合Webpack自动化生产vue SPA（单页应用）
+        - [vue-loader](https://github.com/vuejs/vue-loader)：vue组件化开发，结合webpack自动化生产vue SPA（单页应用）
         - [vue-router](https://github.com/vuejs/vue-router)：vue SPA的路由管理
         - [vue-router-transition](https://github.com/Twiknight/vue-transition)：vue SPA页面切换过渡效果
         - [vue-filter](https://github.com/wy-ei/vue-filter)：vue增强过滤器
         - [vue-resource](https://github.com/vuejs/vue-resource)：vue版AJAX
       - 基于Vue框架的项目
-        - [vux](https://vux.li/#/)：集成了微信UI、vue、Webpack等，高效制作SPA（single page web application）
+        - [vux](https://vux.li/#/)：集成了微信UI、vue、webpack等，高效制作SPA（single page web application）
           - [vux demo](https://vux.li/demos/#/component/demo)：VUX Demo
           - [Airyland](https://github.com/airyland/vux/)：作者
           - [vux 沟通团队](https://vux.bearychat.com/)：vux技术交流
@@ -166,7 +166,8 @@
           ```
         - `gulp`
         - `gulp watch`
-      - [Webpack](http://webpack.github.io/)
+      - [webpack](http://webpack.github.io/)
+        - [gulp + webpack](http://www.cnblogs.com/maskmtj/archive/2016/07/21/5597307.html)
 
 
 
