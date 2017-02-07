@@ -74,7 +74,7 @@
       - 或许你不喜欢使用命令行执行sass编译，那么使用GUI工具[Koala](http://koala-app.com/index.html)更适合你。
       - [compass](http://www.ruanyifeng.com/blog/2012/11/compass.html)
       - [安装sass和compass](http://devework.com/sass-compass.html)
-    - 特别推荐此书：[《CSS Secrets》](https://github.com/cssmagic/CSS-Secrets)
+    - css特别推荐此书：[《CSS Secrets》](https://github.com/cssmagic/CSS-Secrets)
       - 以下是我的《CSS Secrets》笔记
       - 舍弃浏览器前缀
       - 代码要变得更DRY和可维护（如衍生只需覆盖某几小条代码）
@@ -145,12 +145,20 @@
             //gulp.task()定义任务
             //gulp.watch()用来挂机
 
-            var gulp = require('gulp'),
-                uglify = require("gulp-uglify");
+            var gulp = require('gulp');
+            var uglify = require('gulp-uglify');
+            var sass = require('gulp-sass');
 
-            gulp.task('minify-js', function(){
-              gulp.src('src/*/*.js')
+            gulp.task('dist',function() {
+              gulp.src('src/**/*.js')
               .pipe(uglify())
+              .pipe(gulp.dest('dist'));
+
+              gulp.src('src/**/*.scss')
+              .pipe(sass())
+              .pipe(gulp.dest('dist'));
+
+              gulp.src('src/**/*.html')
               .pipe(gulp.dest('dist'));
             });
           ```
