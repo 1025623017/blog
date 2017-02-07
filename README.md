@@ -64,6 +64,13 @@
   - css
     - [sass](http://www.ruanyifeng.com/blog/2012/06/sass.html)
       - [教程](http://www.tuicool.com/articles/NNbaM3)
+      - Sass安装(gulp with sass click [HERE](http://www.jianshu.com/p/f6ef362743eb))：
+        - 安装[Ruby](http://www.ruby-lang.org/zh_cn/)
+        - 启动art Command Prompt with Ruby，淘宝RubyGems镜像安装 sass
+        - gem sources --remove https://rubygems.org/
+        - gem sources -a https://ruby.taobao.org/ 【如果你系统不支持https，请将淘宝源更换成：gem sources -a http://gems.ruby-china.org】
+        - gem sources -l
+        - gem install sass
       - 或许你不喜欢使用命令行执行sass编译，那么使用GUI工具[Koala](http://koala-app.com/index.html)更适合你。
       - [compass](http://www.ruanyifeng.com/blog/2012/11/compass.html)
       - [安装sass和compass](http://devework.com/sass-compass.html)
