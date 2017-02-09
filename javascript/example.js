@@ -1,0 +1,1 @@
+var err = 'blog info...';
