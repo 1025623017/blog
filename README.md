@@ -5,6 +5,8 @@
 >
 > 博客地址：http://1025623017.github.io/blog
 >
+> [给我写信](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=w-Lz8fb18fDz8vSDsrLtoKyu)
+>
 > 前端树图1：http://1025623017.github.io/blog/images/tree.jpg
 >
 > 图2：https://raw.githubusercontent.com/unruledboy/WebFrontEndStack/master/Web%20Front%20End%20Stack.png
