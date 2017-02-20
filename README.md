@@ -370,7 +370,7 @@
 
 
 
-## 不错的网站
+## 推荐
 
 
 
@@ -383,9 +383,6 @@
   - [Youtube视频下载](http://www.clipconverter.cc/)
   - [阿里云OSS](https://help.aliyun.com/document_detail/31883.html?spm=5176.doc31817.6.108.zNcxQ8)
   - [Plupload文档](http://www.phpin.net/tools/plupload/)
-  - Games
-    - [贪食蛇](http://slither.io/)
-    - [贪食蛇动物版](http://mope.io/)
 
 
 
@@ -423,6 +420,11 @@ _持续更新，了解更多请浏览我的[博客](http://1025623017.github.io/
 ``` javascript
 
 /*
+
+	学习vue组件的写法
+	gulp、webpack的安装使用
+	npm、node的原理
+	写软文推广博客
 
 ## 待整理
 
