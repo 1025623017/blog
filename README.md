@@ -322,8 +322,7 @@
 
   - 微信开发者工具[下载](#)
   - ![字体设计](https://mp.weixin.qq.com/debug/wxadoc/design/image/8Font.png?t=2017118)
-  - //
-
+  - [调用微信JS-SDK接口上传图片](http://blog.csdn.net/fengqingtao2008/article/details/51469705)
 
 
 
