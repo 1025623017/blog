@@ -69,7 +69,7 @@
       - Sass安装(gulp with sass click [HERE](http://www.jianshu.com/p/f6ef362743eb))：
         - 安装[Ruby](http://www.ruby-lang.org/zh_cn/)
         - 启动art Command Prompt with Ruby，淘宝RubyGems镜像安装 sass
-        - ``` cmd
+          ``` cmd
             gem sources --remove https://rubygems.org/
             gem sources -a https://ruby.taobao.org/ 
             (如果你系统不支持https，请将淘宝源更换成：gem sources -a http://gems.ruby-china.org)
