@@ -520,13 +520,9 @@ _持续更新，了解更多请浏览我的[博客](http://1025623017.github.io/
 ``` txt
 Vacation at
 
-清明节：4月2日至4日放假调休，共3天。4月1日（星期六）上班。
-
-劳动节：5月1日放假，与周末连休。
-
 端午节：5月28日至30日放假调休，共3天。5月27日（星期六）上班。
 
 中秋节、国庆节：10月1日至8日放假调休，共8天。9月30日（星期六）上班。
 ```
 
-Copyright &copy; 2015-2017 Murphy Leung Powered By Github
+Copyright &copy; 2015-2018 Murphy Leung Powered By Github
