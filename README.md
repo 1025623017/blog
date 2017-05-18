@@ -7,6 +7,10 @@
 >
 > [给我写信](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=w-Lz8fb18fDz8vSDsrLtoKyu)
 >
+> sina_mail：W1025623017@sina.com
+>
+> 在steam上联系我：178678356
+>
 > 前端树图1：http://1025623017.github.io/blog/images/tree.jpg
 >
 > 图2：https://raw.githubusercontent.com/unruledboy/WebFrontEndStack/master/Web%20Front%20End%20Stack.png
