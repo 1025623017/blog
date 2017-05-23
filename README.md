@@ -547,3 +547,48 @@ XAMPP
 composer update -vvv
 
 ```
+
+
+``` txt
+
+技术点
+————————————————————————————————
+admin商城后台管理
+
+PHP                         Laravel
+阿里云服务器                 阿里云图片上传
+app/http/controllers        dd()显示接口返回的json
+app/http/routes             网页路由管理
+
+bootstrap
+npm
+gulp
+vue
+nodejs
+
+————————————————————————————————
+VUX手机入驻
+
+webpack
+
+————————————————————————————————
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
