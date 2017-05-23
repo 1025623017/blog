@@ -560,12 +560,24 @@ PHP                         Laravel
 app/http/controllers        dd()显示接口返回的json
 app/http/routes             网页路由管理
 
-bootstrap
+bootstrap(ace)              下拉框、日期选择器、分页、vue-filter解析时间戳
+jq
 npm
 gulp
 vue
+avalon
+地区三级联动下拉
+地区联动多选
+ECharts
+ztree
 nodejs
-
+font-awesome
+sharejs
+自制ajax封装
+layer弹出层
+秀米
+百度富文本umeditor
+腾讯amap
 
 
 ————————————————————————————————
