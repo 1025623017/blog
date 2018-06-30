@@ -8,8 +8,8 @@
   <meta name="keywords" content="Murphy Leung,流星酱,博客,GitHub">
   <meta name="author" content="Murphy Leung,1025623017@qq.com">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
-  <meta property="wb:webmaster" content="ffcf1b55537d41fe" />
-  <script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js?appkey=4031961485&debug=true" type="text/javascript" charset="utf-8"></script>
+  <!-- <meta property="wb:webmaster" content="ffcf1b55537d41fe" /> -->
+  <!-- // <script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js?appkey=4031961485&debug=true" type="text/javascript" charset="utf-8"></script> -->
   <link rel="shortcut icon" href="images/1025623017.png">
   <link href="bootstrap-3.3.5-dist/css/bootstrap.min.css" rel="stylesheet">
   <!--[if lt IE 9]>
@@ -164,9 +164,11 @@
       </div>
     </div>
   </div>
-  <!--音乐播放器-->
   <div class="text-center">
-    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="http://music.163.com/outchain/player?type=0&id=113373278&auto=0&height=430"></iframe>
+    <!--音乐播放器 in iframe-->
+    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="450" src="http://music.163.com/outchain/player?type=0&id=113373278&auto=0&height=430"></iframe>
+    <!--音乐播放器 in flase-->
+    <!-- <embed src="//music.163.com/style/swf/widget.swf?sid=113373278&amp;type=0&amp;auto=1&amp;width=310&amp;height=430" width="330" height="450" bgcolor="#e8e8e8" allownetworking="all" id="auto-id-cPyyiO0s8pGdkRXe"> -->
   </div>
   <!--版权-->
   <div id="footer">
@@ -187,7 +189,7 @@
   <script src="bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
   <script src="http://cdn.bootcss.com/vue/1.0.26/vue.min.js"></script>
   <script src="http://cdn.bootcss.com/vue-filter/0.1.6/vue-filter.min.js"></script>
-  <script src="js/comm.js"></script>
+  <script src="js/comm.js"></script><!--
   <script>
       index.init();
       $(function() {
@@ -213,7 +215,7 @@
       function logout() {
         console.warn('logout``````````````````````');
       };
-  </script>
+  </script>-->
   <!--coffeeScript-->
   <script src="js/test.js"></script>
 </html>

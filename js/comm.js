@@ -25,7 +25,9 @@ var index = new Vue({
 
       //获取数据库
       $.ajax({
-        url: '/blog/db/db',
+        // 本地测试使用网上数据库
+        url: 'https://1025623017.github.io/blog/db/db',
+        // url: '/blog/db/db',
         type: 'GET',
         success: function(rsp) {
           eval('index.db = ' + rsp)
