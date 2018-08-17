@@ -389,6 +389,7 @@
   - [Youtube视频下载](http://www.clipconverter.cc/)
   - [阿里云OSS](https://help.aliyun.com/document_detail/31883.html?spm=5176.doc31817.6.108.zNcxQ8)
   - [Plupload文档](http://www.phpin.net/tools/plupload/)
+  - [环游世界猜地名（游戏）](https://www.geoguessr.com/)
 
 
 
@@ -539,8 +540,6 @@ Copyright &copy; 2015-2018 Murphy Leung Powered By Github
 
 ``` txt
 
-清除QQ、微信、github（此电脑->文档   也要）
-
 XAMPP
 
 微信web开发者工具
@@ -552,8 +551,6 @@ composer update -vvv
 
 ``` txt
 
-技术点
-————————————————————————————————
 admin商城后台管理
 
 PHP                         Laravel
@@ -592,33 +589,5 @@ webpack
 ————————————————————————————————
 
 ```
-
-
-
-
-
-
-
-
-## My CAD Life
-
-
-  - 概念
-    - 栅格
-      - 笛卡尔（方格）：默认1毫米间距
-      - 极坐标（雷达）
-      - 原点可选择为坐标系
-
-    - 长度分为：弱尺寸、强尺寸
-
-    - 构造模式（辅助作用）
-
-    - 法向：水平、垂直、两点间的距离标注
-
-  - 实际操作
-    - 
-
-https://www.geoguessr.com/
-
 
 
