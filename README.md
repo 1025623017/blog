@@ -524,16 +524,6 @@ _持续更新，了解更多请浏览我的[博客](http://1025623017.github.io/
 
 
 
-``` txt
-Vacation at
-
-端午节：5月28日至30日放假调休，共3天。5月27日（星期六）上班。
-
-中秋节、国庆节：10月1日至8日放假调休，共8天。9月30日（星期六）上班。
-```
-
-Copyright &copy; 2015-2018 Murphy Leung Powered By Github
-
 
 
 
@@ -588,31 +578,4 @@ webpack
 
 ————————————————————————————————
 
-```
-
-> [网易云音乐](https://music.163.com/#/my/m/music/playlist?id=113373278)
->
-> [优酷视频（火影、假面骑士）](https://faxian.youku.com/watch_record)
->
-> [1](http://codepen.io/)
->
-> 
-> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Copyright &copy; 2015-2018 Murphy Leung Powered By Github
