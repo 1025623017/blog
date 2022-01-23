@@ -165,9 +165,11 @@
         <ul>
           <li>深圳：</li>
           <li v-for="el in db.news">
-            <h3>{{el.title}}</h3>
+            <h3>
+              <!--  {{el.title}}>
+            </h3>
             <p>
-              {{el.body}}
+              <!--  {{el.body}}>
             </p>
           </li>
         </ul>
@@ -175,10 +177,11 @@
     </div>
   </div>
   <div class="text-center">
-    <!--音乐播放器 in iframe-->
-    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="450" src="http://music.163.com/outchain/player?type=0&id=113373278&auto=0&height=430"></iframe>
-    <!--音乐播放器 in flase-->
-    <!-- <embed src="//music.163.com/style/swf/widget.swf?sid=113373278&amp;type=0&amp;auto=1&amp;width=310&amp;height=430" width="330" height="450" bgcolor="#e8e8e8" allownetworking="all" id="auto-id-cPyyiO0s8pGdkRXe"> -->
+    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=32648328&auto=0&height=66"></iframe>
+        <!--音乐播放器 in iframe
+            <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="450" src="http://music.163.com/outchain/player?type=0&id=113373278&auto=0&height=430"></iframe>
+            <embed src="//music.163.com/style/swf/widget.swf?sid=113373278&amp;type=0&amp;auto=1&amp;width=310&amp;height=430" width="330" height="450" bgcolor="#e8e8e8" allownetworking="all" id="auto-id-cPyyiO0s8pGdkRXe">
+        -->
   </div>
   <!--版权-->
   <div id="footer">
