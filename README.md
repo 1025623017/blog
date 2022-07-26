@@ -9,16 +9,13 @@
 >
 > sina_mail：W1025623017@sina.com
 >
-> 在steam上联系我：178678356
->
 > 前端树图1：http://1025623017.github.io/blog/images/tree.jpg
 >
-> 图2：https://raw.githubusercontent.com/unruledboy/WebFrontEndStack/master/Web%20Front%20End%20Stack.png
+> 前端树图2：https://raw.githubusercontent.com/unruledboy/WebFrontEndStack/master/Web%20Front%20End%20Stack.png
 >
 > [Edit this page](https://github.com/1025623017/blog/edit/master/README.md)
 >
-> To new,https://www.imooc.com/ is really helpful.
->
+
 
 
 ## 知识分享
@@ -405,8 +402,8 @@
 
 
 
-  - [茂名职业技术学院-计算机工程系](http://www.mmvtc.cn/templet/jsjgcx/index.jsp)
-  - [数码相机商城](http://1025623017.hgfree.kuxier.club)
+  - [茂名职业技术学院-计算机工程系](http://www.mmvtc.cn/templet/jsjgcx/index.jsp)(链接已失效)
+  - [数码相机商城](http://1025623017.hgfree.kuxier.club)(链接已失效)
 
 
 
@@ -578,4 +575,4 @@ webpack
 
 ————————————————————————————————
 
-Copyright &copy; 2015-2018 Murphy Leung Powered By Github
+Copyright &copy; 2015-2022 Murphy Leung Powered By Github
