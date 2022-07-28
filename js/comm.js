@@ -36,3 +36,5 @@ var index = new Vue({
     }
   }
 })
+
+var t = function()｛document.documentElement.scrollTop=0｝
