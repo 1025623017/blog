@@ -460,7 +460,8 @@ _持续更新，了解更多请浏览我的[博客](http://1025623017.github.io/
           - *display: inline-block;
           - *width: auto;
       - FC：指页面中的一个渲染区域，并且拥有一套渲染规则，他决定了其子元素如何定位，以及与其他元素的相互关系和作用
-      - BFC：Block formatting context(块级格式化上下文)，它是指一个独立的块级渲染区域，只有Block-level BOX参与，该区域拥有一套渲染规则来约束块级盒子的布局，且与区域外部无关。
+      - BFC：Block formatting context(块级格式化上下文)，它是指一个独立的块级渲染区域，只有Block-level BOX参与，
+      	- 该区域拥有一套渲染规则来约束块级盒子的布局，且与区域外部无关。
       - absolute(float的兄弟)：
         - 无依赖：不设父元素relative和定位值，具有跟随性(相对定位效果)，设置内外边距即可
         - 下拉框、图标定位、居中靠右定位、对齐
@@ -580,8 +581,8 @@ webpack
 筋：thick * 75%~80%(0.8mm~1mm~1.2mm)
 拔模：前1°后0.5°斜壁3°
 碰穿：3°
+————————————————————————————————
 
 ```
-————————————————————————————————
 
 Copyright &copy; 2015-2022 Murphy Leung Powered By Github
