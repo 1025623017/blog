@@ -1,13 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<html xmlns:wb="http://open.weibo.com/wb" lang="en">
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>个人简历 - Murphy Leung</title>
-  <meta name="description" content="Murphy Leung,流星酱,博客,Github">
-  <meta name="keywords" content="Murphy Leung,流星酱,博客,Github">
+  <title>Murphy Leung的博客</title>
+  <meta name="description" content="Murphy Leung,博客,GitHub">
+  <meta name="keywords" content="Murphy Leung,博客,GitHub">
   <meta name="author" content="Murphy Leung,1025623017@qq.com">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+  <!-- <meta property="wb:webmaster" content="ffcf1b55537d41fe" /> -->
+  <!-- // <script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js?appkey=4031961485&debug=true" type="text/javascript" charset="utf-8"></script> -->
   <link rel="shortcut icon" href="images/1025623017.png">
   <link href="bootstrap-3.3.5-dist/css/bootstrap.min.css" rel="stylesheet">
   <!--[if lt IE 9]>
@@ -16,7 +18,7 @@
   <![endif]-->
   <link rel="stylesheet" href="css/base.css">
 </head>
-<body>
+<body id="index" v-cloak>
   <!--导航-->
   <nav id="nav" class="navbar navbar-default" role="navigation">
     <div class="navbar-header">
@@ -32,11 +34,11 @@
     </div>
     <div class="collapse navbar-collapse" id="navbar-collapse">
       <ul class="nav navbar-nav">
-        <li>
+        <li class="active">
           <a href="index.html">首页</a>
         </li>
         <li>
-          <a href="https://github.com/1025623017/blog/blob/gh-pages/README.md">
+          <a href="https://github.com/1025623017/blog">
             前端分享
           </a>
         </li>
@@ -65,7 +67,7 @@
         </li>
         <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:;">
-            生活与娱乐<span class="caret"></span>
+            推荐网站<span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
             <li class="nav-title">
@@ -92,44 +94,20 @@
             <li class="divider"></li>
             <li>
               <b>社交</b>
+              <a href="https://weibo.com/u/2649907274" target="_blank">
+                <img src="images/weibo.png" alt="">Sina Weibo
+              </a>
               <a href="https://twitter.com/Murphy_Leung" target="_blank">
                 <img src="images/twitter.png" alt="">Twitter
               </a>
-              <a href="http://weibo.com/1025623017Murphy" target="_blank">
-                <img src="images/weibo.png" alt="">Sina Weibo
+              <a href="https://www.youtube.com/" target="_blank">
+                <img src="" alt="">YouTube
               </a>
-            <li class="divider"></li>
-            <li>
-              <b>图片</b>
-              <a href="http://www.duitang.com" target="_blank">
-                <img src="images/duitang.png" alt="">堆糖网
-              </a>
-              <a href="http://www.panoramastock.com" target="_blank">
-                <img src="images/idea.png" alt="">创意画廊
-              </a>
-            </li>
-            <li class="divider"></li>
-            <li>
-              <b>免费域名空间</b>
-              <a href="http://1025623017.hgfree.kuxier.club" target="_blank">
-                Kuxier
-              </a>
-            </li>
             <li class="divider"></li>
             <li>
               <b>我在GitHub</b>
               <a href="https://github.com/1025623017" target="_blank">
                 <img src="images/github.png" alt="">GitHub
-              </a>
-            </li>
-            <li class="divider"></li>
-            <li>
-              <b>其他</b>
-              <a href="http://www.paopaoche.net/gonglue/14795_3.html" target="_blank">
-                <img src="https://s2.ssl.qhres2.com/static/121a1737750aa53d.ico" alt="">绿宝石空间传送秘籍
-              </a>
-              <a href="https://wenda.so.com/q/1537137957210776" target="_blank">
-                <img src="https://s2.ssl.qhres2.com/static/121a1737750aa53d.ico" alt="">绿宝石其他秘籍
               </a>
             </li>
           </ul>
@@ -220,10 +198,6 @@
         - 玩具设计优先<br>
       </p>
     </div>
-    <p>
-      <br>
-      <a href="https://www.51job.com/">查看我在51job的简历</a>
-    </p>
   </div>
   <!--版权-->
   <div id="footer">
@@ -231,7 +205,7 @@
       Powerd by Bootstrap | Designed by Murphy Leung
     </div>
     <div class="author-copy">
-      Copyright &copy; 2016-2021 Murphy Leung流星酱
+      Copyright &copy; 2016-2022 Murphy Leung
     </div>
     <div class="author-number">
       粤ICP备00000000号
