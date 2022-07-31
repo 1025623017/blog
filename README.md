@@ -576,6 +576,7 @@ webpack
 
 ``` txt
 
+https://app.gumroad.com/dashboard/sales
 夹模：7°
 料厚：0.8mm~1mm~1.5mm
 筋：thick * 75%~80%(0.8mm~1mm~1.2mm)
