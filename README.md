@@ -622,9 +622,9 @@ webpack
 ``` txt
 
 https://app.gumroad.com/dashboard/sales
-夹模：7°
+夹模：7°~10°
 料厚：0.8mm~1mm~1.5mm
-筋：thick * 75%~80%(0.8mm~1mm~1.2mm)
+筋：thicks * 75% ~ 80%(0.8mm~1mm~1.2mm)
 拔模：前1°后0.5°斜壁3°
 碰穿：3°
 
@@ -653,4 +653,4 @@ https://app.gumroad.com/dashboard/sales
 	[柴耀Studio](https://weibo.com/u/2480695131)
 
 
-Copyright &copy; 2015-2022 Murphy Leung Powered By Github
+Copyright &copy; 2015-2023 Murphy Leung Powered By Github
