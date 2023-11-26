@@ -437,8 +437,8 @@
 
 
 
-  - 深圳市友福同享信息科技有限公司([Wiki](http://wiki.ufutx.net/doku.php?id=webenvconfig))
-  - 江门市MXM(Moldle Cross Me)模型工具店
+  - 深圳市友福同享信息科技有限公司([Wiki](http://wiki.ufutx.net/doku.php?id=webenvconfig)) 2016 ～ 2017
+  - 江门市MXM(Moldle Cross Me)模型工具店 2017/08/01 ～ 2024/01/01
 
 
 
