@@ -3,11 +3,11 @@
 
 
 >
-> 博客地址：http://1025623017.github.io/blog
+> [Go to my blog]：http://1025623017.github.io/blog
 >
-> [给我写信](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=w-Lz8fb18fDz8vSDsrLtoKyu)
+> [Email to me 给我写信](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=w-Lz8fb18fDz8vSDsrLtoKyu)
 >
-> sina_mail：W1025623017@sina.com
+> My Sina_Email：W1025623017@sina.com
 >
 > 前端树图1：http://1025623017.github.io/blog/images/tree.jpg
 >
@@ -16,20 +16,36 @@
 > [Edit this page](https://github.com/1025623017/blog/edit/master/README.md)
 >
 
+## 模具知识分享
 
 
-## 知识分享
+
+  - 工具
+    - PTC Creo Parametric 3.0 M100
+    - ZBrush 2021
+    - Rhino 6
+    - Autodesk_3ds_Max_2020
+    - Adobe Photoshop CS5
+    - Adobe Illustrator CC 2018
+
+  - 教程
+    - [PROE/CREO全网最全工程图教程！！！](https://www.bilibili.com/video/BV1xb4y147xf/)
+
+  - 
+
+
+
+## 前端知识分享
 
 
 
   - 工具
     - 浏览器
-      - Chorme
-      - Firefox
+      - Chorme(世界上最好的浏览器)
       - Safari
       - IE
     - Firebug
-    - 翻墙工具：[Lantern](https://github.com/getlantern/lantern)
+    - VPN：[Lantern](https://github.com/getlantern/lantern)
     - [Sublime Text 3](http://www.sublimetext.com)
       - Sublime Text有各种好用的[插件](http://www.oschina.net/translate/20-powerful-sublimetext-plugins)
       - [汉化版下载](http://haojian138.blog.163.com/blog/static/212643110201393010438357)
