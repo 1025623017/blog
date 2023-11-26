@@ -57,7 +57,7 @@
 
   - [白骑士 绝邢战士/EVA初号机 觉醒版 合金成品](https://www.bilibili.com/video/BV1qx411f7a7)
   - EVA二号机β 合金成品
-  - 
+  - [独角兽高达 结晶爆发](8.28 l@C.hb 12/19 GvS:/ 打包走人# 高达 # 模型  https://v.douyin.com/iRsYcSct/ 复制此链接，打开Dou音搜索，直接观看视频！)
 
 
 
