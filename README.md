@@ -448,6 +448,7 @@
 
   - [茂名职业技术学院-计算机工程系](http://www.mmvtc.cn/templet/jsjgcx/index.jsp)(链接已失效)
   - [数码相机商城](http://1025623017.hgfree.kuxier.club)(链接已失效)
+  - [茂名职业技术学院-食品安全与质量控制](https://1025623017.github.io/blog/chemistry/index.html)
 
 
 
