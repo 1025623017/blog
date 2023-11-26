@@ -39,15 +39,16 @@
   - 万代 中国 奥特曼系列
   - 万代 日本 高达系列
   - 万代 日本 扭蛋系列
+  - 万代 日本 NX系列 EVA二号机 最终决战样式
   - 万代 中国 南梦宫 周边产品
   - [CCS 铁魄 魔装机神 塞巴斯塔 精灵凭依 合金成品模型](https://www.bilibili.com/video/BV1Ze411Q7iT)
   - 小号手 变形金刚系列
 
-	-	GK系列
-	  - 断空我
+  - GK系列
+    - 断空我
     - EVA
-  	- 机动战士高达
-	  - 超级阿斯拉达 AKF-11 气流模式/加速模式[超级阿斯拉达 AKF-11 气流模式/加速模式](https://acg.78dm.net/ct/367474.html)
+    - 机动战士高达
+    - 超级阿斯拉达 AKF-11 气流模式/加速模式[超级阿斯拉达 AKF-11 气流模式/加速模式](https://acg.78dm.net/ct/367474.html)
 
   - 诚造社 变形金刚系列
   - 核诚治造 机娘系列
@@ -57,7 +58,7 @@
 
   - [白骑士 绝邢战士/EVA初号机 觉醒版 合金成品](https://www.bilibili.com/video/BV1qx411f7a7)
   - EVA二号机β 合金成品
-  - [独角兽高达 结晶爆发](8.28 l@C.hb 12/19 GvS:/ 打包走人# 高达 # 模型  https://v.douyin.com/iRsYcSct/ 复制此链接，打开Dou音搜索，直接观看视频！)
+  - [独角兽高达 结晶爆发](https://v.douyin.com/iRsYcSct)
 
 
 
