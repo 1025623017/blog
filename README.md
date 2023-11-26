@@ -3,9 +3,9 @@
 
 
 >
-> [Go to my blog]：http://1025623017.github.io/blog
+> Go to my blog：[http://1025623017.github.io/blog](http://1025623017.github.io/blog)
 >
-> [Email to me 给我写信](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=w-Lz8fb18fDz8vSDsrLtoKyu)
+> [Email to me](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=w-Lz8fb18fDz8vSDsrLtoKyu)
 >
 > My Sina_Email：W1025623017@sina.com
 >
@@ -29,9 +29,27 @@
     - Adobe Illustrator CC 2018
 
   - 教程
-    - [PROE/CREO全网最全工程图教程！！！](https://www.bilibili.com/video/BV1xb4y147xf/)
+    - [PROE/CREO全网最全工程图教程！！！](https://www.bilibili.com/video/BV1xb4y147xf)
 
-  - 
+
+
+## 我的产品
+
+  - 万代 中国 假面骑士系列
+  - 万代 中国 奥特曼系列
+  - 万代 日本 高达系列
+  - 万代 日本 扭蛋系列
+  - 万代 中国 南梦宫 周边产品
+  - [CCS 铁魄 魔装机神 塞巴斯塔 精灵凭依 合金成品模型](https://www.bilibili.com/video/BV1Ze411Q7iT)
+  - 小号手 变形金刚系列
+  - 断空我 GK系列
+  - 机动战士高达 GK系列
+  - Proe逆向工程
+  - 诚造社 变形金刚系列
+  - 核诚治造 机娘系列
+  - 核诚治造 扭蛋系列
+  - 核诚治造 驳机制系列
+  - 核诚治造 MA.K 系列
 
 
 
