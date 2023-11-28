@@ -35,31 +35,11 @@
 
 ## 我的产品
 
-  - 万代 中国 假面骑士系列
-  - 万代 中国 奥特曼系列
-  - 万代 日本 高达系列
-  - 万代 日本 扭蛋系列
-  - 万代 日本 NX系列 EVA二号机 最终决战样式
-  - 万代 中国 南梦宫 周边产品
   - [CCS 铁魄 魔装机神 塞巴斯塔 精灵凭依 合金成品模型](https://www.bilibili.com/video/BV1Ze411Q7iT)
-  - 小号手 变形金刚系列
-
-  - GK系列
-    - 断空我
-    - EVA
-    - 机动战士高达
-    - [超级阿斯拉达 AKF-11 气流模式/加速模式](https://acg.78dm.net/ct/367474.html)
-
-  - 诚造社 变形金刚系列
-  - 核诚治造 机娘系列
-  - 核诚治造 扭蛋系列
-  - 核诚治造 驳机制系列
-  - 核诚治造 MA.K 系列
-
+  - [核诚治造 MA.K 系列](https://www.bilibili.com/video/BV1MV411P7jX)
   - [白骑士 绝邢战士/EVA初号机 觉醒版 合金成品](https://www.bilibili.com/video/BV1qx411f7a7)
-  - RAH EVA二号机β
   - [独角兽高达 结晶爆发](https://v.douyin.com/iRsYcSct)
-  - Metal Power 宇宙骑士
+  - [Metal Power 宇宙骑士](https://www.bilibili.com/video/BV1B34y177eZ)
 
   > 未完待续...
 
