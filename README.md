@@ -38,7 +38,7 @@
     - 加强筋
     - 止口
     - 拔模
-      - 前模 1°(0°~1°),如涉及喷油请拔模7°~10°
+      - 前模 1°(0° ~ 1°),如涉及喷油请拔模7° ~ 10°
       - 后模 0.5°
       - 分模线跳转处 3°~5°
       - 碰穿 3°
@@ -55,9 +55,12 @@
   - 国产KO
     - [白骑士 绝邢战士/EVA初号机觉醒 合金成品](https://www.bilibili.com/video/BV1qx411f7a7)
     - 白骑士 绝邢战士/EVA二号机β 合金成品
+    - [诚造社 大力神](https://www.bilibili.com/video/BV1Tv411v7CR)
 
   - 国产授权
     - [Metal Power 宇宙骑士](https://www.bilibili.com/video/BV1B34y177eZ)
+    - [核诚治造×78动漫 Ma.K Zbv3000 古斯塔夫 P.K.A. Ausf.G 橘橙版](https://www.bilibili.com/video/BV1Ky4y1j7AK))
+    - [核诚治造LunchBox熊丸RACOON](https://www.bilibili.com/video/BV18z4y1J7ue)
 
   - GK
       - [独角兽高达 结晶爆发](https://v.douyin.com/iRsYcSct)
