@@ -181,8 +181,8 @@
     - [诚造社 大力神](https://www.bilibili.com/video/BV1Tv411v7CR)
 
   - 其他
-  - [Metal Power 宇宙骑士](https://www.bilibili.com/video/BV1B34y177eZ)
-  - [钢铁侠 MK85](https://www.bilibili.com/video/BV1Cj411d7S4)
+    - [Metal Power 宇宙骑士](https://www.bilibili.com/video/BV1B34y177eZ)
+    - [钢铁侠 MK85](https://www.bilibili.com/video/BV1Cj411d7S4)
 
   > To Be Continued...
   > 
@@ -197,7 +197,7 @@
     - 浏览器
       - Chorme(世界上最好的浏览器)
       - Safari
-      - IE
+      - IE(Worse IE Ever)
     - Firebug
     - VPN：[Lantern](https://github.com/getlantern/lantern)
     - [Sublime Text 3](http://www.sublimetext.com)
