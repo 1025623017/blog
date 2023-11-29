@@ -780,4 +780,4 @@ https://app.gumroad.com/dashboard/sales
 	[柴耀Studio](https://weibo.com/u/2480695131)
 
 
-Copyright &copy; 2015-2024 Murphy Leung Powered By Github
+Copyright &copy; 2016-2024 Murphy Leung Powered By Github
