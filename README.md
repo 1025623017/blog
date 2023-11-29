@@ -9,9 +9,9 @@
 >
 > My Sina_Email：W1025623017@sina.com
 >
-> 前端树图1：http://1025623017.github.io/blog/images/tree.jpg
+> 前端树图1：https://raw.githubusercontent.com/1025623017/blog/master/Front_End_teee_02.jpg
 >
-> 前端树图2：https://raw.githubusercontent.com/unruledboy/WebFrontEndStack/master/Web%20Front%20End%20Stack.png
+> 前端树图2：https://raw.githubusercontent.com/1025623017/blog/master/Front_End_teee_02.jpg
 >
 > [Edit this page](https://github.com/1025623017/blog/edit/master/README.md)
 >
@@ -36,7 +36,6 @@
 ## 我的产品
 
   - [CCS 铁魄 魔装机神 塞巴斯塔 精灵凭依 合金成品模型](https://www.bilibili.com/video/BV1Ze411Q7iT)
-  - [核诚治造 MA.K 系列](https://www.bilibili.com/video/BV1MV411P7jX)
   - [白骑士 绝邢战士/EVA初号机 觉醒版 合金成品](https://www.bilibili.com/video/BV1qx411f7a7)
   - [独角兽高达 结晶爆发](https://v.douyin.com/iRsYcSct)
   - [Metal Power 宇宙骑士](https://www.bilibili.com/video/BV1B34y177eZ)
