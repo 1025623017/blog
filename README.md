@@ -9,9 +9,9 @@
 >
 > My Sina_Email：W1025623017@sina.com
 >
-> 前端树图1：https://raw.githubusercontent.com/1025623017/blog/master/Front_End_teee_01.jpg
+> Web Front Tree Mindmap 01：https://raw.githubusercontent.com/1025623017/blog/master/Front_End_teee_01 .png
 >
-> 前端树图2：https://raw.githubusercontent.com/1025623017/blog/master/Front_End_teee_02.jpg
+> Web Front Tree Mindmap 02：https://raw.githubusercontent.com/1025623017/blog/master/Front_End_teee_02.jpg
 >
 > [Edit this page](https://github.com/1025623017/blog/edit/master/README.md)
 >
@@ -43,7 +43,6 @@
   - [奥特曼合体武装 捷德/贝利亚](https://www.bilibili.com/video/BV1ch4y1Y7m3)
   - [假面骑士极狐 迷你发声腰带 02 极狐/娜猫](https://www.bilibili.com/video/BV1EM411Q76h)
   - [假面骑士极狐 迷你发声腰带 02 霸牛/太狸](https://www.bilibili.com/video/BV1Xu4y1h7mK)
-  - []()
   - []()
   - []()
   - []()
