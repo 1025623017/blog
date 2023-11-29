@@ -40,6 +40,8 @@
   - [白骑士 绝邢战士/EVA初号机 觉醒版 合金成品](https://www.bilibili.com/video/BV1qx411f7a7)
   - [独角兽高达 结晶爆发](https://v.douyin.com/iRsYcSct)
   - [Metal Power 宇宙骑士](https://www.bilibili.com/video/BV1B34y177eZ)
+  - [奥特曼合体武装 迪迦/特利迦](https://www.bilibili.com/video/BV1ch4y1Y7m3)
+  - [奥特曼合体武装 捷德/贝利亚](https://www.bilibili.com/video/BV1ch4y1Y7m3)
 
   > 未完待续...
 
