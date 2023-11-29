@@ -90,6 +90,16 @@
 
   - GK
       - [独角兽高达 结晶爆发](https://v.douyin.com/iRsYcSct)
+      - [1/400 独角兽高达1号机 独角兽模式]()
+      - [1/400 独角兽高达2号机 独角兽模式]()
+      - [1/400 独角兽高达3号机 独角兽模式]()
+      - [1/400 独角兽高达1号机 毁灭模式]()
+      - [1/400 独角兽高达2号机 毁灭模式]()
+      - [1/400 独角兽高达3号机 毁灭模式]()
+      - [1/400 刹帝利]()
+      - [1/100 刹帝利]()
+      - [SD 魔封真 刹帝利]()
+      - [1/400 新安洲高达]()
       - [Zaku MG2.0 Frame](https://raw.githubusercontent.com/1025623017/blog/master/zaku_frame_top.jpg)
 
   - BANDAI 万代
@@ -106,6 +116,8 @@
   - Disney 迪士尼
     - Hello Kitty
     - Mickey Mouse
+  - Marvel Comics 漫威
+  - DC Universe Animated Original Movies 华纳DC影视
 
 
   > To Be Continued...
