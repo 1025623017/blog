@@ -9,7 +9,7 @@
 >
 > My Sina_Email：W1025623017@sina.com
 >
-> 前端树图1：https://raw.githubusercontent.com/1025623017/blog/master/Front_End_teee_02.jpg
+> 前端树图1：https://raw.githubusercontent.com/1025623017/blog/master/Front_End_teee_01.jpg
 >
 > 前端树图2：https://raw.githubusercontent.com/1025623017/blog/master/Front_End_teee_02.jpg
 >
@@ -41,6 +41,16 @@
   - [Metal Power 宇宙骑士](https://www.bilibili.com/video/BV1B34y177eZ)
   - [奥特曼合体武装 迪迦/特利迦](https://www.bilibili.com/video/BV1ch4y1Y7m3)
   - [奥特曼合体武装 捷德/贝利亚](https://www.bilibili.com/video/BV1ch4y1Y7m3)
+  - [假面骑士极狐 迷你发声腰带 02 极狐/娜猫](https://www.bilibili.com/video/BV1EM411Q76h)
+  - [假面骑士极狐 迷你发声腰带 02 霸牛/太狸](https://www.bilibili.com/video/BV1Xu4y1h7mK)
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
 
   > 未完待续...
 
