@@ -1,7 +1,5 @@
 # Murphy Leung 's Personal Blog
 
-
-
 >
 > Go to my blog：[http://1025623017.github.io/blog](http://1025623017.github.io/blog)
 >
@@ -17,8 +15,6 @@
 >
 
 ## 模具知识分享(Plastic Engineers,Mould Designers,Tooling Design Engineer)
-
-
 
   - Tools
     - PTC Creo Parametric 3.0 M100
@@ -72,46 +68,7 @@
         - 其他外形 R0.5mm
         - 螺丝柱 0.5mm/0.8mm/1mm
 
-
 ## 我的产品(My Products)
-
-  - CCSTOYS
-    - [CCS 铁魄 魔装机神 塞巴斯塔 精灵凭依 合金成品模型](https://www.bilibili.com/video/BV1Ze411Q7iT)
-
-  - 国产KO
-    - [白骑士 绝邢战士/EVA初号机觉醒 合金成品](https://www.bilibili.com/video/BV1qx411f7a7)
-    - 白骑士 绝邢战士/EVA二号机β 合金成品
-    - [诚造社 大力神](https://www.bilibili.com/video/BV1Tv411v7CR)
-
-  - 国产授权
-    - [Metal Power 宇宙骑士](https://www.bilibili.com/video/BV1B34y177eZ)
-    - [核诚治造×78动漫 Ma.K Zbv3000 古斯塔夫 P.K.A. Ausf.G 橘橙版](https://www.bilibili.com/video/BV1Ky4y1j7AK))
-    - [核诚治造LunchBox熊丸RACOON](https://www.bilibili.com/video/BV18z4y1J7ue)
-
-  - GK
-      - [独角兽高达 结晶爆发](https://v.douyin.com/iRsYcSct)
-      - [1/400 独角兽高达1号机 独角兽模式]()
-      - [1/400 独角兽高达2号机 独角兽模式]()
-      - [1/400 独角兽高达3号机 独角兽模式]()
-      - [1/400 独角兽高达1号机 毁灭模式]()
-      - [1/400 独角兽高达2号机 毁灭模式]()
-      - [1/400 独角兽高达3号机 毁灭模式]()
-      - [1/400 刹帝利]()
-      - [1/100 刹帝利]()
-      - [SD 魔封真 刹帝利]()
-      - [1/400 新安洲高达]()
-      - [1/60 决斗高达]()
-      - [1/60 强袭自由高达]()
-      - [1/100 自由高达 MG2.0 部分造型修改GK]()
-      - [RG 二号机 屋岛作战 盾牌]()
-      - [小号手模型 变形金刚 机体01]()
-      - [小号手模型 变形金刚 机体02]()
-      - [小号手模型 变形金刚 机体03]()
-      - [小号手模型 变形金刚 机体04]()
-      - [炼技人 A5 遮盖带]()
-      - [炼技人 A5 切割线]()
-      - [炼技人 吸尘器]()
-      - [Zaku MG2.0 Frame](https://raw.githubusercontent.com/1025623017/blog/master/zaku_frame_top.jpg)
 
   - BANDAI 万代
     - BANDAI(日本)
@@ -123,16 +80,62 @@
       - [奥特曼合体武装 迪迦/特利迦](https://www.bilibili.com/video/BV1ch4y1Y7m3)
       - [奥特曼合体武装 捷德/贝利亚](https://www.bilibili.com/video/BV1ch4y1Y7m3)
       - [假面骑士极狐 迷你发声腰带 02 极狐/娜猫](https://www.bilibili.com/video/BV1EM411Q76h)
-      - [假面骑士极狐 迷你发声腰带 02 霸牛/太狸](https://www.bilibili.com/video/BV1Xu4y1h7mK)
+
+  - CCSTOYS
+    - [CCS 铁魄 魔装机神 塞巴斯塔 精灵凭依 合金成品模型](https://www.bilibili.com/video/BV1Ze411Q7iT)
+
+  - 核诚治造
+    - [核诚治造×78动漫 Ma.K Zbv3000 古斯塔夫 P.K.A. Ausf.G 橘橙版](https://www.bilibili.com/video/BV1Ky4y1j7AK))
+    - [核诚治造LunchBox熊丸RACOON](https://www.bilibili.com/video/BV18z4y1J7ue)
+
+  - GK
+      - 高达
+        - [万代 扎古 Zaku MG2.0 Frame](https://raw.githubusercontent.com/1025623017/blog/master/zaku_frame_top.jpg)
+        - [独角兽高达 结晶爆发](https://v.douyin.com/iRsYcSct)
+        - [1/400 独角兽高达1号机 独角兽模式]()
+        - [1/400 独角兽高达2号机 独角兽模式]()
+        - [1/400 独角兽高达3号机 独角兽模式]()
+        - [1/400 独角兽高达1号机 毁灭模式]()
+        - [1/400 独角兽高达2号机 毁灭模式]()
+        - [1/400 独角兽高达3号机 毁灭模式]()
+        - [1/400 刹帝利]()
+        - [1/400 新安洲高达]()
+        - [1/60 决斗高达]()
+        - [1/60 强袭自由高达]()
+        - [1/100 自由高达 MG2.0 部分造型修改GK]()
+        - [1/100 刹帝利]()
+      - EVA
+        - [RG 二号机 屋岛作战 盾牌]()
+      - 小号手
+	      - [小号手模型 变形金刚 机体01]()
+	      - [小号手模型 变形金刚 机体02]()
+	      - [小号手模型 变形金刚 机体03]()
+	      - [小号手模型 变形金刚 机体04]()
+      - 炼技人
+	      - [炼技人 A5 遮盖带]()
+	      - [炼技人 A5 切割带]()
+	      - [炼技人 吸尘器]()
+      - 魔封真
+	      - [魔封真 SD刹帝利]()
+	      - [魔封真 基拉 祖鲁]()
+	      - [魔封真 h233_梅萨F-01型]()
+	      - [魔封真 GFFMC 飞翼零式]()
+      - 钢铁侠 MK5 手提箱 展开模式 GK
 
   - Disney 迪士尼
     - Hello Kitty
     - Mickey Mouse
   - Marvel Comics 漫威
-    - 钢铁侠 MK5 手提箱 展开模式 GK
-    - [钢铁侠 MK85](https://www.bilibili.com/video/BV1Cj411d7S4)
   - DC Universe Animated Original Movies 华纳DC影视
 
+  - 国产KO
+    - [白骑士 绝邢战士/EVA初号机觉醒 合金成品](https://www.bilibili.com/video/BV1qx411f7a7)
+    - 白骑士 绝邢战士/EVA二号机β 合金成品
+    - [诚造社 大力神](https://www.bilibili.com/video/BV1Tv411v7CR)
+
+    - 其他
+      - [Metal Power 宇宙骑士](https://www.bilibili.com/video/BV1B34y177eZ)
+      - [钢铁侠 MK85](https://www.bilibili.com/video/BV1Cj411d7S4)
 
   > To Be Continued...
   > 
@@ -141,10 +144,7 @@
   > 未完待续...
   > 
 
-
 ## 前端知识分享
-
-
 
   - 工具
     - 浏览器
