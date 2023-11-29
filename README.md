@@ -16,7 +16,7 @@
 > [Edit this page](https://github.com/1025623017/blog/edit/master/README.md)
 >
 
-## 模具知识分享
+## 模具知识分享(Plastic Engineers,Mould Designers,Tooling Design Engineer)
 
 
 
@@ -36,7 +36,6 @@
       - 成品 2mm/1/5mm
       - 拼装 1.5mm/1.2mm
     - 加强筋
-      - 
     - 止口
     - 拔模
       - 前模 1°(0°~1°),如涉及喷油请拔模7°~10°
@@ -48,7 +47,7 @@
 
 
 
-## 我的产品
+## 我的产品(My Products)
 
   - CCSTOYS
     - [CCS 铁魄 魔装机神 塞巴斯塔 精灵凭依 合金成品模型](https://www.bilibili.com/video/BV1Ze411Q7iT)
