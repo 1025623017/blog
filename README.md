@@ -20,7 +20,7 @@
 
 
 
-  - 工具
+  - Tools
     - PTC Creo Parametric 3.0 M100
     - ZBrush 2021
     - Rhino 6
@@ -28,8 +28,23 @@
     - Adobe Photoshop CS5
     - Adobe Illustrator CC 2018
 
-  - 教程
+  - Videos
     - [PROE/CREO全网最全工程图教程！！！](https://www.bilibili.com/video/BV1xb4y147xf)
+
+  - Standard
+    - Thickness
+      - 成品 2mm/1/5mm
+      - 拼装 1.5mm/1.2mm
+    - 加强筋
+      - 
+    - 止口
+    - 拔模
+      - 前模 1°(0°~1°),如涉及喷油请拔模7°~10°
+      - 后模 0.5°
+      - 分模线跳转处 3°~5°
+      - 碰穿 3°
+    - C角
+    - R角Radius
 
 
 
