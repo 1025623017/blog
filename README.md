@@ -14,7 +14,7 @@
 > [Edit this page](https://github.com/1025623017/blog/edit/master/README.md)
 >
 
-## 模具知识分享(Plastic Engineers,Mould Designers,Tooling Design Engineer)
+## 模具知识分享(Plastic Engineers,Mould Designers,Tooling Design Engineers)
 
   - Tools
     - PTC Creo Parametric 3.0 M100
