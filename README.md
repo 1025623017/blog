@@ -27,6 +27,7 @@
     - Autodesk_3ds_Max_2020
     - Adobe Photoshop CS5
     - Adobe Illustrator CC 2018
+    - [3D-Tool CAD-Viewer](https://www.3d-tool.de/)
 
   - Videos
     - [PROE/CREO全网最全工程图教程！！！](https://www.bilibili.com/video/BV1xb4y147xf)
