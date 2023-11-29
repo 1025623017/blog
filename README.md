@@ -89,6 +89,7 @@
 
   - GK
       - [独角兽高达 结晶爆发](https://v.douyin.com/iRsYcSct)
+      - [Zaku MG2.0 Frame](https://raw.githubusercontent.com/1025623017/blog/master/zaku_frame_top.jpg)
 
   - BANDAI 万代
     - BANDAI(日本)
