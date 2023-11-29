@@ -38,6 +38,7 @@
         - D柱
         - 矩形
         - 球形
+        - 六角柱
       - 防反装
       - 卡位
         - 0.3mm
@@ -179,9 +180,9 @@
     - 白骑士 绝邢战士/EVA二号机β 合金成品
     - [诚造社 大力神](https://www.bilibili.com/video/BV1Tv411v7CR)
 
-    - 其他
-      - [Metal Power 宇宙骑士](https://www.bilibili.com/video/BV1B34y177eZ)
-      - [钢铁侠 MK85](https://www.bilibili.com/video/BV1Cj411d7S4)
+  - 其他
+  - [Metal Power 宇宙骑士](https://www.bilibili.com/video/BV1B34y177eZ)
+  - [钢铁侠 MK85](https://www.bilibili.com/video/BV1Cj411d7S4)
 
   > To Be Continued...
   > 
