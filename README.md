@@ -119,6 +119,7 @@
       - [假面骑士Geats 圣诞卡扣 圣诞节限定](https://www.bilibili.com/video/BV1UM411m734)
       - [NX系列 EVA剧场版:│▌ Evangelion新二号机α](https://www.bilibili.com/video/BV1jU4y1P7gE)
     - BANDAI NAMCO(中国大陆)
+      - [奥特曼 超精细奥特变身器](https://www.bilibili.com/video/BV1Ad4y157Eq)
       - [奥特曼合体武装 迪迦/特利迦](https://www.bilibili.com/video/BV1ch4y1Y7m3)
       - [奥特曼合体武装 捷德/贝利亚](https://www.bilibili.com/video/BV1ch4y1Y7m3)
       - [假面骑士极狐 迷你发声腰带 02 极狐/娜猫](https://www.bilibili.com/video/BV1EM411Q76h)
