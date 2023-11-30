@@ -26,7 +26,7 @@
   - Videos
     - [PROE/CREO全网最全工程图教程！！！](https://www.bilibili.com/video/BV1xb4y147xf)
 
-  - Standard
+  - Standards
     - Thickness
       - 成品 2mm/1/5mm
       - 拼装 1.5mm/1.2mm
@@ -41,7 +41,7 @@
       - 卡位
         - 0.2mm ~ 0.5mm（卡位应做成容易加胶的形状）
     - 加强筋
-      - 
+      - Thickness * 75% ~ 80%
     - 止口
       - 起点/终点 0.5mm间隙
       - 接合面 间隙0.2mm，拔模3°
@@ -78,6 +78,7 @@
       - [NX系列 EVA剧场版:│▌ Evangelion新二号机α](https://www.bilibili.com/video/BV1jU4y1P7gE)
       - 哥斯拉
       - 其他
+
     - BANDAI NAMCO(中国大陆)
       - [奥特曼 超精细奥特变身器](https://www.bilibili.com/video/BV1Ad4y157Eq)
       - [奥特曼合体武装 迪迦/特利迦](https://www.bilibili.com/video/BV1ch4y1Y7m3)
@@ -189,13 +190,13 @@
     - [Metal Power 宇宙骑士](https://www.bilibili.com/video/BV1B34y177eZ)
     - [钢铁侠 MK85](https://www.bilibili.com/video/BV1Cj411d7S4)
 
+  [购买我的GK产品](https://app.gumroad.com/dashboard/sales)
+
   > To Be Continued...
   > 
   > 未完で続く...
   > 
   > 未完待续...
-  >
-  > 前瞻：做一个天气菜价关系图表
 
 ## 前端知识分享
 
@@ -225,21 +226,15 @@
       - [Navicat for MySQL](http://navicatformysql.en.softonic.com)
       - [WampServer](http://www.wampserver.com)
 
-
-
   - 规范
     - [代码规范](http://codeguide.bootcss.com)
     - [W3C中文网](http://www.chinaw3c.org/)
     - [HTTP权威指南](https://book.douban.com/subject/10746113)
 
-
-
   - html
     - [Bootstrap](http://v3.bootcss.com/)
     - [ACE](http://ace.jeka.by/)
     - [Foundation](http://www.runoob.com/foundation/foundation-tutorial.html)
-
-
 
   - css
     - [sass](http://www.ruanyifeng.com/blog/2012/06/sass.html)
@@ -261,8 +256,6 @@
       - 代码要变得更DRY和可维护（如衍生只需覆盖某几小条代码）
       - 理性使用预编译器（生成SoureMap减轻维护负担）和代码缩写
       - _我的书签：P00_
-
-
 
   - javascript
     - [Bootstrap中文网开源项目免费CDN服务](http://www.bootcdn.cn/)
@@ -309,8 +302,6 @@
             - 在[require.js](http://www.requirejs.cn/)环境下，引用avalon.shim.js
       - AngularJS
 
-
-
     - ![Node.js](https://avatars3.githubusercontent.com/u/10369302?v=3&s=18)Node.js
       - [淘宝镜像 & cnpm](http://npm.taobao.org)
       - [CoffeeScript](http://coffee-script.org)
@@ -350,14 +341,10 @@
       - [webpack](http://webpack.github.io/)
         - [gulp + webpack](http://www.cnblogs.com/maskmtj/archive/2016/07/21/5597307.html)
 
-
-
   - 移动端APP应用开发
     - [jQuery Mobile](http://jquerymobile.com/)
     - [MUI](http://dev.dcloud.net.cn/mui/)
     - [AUI](http://www.auicss.com/)
-
-
 
   - UI设计（用户体验）
     - [aframe VR](https://aframe.io/)
@@ -371,16 +358,12 @@
       - http://lea.verou.me/
       - https://mediatemple.net/
 
-
-
   - SEO
     - 代码简练
     - 减少链接或在`<a>`标签中设置rel="nofollow"
     - 正确的`<meta>`、`<title>`标签
     - 面包屑(让用户了解所在位置)
     - html语义化(使用适当标签，重要内容放前面)
-
-
 
   - 其他
     - 消息推送
@@ -392,8 +375,6 @@
     - XML
     - DTD
     - web安全
-
-
 
 ## ![vue图标](https://avatars1.githubusercontent.com/u/6128107?v=3&s=18)![Vux图标](https://avatars1.githubusercontent.com/u/17058719?v=3&s=18)[Vux](https://vux.li/#/)开发分享
 
@@ -492,19 +473,14 @@
         //省略参数...
       },this)
     ```
-
   - 项目示例
     - ![Vux商家入驻](http://local-pictures.img-cn-shenzhen.aliyuncs.com/201701/11/146feb7b8cb1e9ff55e9daca1d0827b6.png)
-
-
 
 ## ![Wechat图标](https://avatars0.githubusercontent.com/u/17825669?v=3&s=18)[微信小程序](https://mp.weixin.qq.com/debug/wxadoc/dev/)开发分享
 
   - 微信开发者工具[下载](#)
   - ![字体设计](https://mp.weixin.qq.com/debug/wxadoc/design/image/8Font.png?t=2017118)
   - [调用微信JS-SDK接口上传图片](http://blog.csdn.net/fengqingtao2008/article/details/51469705)
-
-
 
 ## [APICloud](http://www.apicloud.com/)开发分享
 
@@ -547,57 +523,34 @@
     - 父Widget+子Widget
     - 通过ID对Widget进行管理
 
-
-
 ## 推荐
-
-
 
   - [豆瓣读书](https://book.douban.com/)
   - [当当网](http://www.dangdang.com/)
-  - [醉牛前端](http://f2er.club/)
   - [技术类书籍](https://www.douban.com/doulist/13701898/)
-  - [边学英文边搞笑](http://9gag.com/)
-  - [buyee日本代购](http://buyee.jp/)
-  - [Youtube视频下载](http://www.clipconverter.cc/)
-  - [阿里云OSS](https://help.aliyun.com/document_detail/31883.html?spm=5176.doc31817.6.108.zNcxQ8)
   - [Plupload文档](http://www.phpin.net/tools/plupload/)
-  - [环游世界猜地名（游戏）](https://www.geoguessr.com/)
-
-
+  - [阿里云OSS](https://help.aliyun.com/document_detail/31883.html?spm=5176.doc31817.6.108.zNcxQ8)
+  - [醉牛前端](http://f2er.club/)
+  - [Youtube视频下载](http://www.clipconverter.cc/)
 
 ## 公司
-
-
 
   - 深圳市友福同享信息科技有限公司([Wiki](http://wiki.ufutx.net/doku.php?id=webenvconfig)) 2016/06/12 ～ 2017/07/31
   - 江门市MXM(Model Cross Me)模型工具店 2017/08/01 ～ 2027/08/01
 
-
-
 ## 我的项目
-
-
 
   - [茂名职业技术学院-计算机工程系](http://www.mmvtc.cn/templet/jsjgcx/index.jsp)(链接已失效)
   - [数码相机商城](http://1025623017.hgfree.kuxier.club)(链接已失效)
   - [茂名职业技术学院-食品安全与质量控制](https://1025623017.github.io/blog/chemistry/index.html)
 
-
-
 ------
-
-
 
 ![我的头像](https://avatars1.githubusercontent.com/u/13571820?v=3&s=18)
 
 _持续更新，了解更多请浏览我的[博客](http://1025623017.github.io/blog)_
 
 作者：Murphy Leung
-
-
-
-
 
 ``` javascript
 
@@ -743,28 +696,12 @@ layer弹出层
 百度富文本umeditor
 腾讯amap
 
-
 ————————————————————————————————
 VUX手机入驻
 
 webpack
 ————————————————————————————————
 ```
-
-
-``` txt
-
-https://app.gumroad.com/dashboard/sales
-夹模：7°~10°
-料厚：0.8mm~1mm~1.5mm
-筋：thicks * 75% ~ 80%(0.8mm~1mm~1.2mm)
-拔模：前1°后0.5°斜壁3°
-碰穿：3°
-
-
-
-```
-
 
 合作伙伴：
 	[万代模型](https://weibo.com/u/2042697783)
