@@ -1,5 +1,5 @@
 <template>
-	<div>
+	<div><div></div>
 		<x-header :left-options="{showBack: false}">控制面板&nbsp;&nbsp;<a slot="right" @click="logout">退出</a></x-header>
 
     <card :header="{title: ''}" style="margin-top: 0;padding-top: 10px;background: #4D90E7;color: #fff;">
