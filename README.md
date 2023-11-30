@@ -3,9 +3,7 @@
 >
 > Go to my blog：[http://1025623017.github.io/blog](http://1025623017.github.io/blog)
 >
-> [Email to me](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=w-Lz8fb18fDz8vSDsrLtoKyu)
->
-> My Sina_Email：W1025623017@sina.com
+> [Email to me](mailto:1025623017@qq.com)
 >
 > Web Front Tree Mindmap 01：[https://raw.githubusercontent.com/1025623017/blog/master/Front_End_teee_01.png](https://raw.githubusercontent.com/1025623017/blog/master/Front_End_teee_01.png)
 >
@@ -135,7 +133,7 @@
 
   - GK
       - 高达
-        - [万代 扎古 Zaku MG2.0 Frame](https://raw.githubusercontent.com/1025623017/blog/master/zaku_frame_top.jpg)
+        - [万代 扎古 Zaku MG2.0 Frame](https://raw.githubusercontent.com/1025623017/blog/master/images/zaku_frame_top.jpg)
         - [独角兽高达 结晶爆发](https://v.douyin.com/iRsYcSct)
         - [1/400 独角兽高达1号机 独角兽模式]()
         - [1/400 独角兽高达2号机 独角兽模式]()
