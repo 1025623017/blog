@@ -174,16 +174,16 @@
 	      - [魔封真 GFFMC 飞翼零式]()
       - 钢铁侠 MK5 手提箱 展开模式 GK
 
+  - 国产KO
+    - [白骑士 绝邢战士/EVA初号机觉醒 合金成品](https://www.bilibili.com/video/BV1qx411f7a7)
+    - 白骑士 绝邢战士/EVA二号机β 合金成品
+    - [诚造社 大力神](https://www.bilibili.com/video/BV1Tv411v7CR)
+
   - Disney 迪士尼
     - Hello Kitty
     - Mickey Mouse
   - Marvel Comics 漫威
   - DC Universe Animated Original Movies 华纳DC影视
-
-  - 国产KO
-    - [白骑士 绝邢战士/EVA初号机觉醒 合金成品](https://www.bilibili.com/video/BV1qx411f7a7)
-    - 白骑士 绝邢战士/EVA二号机β 合金成品
-    - [诚造社 大力神](https://www.bilibili.com/video/BV1Tv411v7CR)
 
   - 其他
     - [Metal Power 宇宙骑士](https://www.bilibili.com/video/BV1B34y177eZ)
@@ -200,9 +200,9 @@
 
   - 工具
     - 浏览器
-      - Chorme(世界上最好的浏览器)
+      - Chorme
       - Safari
-      - IE(Worse IE Ever)
+      - IE
     - Firebug
     - VPN：[Lantern](https://github.com/getlantern/lantern)
     - [Sublime Text 3](http://www.sublimetext.com)
