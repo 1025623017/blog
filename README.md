@@ -83,7 +83,8 @@
       - [奥特曼 超精细奥特变身器](https://www.bilibili.com/video/BV1Ad4y157Eq)
       - [奥特曼合体武装 迪迦/特利迦](https://www.bilibili.com/video/BV1ch4y1Y7m3)
       - [奥特曼合体武装 捷德/贝利亚](https://www.bilibili.com/video/BV1ch4y1Y7m3)
-      - [假面骑士极狐 迷你发声腰带 02 极狐/娜猫](https://www.bilibili.com/video/BV1EM411Q76h)
+      - [假面骑士极狐 迷你发声腰带 01 极狐/娜猫](https://www.bilibili.com/video/BV1EM411Q76h)
+      - 假面骑士极狐 迷你发声腰带 02 霸牛/太狸
       - 高达 哈罗 发声发光
       - 奥特曼 67734
       - 奥特曼 67739
