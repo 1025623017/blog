@@ -86,6 +86,10 @@
       - [假面骑士极狐 迷你发声腰带 01 极狐/娜猫](https://www.bilibili.com/video/BV1EM411Q76h)
       - 假面骑士极狐 迷你发声腰带 02 霸牛/太狸
       - 高达 哈罗 发声发光
+      - [奥特换装 超可动 赛罗](https://www.bilibili.com/video/BV178411y7qp)
+      - [奥特换装 超可动 迪迦](https://www.bilibili.com/video/BV178411y7qp)
+      - [奥特换装 超可动 03](https://www.bilibili.com/video/BV178411y7qp)
+      - [奥特换装 超可动 04](https://www.bilibili.com/video/BV178411y7qp)
       - 奥特曼 67734
       - 奥特曼 67739
       - 奥特曼 67755
