@@ -31,12 +31,11 @@
       - 成品 2mm/1/5mm
       - 拼装 1.5mm/1.2mm
     - 装配
-      - 柱形
-        - 圆柱
-        - D柱
+        - 圆柱 + 圆柱
+        - 圆柱 + 六角柱
+        - D型圆柱
         - 矩形
         - 球形
-        - 六角柱
       - 防反装
       - 卡位
         - 0.2mm ~ 0.5mm（卡位应做成容易加胶的形状）
@@ -151,38 +150,35 @@
     - Marvel Comics 漫威
     - DC Universe Animated Original Movies 华纳DC影视
 
-
-
   > 
   > [购买我的GK产品](https://app.gumroad.com/dashboard/sales)
   > To Be Continued...
   > 
 
-
-
 ## 前端知识分享
 
-  - 工具
-    - 浏览器
+  - Tools
+    - Web Browsers
       - Chorme
       - Safari
       - IE
     - Firebug
     - VPN：[Lantern](https://github.com/getlantern/lantern)
+    - [Markman](http://www.getmarkman.com)
+    - Adobe Photoshop CS5
     - [Sublime Text 3](http://www.sublimetext.com)
       - Sublime Text有各种好用的[插件](http://www.oschina.net/translate/20-powerful-sublimetext-plugins)
       - [汉化版下载](http://haojian138.blog.163.com/blog/static/212643110201393010438357)
       - [汉化 / 破解 / 插件](http://jingyan.baidu.com/album/ff4116259b057c12e48237b8.html?picindex=1)
-    - Photoshop
-    - 取色量度：[Markman](http://www.getmarkman.com)
-    - 雪碧图生成工具：[CSS Sprite Generator](http://www.cn.spritegen.website-performance.org)
-    - Less/Sass/CoffeeScript的GUI编译器：[Koala](http://koala-app.com/index.html)
+    - [CSS Sprite Generator](http://www.cn.spritegen.website-performance.org)
+    - Less/Sass/CoffeeScript GUI编译器
+      - [Koala](http://koala-app.com/index.html)
     - 兼容性查询：[Can I use?](http://caniuse.com)
     - 版本管理
       - [GitHub](https://github.com)
       - [GitHub客户端](https://desktop.github.com)
       - [Git](https://git-scm.com/)
-        - 安装Git（windows: [TortoiseSVN](https://tortoisesvn.net/) | Mac: SourceTree）
+      - Git（windows: [TortoiseSVN](https://tortoisesvn.net/) | Mac: SourceTree）
     - 服务器端
       - [XAMPP](https://www.apachefriends.org/index.html)
       - [Navicat for MySQL](http://navicatformysql.en.softonic.com)
@@ -220,88 +216,38 @@
       - _我的书签：P00_
 
   - javascript
-    - [Bootstrap中文网开源项目免费CDN服务](http://www.bootcdn.cn/)
-    - [jquery](http://edu.51cto.com/index.php?do=lession&id=14456)
-    - [正则表达式](http://wsq.discuz.qq.com/?c=index&a=viewthread&f=wx&tid=85503&siteid=261146700&source=mq&_wv=1)
-    - ajax
-    - json
-    - js插件
-      - [百度大脑](http://ai.baidu.com/)：智能网页
+    - javascript插件
+      - [CoffeeScript](http://coffee-script.org)
       - [RequireJS](http://www.wojilu.com/Forum1/Topic/4205)：JS模块化
-      - [D3](https://d3js.org/)：javascript可视化
       - [layer](http://layer.layui.com/)：web弹层组件
-      - [Baidu EFE team](https://github.com/ecomfe)
-        - [ECharts](http://echarts.baidu.com/examples.html)
-        - [Region地区多选](https://github.com/lengxing/region)
       - [三级联动地区选择](https://github.com/fengyuanchen/distpicker)
       - [zTree](http://www.treejs.cn/v3/demo.php#_101)：树结构视图
       - [HTML5 Sortable jQuery Plugin](https://github.com/farhadi/html5sortable)：拖拽排序列表
-      - 编辑器
-        - [ckeditor](http://ckeditor.com/)
-        - [UEditor](http://fex.baidu.com/ueditor/)
-    - MVVM框架
-      - [vue](http://cn.vuejs.org/)
-        - [vue-loader](https://github.com/vuejs/vue-loader)：vue组件化开发，结合webpack自动化生产vue SPA（单页应用）
-        - [vue-router](https://github.com/vuejs/vue-router)：vue SPA的路由管理
-        - [vue-router-transition](https://github.com/Twiknight/vue-transition)：vue SPA页面切换过渡效果
-        - [vue-filter](https://github.com/wy-ei/vue-filter)：vue增强过滤器
-        - [vue-resource](https://github.com/vuejs/vue-resource)：vue版AJAX
-      - 基于Vue框架的项目
-        - [vux](https://vux.li/#/)：集成了微信UI、vue、webpack等，高效制作SPA（single page web application）
-          - [vux demo](https://vux.li/demos/#/component/demo)：VUX Demo
-          - [Airyland](https://github.com/airyland/vux/)：作者
-          - [vux 沟通团队](https://vux.bearychat.com/)：vux技术交流
-        - [iview](https://www.iviewui.com/docs/guide/introduce)：PC端vue单页应用
-      - [Avalon](http://avalonjs.coding.me/)
-        - [视频教程](http://edu.51cto.com/lesson/id-46898.html)
-          - [Avalon fekit部署](https://github.com/rinh/fekit)
-          - PC端：直接引入avalon.js
-          - 移动端：avalon.modern.js + mobile.js(支持触屏事件)
-          - 禁用Avalon加载器的三种方法
-            - 在avalon.config中配置
-            - 在源代码中配置
-            - 删除源代码中的AMD加载器
-            - 在[require.js](http://www.requirejs.cn/)环境下，引用avalon.shim.js
-      - AngularJS
+    - [jquery](http://edu.51cto.com/index.php?do=lession&id=14456)
+    - [Bootstrap中文网开源项目免费CDN服务](http://www.bootcdn.cn/)
+    - 正则表达式
+    - ajax
+    - json
+    - [Avalon](http://avalonjs.coding.me/)
+    - AngularJS
 
-    - ![Node.js](https://avatars3.githubusercontent.com/u/10369302?v=3&s=18)Node.js
-      - [淘宝镜像 & cnpm](http://npm.taobao.org)
-      - [CoffeeScript](http://coffee-script.org)
-      - [Gulp](http://www.gulpjs.com.cn)
-        - _http://www.cnblogs.com/2050/p/4198792.html_
-        - `cnpm install --global gulp`
-        - `cnpm install`
-        - 在项目文件夹中：`cnpm install --save-dev gulp`
-        - 新建`gulpfile.js`
-          ``` javascript
-            //gulp.src()匹配路径和文件
-            //gulp.dest()生成文件
-            //gulp.task()定义任务
-            //gulp.watch()用来挂机
+  - [vue](http://cn.vuejs.org/)
+    - [vue-loader](https://github.com/vuejs/vue-loader)：vue组件化开发，结合webpack自动化生产vue SPA（单页应用）
+    - [vue-router](https://github.com/vuejs/vue-router)：vue SPA的路由管理
+    - [vue-router-transition](https://github.com/Twiknight/vue-transition)：vue SPA页面切换过渡效果
+    - [vue-filter](https://github.com/wy-ei/vue-filter)：vue增强过滤器
+    - [vue-resource](https://github.com/vuejs/vue-resource)：vue版AJAX
 
-            var gulp = require('gulp');
-            var uglify = require('gulp-uglify');
-            var sass = require('gulp-sass');
+  - [vux](https://vux.li/#/)：集成了微信UI、vue、webpack等，高效制作SPA（single page web application）
+    - [vux demo](https://vux.li/demos/#/component/demo)：VUX Demo
+    - [Airyland](https://github.com/airyland/vux/)：作者
+    - [vux 沟通团队](https://vux.bearychat.com/)：vux技术交流
 
-            gulp.task('default',function() {
-              gulp.src('src/**/*.js')
-              .pipe(uglify())
-              .pipe(gulp.dest('dist'));
-
-              gulp.src('src/**/*.scss')
-              .pipe(sass())
-              .pipe(gulp.dest('dist'));
-
-              gulp.src('src/**/*.html')
-              .pipe(gulp.dest('dist'));
-            });
-
-            gulp.watch('src/**/*.*',['default']);
-          ```
-        - `gulp`
-        - `gulp watch`
-      - [webpack](http://webpack.github.io/)
-        - [gulp + webpack](http://www.cnblogs.com/maskmtj/archive/2016/07/21/5597307.html)
+  - ![Node.js](https://avatars3.githubusercontent.com/u/10369302?v=3&s=18)Node.js
+    - [淘宝镜像 & cnpm](http://npm.taobao.org)
+    - [Gulp](http://www.gulpjs.com.cn)
+    - [webpack](http://webpack.github.io/)
+    - [gulp + webpack](http://www.cnblogs.com/maskmtj/archive/2016/07/21/5597307.html)
 
   - 移动端APP应用开发
     - [jQuery Mobile](http://jquerymobile.com/)
@@ -313,12 +259,6 @@
     - 图标库
       - [阿里巴巴](http://www.iconfont.cn/)
       - [icomoon](https://icomoon.io/)
-    - 视觉享受
-      - https://www.graphicstock.com/
-      - http://www.webdesignclip.com/
-      - http://reeoo.com/
-      - http://lea.verou.me/
-      - https://mediatemple.net/
 
   - SEO
     - 代码简练
@@ -338,16 +278,23 @@
     - DTD
     - web安全
 
+  - 推荐网站
+    - https://www.graphicstock.com/
+    - http://www.webdesignclip.com/
+    - http://reeoo.com/
+    - http://lea.verou.me/
+    - https://mediatemple.net/
+
 ## ![vue图标](https://avatars1.githubusercontent.com/u/6128107?v=3&s=18)![Vux图标](https://avatars1.githubusercontent.com/u/17058719?v=3&s=18)[Vux](https://vux.li/#/)开发分享
 
   - [安装](https://vuxjs.gitbooks.io/vux/content/install/vue.html)（多次安装失败，请换台电脑试试）
     ``` cmd
       Vux项目已在2017年1月11日更新至2.0
-      https://github.com/airyland/vux
+      [https://github.com/airyland/vux](https://github.com/airyland/vux)
     ```
 
   - [配置](https://vuxjs.gitbooks.io/vux/content/install/vue.html)
-    - 详情请看项目[Demo](#)
+    - 详情请看项目Demo
 
   - [组件式开发](#)
     ``` cmd
@@ -485,7 +432,7 @@
     - 父Widget+子Widget
     - 通过ID对Widget进行管理
 
-## 推荐
+## 推荐网站
 
   - [豆瓣读书](https://book.douban.com/)
   - [当当网](http://www.dangdang.com/)
@@ -495,16 +442,16 @@
   - [醉牛前端](http://f2er.club/)
   - [Youtube视频下载](http://www.clipconverter.cc/)
 
-## 公司
+## 公司 & 任职经历
 
   - 深圳市友福同享信息科技有限公司([Wiki](http://wiki.ufutx.net/doku.php?id=webenvconfig)) 2016/06/12 ～ 2017/07/31
   - 江门市MXM(Model Cross Me)模型工具店 2017/08/01 ～ 2027/08/01
 
 ## 我的项目
 
-  - [茂名职业技术学院-计算机工程系](http://www.mmvtc.cn/templet/jsjgcx/index.jsp)(链接已失效)
-  - [数码相机商城](http://1025623017.hgfree.kuxier.club)(链接已失效)
+  - [茂名职业技术学院-计算机工程系](https://www.mmpt.edu.cn/jsjgcx/xbgk.htm#/index.html)
   - [茂名职业技术学院-食品安全与质量控制](https://1025623017.github.io/blog/chemistry/index.html)
+  - 数码相机商城
 
 ------
 
