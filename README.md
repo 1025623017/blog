@@ -71,128 +71,94 @@
 
 ## 我的产品(My Products)
 
-  - BANDAI 万代
-    - BANDAI(日本)
-      - 蜡笔小新
-      - [假面骑士Geats 圣诞卡扣 圣诞节限定](https://www.bilibili.com/video/BV1UM411m734)
-      - [NX系列 EVA剧场版:│▌ Evangelion新二号机α](https://www.bilibili.com/video/BV1jU4y1P7gE)
-      - 哥斯拉
-      - 其他
-
-    - BANDAI NAMCO(中国大陆)
-      - [奥特曼 超精细奥特变身器](https://www.bilibili.com/video/BV1Ad4y157Eq)
-      - [奥特曼合体武装 迪迦/特利迦](https://www.bilibili.com/video/BV1ch4y1Y7m3)
-      - [奥特曼合体武装 捷德/贝利亚](https://www.bilibili.com/video/BV1ch4y1Y7m3)
-      - [假面骑士极狐 迷你发声腰带 01 极狐/娜猫](https://www.bilibili.com/video/BV1EM411Q76h)
-      - 假面骑士极狐 迷你发声腰带 02 霸牛/太狸
-      - 高达 哈罗 发声发光
-      - [奥特换装 超可动 赛罗](https://www.bilibili.com/video/BV178411y7qp)
-      - [奥特换装 超可动 迪迦](https://www.bilibili.com/video/BV178411y7qp)
-      - [奥特换装 超可动 03](https://www.bilibili.com/video/BV178411y7qp)
-      - [奥特换装 超可动 04](https://www.bilibili.com/video/BV178411y7qp)
-      - 奥特曼 67734
-      - 奥特曼 67739
-      - 奥特曼 67755
-      - 奥特曼 67757
-      - 奥特曼 67758
-      - 奥特曼 67759
-      - 奥特曼 67761
-      - 奥特曼 67762
-      - 奥特曼 67766
-      - 奥特曼 67769
-      - 奥特曼 67770
-      - 假面骑士发光头像01
-      - 假面骑士发光头像02
-      - 假面骑士发光头像03
-      - 其他
-
-  - CCSTOYS
-    - [CCS 铁魄 魔装机神 塞巴斯塔 精灵凭依 合金成品模型](https://www.bilibili.com/video/BV1Ze411Q7iT)
-    - CCS 机体02
-    - CCS 机体03
+  - BANDAI(日本)
+    - [假面骑士Geats 圣诞铃铛卡扣 圣诞节限定 圣诞节蛋糕附属玩具](https://www.bilibili.com/video/BV1UM411m734)
+    - [NX系列 EVA剧场版:│▌ Evangelion新二号机α](https://www.bilibili.com/video/BV1jU4y1P7gE)
+  
+  - BANDAI NAMCO(中国大陆)
+    - [奥特曼 超精细奥特变身器](https://www.bilibili.com/video/BV1Ad4y157Eq)
+    - [奥特曼合体武装 迪迦/特利迦](https://www.bilibili.com/video/BV1ch4y1Y7m3)
+    - [奥特曼合体武装 捷德/贝利亚]
+    - [假面骑士极狐 迷你发声腰带 01 极狐/娜猫](https://www.bilibili.com/video/BV1EM411Q76h)
+    - [假面骑士极狐 迷你发声腰带 02 霸牛/太狸]
+    - [哈罗 发声发光 大直径版 潮玩 联名]
+    - [奥特换装 超可动 赛罗](https://www.bilibili.com/video/BV178411y7qp)
+    - [奥特换装 超可动 迪迦]
+    - [奥特换装 超可动 其他]
+    - [奥特曼 677xx 发声超可动 20余款]
+    - [假面骑士 头像 发声发光]
 
   - 核诚治造
-    - [核诚治造×78动漫 Ma.K Zbv3000 古斯塔夫 P.K.A. Ausf.G 橘橙版](https://www.bilibili.com/video/BV1Ky4y1j7AK))
-    - [核诚治造 Ma.K 02]()
-    - [核诚治造 Ma.K 03]()
-    - [核诚治造 Ma.K 04]()
-    - [核诚治造 Ma.K 05]()
+    - [核诚治造 Ma.K Zbv3000 古斯塔夫 P.K.A. Ausf.G](https://www.bilibili.com/video/BV1Ky4y1j7AK))
+    - [核诚治造 Ma.K 其他]
     - [核诚治造LunchBox熊丸RACOON](https://www.bilibili.com/video/BV18z4y1J7ue)
     - [核诚治造LunchBox 02]()
     - [核诚治造LunchBox 03]()
     - [核诚治造LunchBox 04]()
-    - 核诚治造 机娘01
-    - 核诚治造 机娘02
-    - 核诚治造 机娘03
-    - 核诚治造 驳机制 las01
-    - 核诚治造 驳机制 las02
-    - 核诚治造 驳机制 a01
-    - 核诚治造 驳机制 a02
-    - 核诚治造 驳机制 a03
+    - [核诚治造 机娘 其他]
+    - [核诚治造 驳机制 其他]
+
+  - CCSTOYS
+    - [CCS 铁魄 魔装机神 塞巴斯塔 精灵凭依 合金成品模型](https://www.bilibili.com/video/BV1Ze411Q7iT)
+
+  - 小号手
+    - [小号手模型 变形金刚 机体01]()
+    - [小号手模型 变形金刚 机体02]()
+    - [小号手模型 变形金刚 机体03]()
+    - [小号手模型 变形金刚 机体04]()
+
+  - 炼技人
+    - [炼技人 A5 遮盖带]()
+    - [炼技人 A5 切割带]()
+    - [炼技人 推刀]()
+    - [炼技人 刻线刀]()
+    - [炼技人 吸尘器]()
+
+  - 魔封真
+    - [魔封真 SD刹帝利]
+    - [魔封真 基拉 祖鲁]
+    - [魔封真 扎古Ⅰ]
+    - [魔封真 京宝梵]
+    - [魔封真 白色女性化机体]()
+    - [魔封真 h233_梅萨F-01型]
+    - [魔封真 GFFMC 飞翼零式]
 
   - GK
-      - 高达
-        - [万代 扎古 Zaku MG2.0 Frame](https://raw.githubusercontent.com/1025623017/blog/master/images/zaku_frame_top.jpg)
-        - [独角兽高达 结晶爆发](https://v.douyin.com/iRsYcSct)
-        - [1/400 独角兽高达1号机 独角兽模式]()
-        - [1/400 独角兽高达2号机 独角兽模式]()
-        - [1/400 独角兽高达3号机 独角兽模式]()
-        - [1/400 独角兽高达1号机 毁灭模式]()
-        - [1/400 独角兽高达2号机 毁灭模式]()
-        - [1/400 独角兽高达3号机 毁灭模式]()
-        - [1/400 刹帝利]()
-        - [1/400 新安洲高达]()
-        - [1/60 决斗高达]()
-        - [1/60 强袭自由高达]()
-        - [1/100 自由高达 MG2.0 部分造型修改GK]()
-        - [1/100 刹帝利 网络开源版]()
-        - [1/100 BD03 蓝色命运3号机]()
-        - [RG 二号机 屋岛作战 盾牌](https://www.zhe2.com/note/628971378978)
-      	- 泰丹GX
-        - 断空我Nova
-      - 小号手
-	      - [小号手模型 变形金刚 机体01]()
-	      - [小号手模型 变形金刚 机体02]()
-	      - [小号手模型 变形金刚 机体03]()
-	      - [小号手模型 变形金刚 机体04]()
-      - 炼技人
-	      - [炼技人 A5 遮盖带]()
-	      - [炼技人 A5 切割带]()
-	      - [炼技人 推刀]()
-	      - [炼技人 刻线刀]()
-	      - [炼技人 吸尘器]()
-      - 魔封真
-	      - [魔封真 SD刹帝利]()
-	      - [魔封真 基拉 祖鲁]()
-	      - [魔封真 扎古Ⅰ]()
-	      - [魔封真 京宝梵]()
-	      - [魔封真 白色机体]()
-	      - [魔封真 h233_梅萨F-01型]()
-	      - [魔封真 GFFMC 飞翼零式]()
-      - 钢铁侠 MK5 手提箱 展开模式 GK
-
-  - 国产KO
-    - [白骑士 绝邢战士/EVA初号机觉醒 合金成品](https://www.bilibili.com/video/BV1qx411f7a7)
-    - 白骑士 绝邢战士/EVA二号机β 合金成品
-    - [诚造社 大力神](https://www.bilibili.com/video/BV1Tv411v7CR)
-
-  - Disney 迪士尼
-    - Hello Kitty
-    - Mickey Mouse
-  - Marvel Comics 漫威
-  - DC Universe Animated Original Movies 华纳DC影视
+    - [万代 扎古 Zaku MG2.0 Frame](https://raw.githubusercontent.com/1025623017/blog/master/images/zaku_frame_top.jpg)
+    - [独角兽高达 结晶爆发](https://v.douyin.com/iRsYcSct)
+    - [1/400 独角兽高达1号机 独角兽模式]
+    - [1/400 独角兽高达2号机 独角兽模式]
+    - [1/400 独角兽高达3号机 独角兽模式]
+    - [1/400 独角兽高达1号机 毁灭模式]
+    - [1/400 独角兽高达2号机 毁灭模式]
+    - [1/400 独角兽高达3号机 毁灭模式]
+    - [1/400 刹帝利]
+    - [1/100 自由高达 MG2.0 MB2.0样式改件]()
+    - [1/100 刹帝利 网络开源版]()
+    - [1/100 BD03 蓝色命运3号机]()
+    - [RG 二号机 屋岛作战 盾牌](https://www.zhe2.com/note/628971378978)
+    - [断空我Nova]
+    - [钢铁侠 MK5 手提箱 展开模式 GK]
 
   - 其他
+    - [诚造社 大力神](https://www.bilibili.com/video/BV1Tv411v7CR)
+    - [白骑士 绝邢战士/EVA初号机觉醒 合金成品](https://www.bilibili.com/video/BV1qx411f7a7)
     - [Metal Power 宇宙骑士](https://www.bilibili.com/video/BV1B34y177eZ)
     - [钢铁侠 MK85](https://www.bilibili.com/video/BV1Cj411d7S4)
+    - Disney 迪士尼
+      - Hello Kitty
+      - Mickey Mouse
+    - Marvel Comics 漫威
+    - DC Universe Animated Original Movies 华纳DC影视
 
-  [购买我的GK产品](https://app.gumroad.com/dashboard/sales)
 
+
+  > 
+  > [购买我的GK产品](https://app.gumroad.com/dashboard/sales)
   > To Be Continued...
   > 
-  > 未完で続く...
-  > 
-  > 未完待续...
+
+
 
 ## 前端知识分享
 
