@@ -379,6 +379,17 @@
   - 项目示例
     - ![Vux商家入驻](http://local-pictures.img-cn-shenzhen.aliyuncs.com/201701/11/146feb7b8cb1e9ff55e9daca1d0827b6.png)
 
+## 我的前端项目
+
+  - [茂名职业技术学院-计算机工程系](https://www.mmpt.edu.cn/jsjgcx/xbgk.htm#/index.html)
+  - [茂名职业技术学院-食品安全与质量控制](https://1025623017.github.io/blog/chemistry/index.html)
+  - 数码相机商城
+
+## 公司 & 任职经历
+
+  - 深圳市友福同享信息科技有限公司([Wiki](http://wiki.ufutx.net/doku.php?id=webenvconfig)) 2016/06/12 ～ 2017/07/31
+  - 江门市MXM(Model Cross Me)模型工具店 2017/08/01 ～ 2027/08/01
+
 ## 推荐网站
 
   - [ttps://www.graphicstock.com/](https://www.graphicstock.com/)
@@ -393,17 +404,6 @@
   - [阿里云OSS](https://help.aliyun.com/document_detail/31883.html?spm=5176.doc31817.6.108.zNcxQ8)
   - [醉牛前端](http://f2er.club/)
   - [Clipconverter(Youtube Videos Download Tool)](http://www.clipconverter.cc/)
-
-## 公司 & 任职经历
-
-  - 深圳市友福同享信息科技有限公司([Wiki](http://wiki.ufutx.net/doku.php?id=webenvconfig)) 2016/06/12 ～ 2017/07/31
-  - 江门市MXM(Model Cross Me)模型工具店 2017/08/01 ～ 2027/08/01
-
-## 我的前端项目
-
-  - [茂名职业技术学院-计算机工程系](https://www.mmpt.edu.cn/jsjgcx/xbgk.htm#/index.html)
-  - [茂名职业技术学院-食品安全与质量控制](https://1025623017.github.io/blog/chemistry/index.html)
-  - 数码相机商城
 
 ------
 
