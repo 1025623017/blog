@@ -156,7 +156,7 @@
   > To Be Continued...
   > 
 
-## 前端知识分享
+## 前端知识分享(Front End)
 
   - Tools
     - Web Browsers
@@ -279,13 +279,6 @@
     - DTD
     - web安全
 
-  - 推荐网站
-    - https://www.graphicstock.com/
-    - http://www.webdesignclip.com/
-    - http://reeoo.com/
-    - http://lea.verou.me/
-    - https://mediatemple.net/
-
 ## ![vue图标](https://avatars1.githubusercontent.com/u/6128107?v=3&s=18)![Vux图标](https://avatars1.githubusercontent.com/u/17058719?v=3&s=18)[Vux](https://vux.li/#/)开发分享
 
   - [安装](https://vuxjs.gitbooks.io/vux/content/install/vue.html)（多次安装失败，请换台电脑试试）
@@ -394,20 +387,25 @@
 
 ## 推荐网站
 
+  - [ttps://www.graphicstock.com/](https://www.graphicstock.com/)
+  - [http://www.webdesignclip.com/](http://www.webdesignclip.com/)
+  - [http://reeoo.com/](http://reeoo.com/)
+  - [http://lea.verou.me/](http://lea.verou.me/)
+  - [https://mediatemple.net/](https://mediatemple.net/)
   - [豆瓣读书](https://book.douban.com/)
   - [当当网](http://www.dangdang.com/)
   - [技术类书籍](https://www.douban.com/doulist/13701898/)
   - [Plupload文档](http://www.phpin.net/tools/plupload/)
   - [阿里云OSS](https://help.aliyun.com/document_detail/31883.html?spm=5176.doc31817.6.108.zNcxQ8)
   - [醉牛前端](http://f2er.club/)
-  - [Youtube视频下载](http://www.clipconverter.cc/)
+  - [Clipconverter(Youtube Videos Download Tool)](http://www.clipconverter.cc/)
 
 ## 公司 & 任职经历
 
   - 深圳市友福同享信息科技有限公司([Wiki](http://wiki.ufutx.net/doku.php?id=webenvconfig)) 2016/06/12 ～ 2017/07/31
   - 江门市MXM(Model Cross Me)模型工具店 2017/08/01 ～ 2027/08/01
 
-## 我的项目
+## 我的前端项目
 
   - [茂名职业技术学院-计算机工程系](https://www.mmpt.edu.cn/jsjgcx/xbgk.htm#/index.html)
   - [茂名职业技术学院-食品安全与质量控制](https://1025623017.github.io/blog/chemistry/index.html)
