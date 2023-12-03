@@ -379,12 +379,6 @@
   - 项目示例
     - ![Vux商家入驻](http://local-pictures.img-cn-shenzhen.aliyuncs.com/201701/11/146feb7b8cb1e9ff55e9daca1d0827b6.png)
 
-## ![Wechat图标](https://avatars0.githubusercontent.com/u/17825669?v=3&s=18)[微信小程序](https://mp.weixin.qq.com/debug/wxadoc/dev/)开发分享
-
-  - 微信开发者工具[下载](#)
-  - ![字体设计](https://mp.weixin.qq.com/debug/wxadoc/design/image/8Font.png?t=2017118)
-  - [调用微信JS-SDK接口上传图片](http://blog.csdn.net/fengqingtao2008/article/details/51469705)
-
 ## 推荐网站
 
   - [ttps://www.graphicstock.com/](https://www.graphicstock.com/)
@@ -413,11 +407,7 @@
 
 ------
 
-![我的头像](https://avatars1.githubusercontent.com/u/13571820?v=3&s=18)
-
-作者：Murphy Leung
-
-
+作者：![我的头像](https://avatars1.githubusercontent.com/u/13571820?v=3&s=18)Murphy Leung
 
 ***
 
