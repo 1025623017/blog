@@ -392,47 +392,6 @@
   - ![字体设计](https://mp.weixin.qq.com/debug/wxadoc/design/image/8Font.png?t=2017118)
   - [调用微信JS-SDK接口上传图片](http://blog.csdn.net/fengqingtao2008/article/details/51469705)
 
-## [APICloud](http://www.apicloud.com/)开发分享
-
-  - [教程](http://community.apicloud.com/bbs/forum.php?mod=viewthread&tid=9306)
-
-  - [工具](http://www.apicloud.com/devtools)
-    - 推荐：APICloud Studio - Eclipse Plugins
-
-  - 推荐的目录结构
-    - css[] 
-    - error[] 
-      - error.html `404页面`
-    - feature[] `存放模块资源`
-    - html[] 
-    - icon[] `APP图标`
-    - image[] 
-    - launch[] `APP启动页`
-    - res[] `存放音频视频、加密信息等资源`
-    - script[] 
-    - wgt[] `存放子Widget`
-    - config.xml `配置文件`
-    - index.html 
-
-  - 微信分享
-    - 首先需要安装自己的应用
-    - 使用[签名工具](https://open.weixin.qq.com/cgi-bin/showdocument?action=dir_list&t=resource/res_list&verify=1&id=open1419319167&token=e3fb99e79a53a496220daa633e66fa3065537275&lang=zh_CN)获取应用签名
-    - 在config.xml中添加wx模块的[配置代码](http://docs.apicloud.com/Client-API/Open-SDK/wx)
-    - isInstalled方法，判断当前设备是否安装微信客户端（其他方法在文档中查看即可）
-
-  - 编译自定义AppLoader
-    - 必须先进行云端控制台设置，并提交config.xml文件
-    - 申请微信的Appi和AppSecret时所填的包名、签名要与APICloud平台的一致
-
-  - config.xml（配置文件）的作用
-    - 配置引擎默认行为`<preference>`
-    - 配置应用运行参数`<feature>`
-    - 配置云端编译选项
-
-  - APLCloud应用组成
-    - 父Widget+子Widget
-    - 通过ID对Widget进行管理
-
 ## 推荐网站
 
   - [豆瓣读书](https://book.douban.com/)
@@ -458,40 +417,12 @@
 
 ![我的头像](https://avatars1.githubusercontent.com/u/13571820?v=3&s=18)
 
-_持续更新，了解更多请浏览我的[博客](http://1025623017.github.io/blog)_
-
 作者：Murphy Leung
 
 
 
 ***
 
-``` txt
-
-XAMPP
-
-微信web开发者工具
-
-composer update -vvv
-
-```
-
-
-``` txt
-
-admin商城后台管理
-
-PHP                         Laravel
-阿里云服务器                 阿里云图片上传
-app/http/controllers        dd()显示接口返回的json
-app/http/routes             网页路由管理
-
-bootstrap(ace)              下拉框、日期选择器、分页、vue-filter解析时间戳
-jq
-npm
-gulp
-vue
-avalon
 ```
 
 合作伙伴：
