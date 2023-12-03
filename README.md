@@ -462,110 +462,9 @@ _持续更新，了解更多请浏览我的[博客](http://1025623017.github.io/
 
 作者：Murphy Leung
 
-``` javascript
-
-/*
-
-	学习vue组件的写法
-	gulp、webpack的安装使用
-	npm、node的原理
-	写软文推广博客
-
-## 待整理
-
-  - [css](http://www.runoob.com/css/css-tutorial.html)
-    - css2
-      - 优先级：内联式>嵌入式>外部式
-      - 重复选择器将以最后一个为准（代码重写）
-      - 某些样式具有继承性
-      - 权值：标签的权值为1，类选择符的权值为10，ID选择符的权值最高为100，!important权值最高
-      - 文字大小颜色装饰、段落对齐缩进行高，文字字母间距
-      - 块状元素：div/p/h1-6/ol/ul/dl/table/form/address/blockquote
-      - 内联元素:a/span/br/i/em/strong/q/code
-      - 内联块元素：input/img
-      - 隐藏元素：display:none;
-      - 盒子模型：边框、内外边距、宽高
-      - 文档流
-      - css代码缩写：
-        - 盒子模型上下左右缩写
-        - 颜色值缩写
-        - 字体缩写font: italic small-caps bold 12px/1.5em "宋体";(前提有font-zise和font-family)
-      - css长度单位：rem、em、px、%、vw等
-      - float原理：实现文字环绕效果
-      - float的：
-        - 包裹：收缩(缩宽)、坚挺(撑高)、隔绝
-        - 破坏：父元素高度塌陷
-        - 兼容性差(替代float的方法)：
-          - display: table-cell;
-          - width:2000px;
-          - *display: inline-block;
-          - *width: auto;
-      - FC：指页面中的一个渲染区域，并且拥有一套渲染规则，他决定了其子元素如何定位，以及与其他元素的相互关系和作用
-      - BFC：Block formatting context(块级格式化上下文)，它是指一个独立的块级渲染区域，只有Block-level BOX参与，
-	该区域拥有一套渲染规则来约束块级盒子的布局，且与区域外部无关。
-      - absolute(float的兄弟)：
-        - 无依赖：不设父元素relative和定位值，具有跟随性(相对定位效果)，设置内外边距即可
-        - 下拉框、图标定位、居中靠右定位、对齐
-      - body平级下的全屏模式：
-        - html,body{height: 100%;}
-        - top/bottom/left/right全设，能在无宽度父元素内使用百分比宽高
-      - overflow: visible;解决IE7按钮左右内空白增多
-      - 其他请自行查询[手册](http://www.w3school.com.cn/cssref/index.asp)
-    - css3
-      - [codepen](http://codepen.io/)
-      - [threejs](http://threejs.org/)
-      - [Modernizr.js](http://www.tuicool.com/articles/UVnEVj)
-    - [post css](http://postcss.org/)
-      - https://github.com/postcss/postcss
-
-  - [javascript](http://edu.51cto.com/lesson/id-2376.html)
-    - [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
-    - [廖雪峰JavaScript教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
-    - [阮一峰 ECMAScript 6](http://es6.ruanyifeng.com/)
-    - 基于对象、事件驱动、松散型语言
-      - 一切皆对象，像“var a = 0;”这样，a也是先转换成对象再销毁
-      - 用函数或匿名函数来定义事件并且被调用触发
-      - javascript是弱类型语言，var就可以了（不写var是全局变量，不建议省略）
-    - javascript由 ECMAscript、DOM、BOM 组成
-    - 基础类型：string、number、boolean、undefined、null(用于占位)
-    - 引用类型：object（用typeof判断）
-    - 流程控制不用多说了，if什么的大家都是大同小异
-    - javascript的函数有一个内置对象arguments，可以用于递归
-    - 回调函数（把一个函数当成另一个函数的参数）
-    - 数据类型转换：
-      - Number()转换为数字类型
-      - parseInt()转换到整型,可选转换进制
-      - parseFloat()转换到浮点型
-      - String()转换到字符串
-      - isNaN()判断是否是数字
-    - javascript含有隐式转换类型
-    - for in 语句用于遍历对象非常好用
-    - 面向对象编程，javascript没有类的概念，但是可以通过对象实现面向对象思想（详细请等待更新）
-    - 对象冒充：apply、call（我自己也还是搞不懂···）
-    - constructor、instanceof方法的使用
-    - BOM：window对象、history对象、location对象、document对象
-    - 内置对象：Number、String、Date、Boolean、Array、Math
-    - setInterval和clearInterval、setTimeout和clearTimeout
-    - 闭包（错误使用将会导致内存溢出）
-    - 节点属性：nodeType、nodeValue、nodeName
-    - offsetTop、offsetHeight、scrollTop、scrollHeight
-    - event对象
-    - eval()将字符串转换为Javascript语句并执行（只用于绝对信任的字符串！防止代码注入和XSS攻击）
-    - [组件开发](http://blog.csdn.net/bingqingsuimeng/article/details/44451481)
-
-*/
-
-```
-
 
 
 ***
-
-
-
-
-
-
 
 ``` txt
 
@@ -593,24 +492,6 @@ npm
 gulp
 vue
 avalon
-地区三级联动下拉
-地区联动多选
-ECharts
-ztree
-nodejs
-font-awesome
-sharejs
-自制ajax封装
-layer弹出层
-秀米
-百度富文本umeditor
-腾讯amap
-
-————————————————————————————————
-VUX手机入驻
-
-webpack
-————————————————————————————————
 ```
 
 合作伙伴：
