@@ -427,6 +427,4 @@
   |
   [柴耀Studio](https://weibo.com/u/2480695131)
 
-作者：![我的头像](https://avatars1.githubusercontent.com/u/13571820?v=3&s=18) Murphy Leung
-
-Copyright &copy; 2016-2024 Murphy Leung Powered By Github
+![我的头像](https://avatars1.githubusercontent.com/u/13571820?v=3&s=18) Copyright &copy; 2016-2024 Murphy Leung Powered By Github
