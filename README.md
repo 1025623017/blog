@@ -21,6 +21,7 @@
     - Autodesk_3ds_Max_2020
     - Adobe Photoshop CS5
     - Adobe Illustrator CC 2018
+    - Adobe Acrobat 9 Pro (For reading 3D PDF)
     - [3D-Tool CAD-Viewer](https://www.3d-tool.de/)
 
   - Videos
@@ -139,6 +140,8 @@
     - [RG 二号机 屋岛作战 盾牌](https://www.zhe2.com/note/628971378978)
     - [断空我Nova]
     - [钢铁侠 MK5 手提箱 展开模式 GK]
+    - [MG沙扎比 福冈背包]
+    - [MB能天使 三叉炮]
 
   - 其他
     - [诚造社 大力神](https://www.bilibili.com/video/BV1Tv411v7CR)
@@ -150,6 +153,7 @@
       - Mickey Mouse
     - Marvel Comics 漫威
     - DC Universe Animated Original Movies 华纳DC影视
+    - 施工平面图 CAD图
 
   > 
   > [购买我的GK产品](https://app.gumroad.com/dashboard/sales)
