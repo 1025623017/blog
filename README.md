@@ -46,6 +46,7 @@
       - 接合面 间隙0.2mm，拔模3°
       - 间隙 0.1mm
       - 反止口，做成加强筋一样
+      - 超声止口：干涉角高0.3mm夹角45度，宽0.8mm。中轴离边缘1.1mm，拔模3°，间隙0.2mm
     - 螺丝柱
       - 7mm/4.2mm/1.6mm
       - 8mm/5mm/2mm
@@ -389,9 +390,11 @@
 
   - 深圳市友福同享信息科技有限公司([Wiki](http://wiki.ufutx.net/doku.php?id=webenvconfig)) 2016/06/12 ～ 2017/07/31
   - 江门市MXM(Model Cross Me)模型工具店 2017/08/01 ～ 2027/08/01
+  - 模具设计X公司 2017/08/01 ～ 2099/00/00
 
 ## 推荐网站
-
+  - [https://zhuanlan.zhihu.com/p/22099626](https://zhuanlan.zhihu.com/p/22099626)
+  - [https://zhuanlan.zhihu.com/p/22213177](https://zhuanlan.zhihu.com/p/22213177)
   - [ttps://www.graphicstock.com/](https://www.graphicstock.com/)
   - [http://www.webdesignclip.com/](http://www.webdesignclip.com/)
   - [http://reeoo.com/](http://reeoo.com/)
