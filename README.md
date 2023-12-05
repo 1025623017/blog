@@ -27,6 +27,13 @@
   - Videos
     - [PROE/CREO全网最全工程图教程！！！](https://www.bilibili.com/video/BV1xb4y147xf)
 
+  - 中英对照表
+    - rib 筋
+    - thickness 料厚
+    - draft 拔模
+    - c c角
+    - r 圆角
+
   - Standards
     - Thickness
       - 成品 2mm/1/5mm
