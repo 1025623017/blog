@@ -165,6 +165,8 @@
   > 
   > [购买我的GK产品](https://app.gumroad.com/dashboard/sales)
   > 
+  > Go to my 3D Museum [https://1025623017.github.io/blog/museum.html](https://1025623017.github.io/blog/museum.html)
+  > 
   > To Be Continued...
   > 
 
