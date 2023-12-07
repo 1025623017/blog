@@ -59,17 +59,15 @@
       - 7mm/4.2mm/1.6mm
       - 8mm/5mm/2mm
     - 间隙
-      - GK 0.05mm
-      - ABS 0.1mm
-      - PVC 0mm
+      - GK 0.05mm/ABS 0.1mm/PVC 0mm
       - 活动间隙 0.15mm/0.2mm
     - 拔模
       - 前模 1°(0° ~ 1°),如涉及喷油请拔模7° ~ 10°
       - 后模 0.5°
       - 分模线跳转处 3°~5°
-      - 碰穿 3°
-    - C角
-      - 装配方向0.3mm/0.5mm
+      - 碰穿 3°，碰穿面积留空一圈1mm宽
+    - C角(Chamfering)
+      - 0.3mm/0.5mm/1mm
     - R角(Radius)
       - 0.2mm/0.3mm/0.5mm/1.5mm/2mm
       - 0 ~ 3周岁
@@ -408,10 +406,10 @@
 ## 推荐网站
   - [https://zhuanlan.zhihu.com/p/22099626](https://zhuanlan.zhihu.com/p/22099626)
   - [https://zhuanlan.zhihu.com/p/22213177](https://zhuanlan.zhihu.com/p/22213177)
-  - [ttps://www.graphicstock.com/](https://www.graphicstock.com/)
-  - [http://www.webdesignclip.com/](http://www.webdesignclip.com/)
   - [http://reeoo.com/](http://reeoo.com/)
   - [http://lea.verou.me/](http://lea.verou.me/)
+  - [ttps://www.graphicstock.com/](https://www.graphicstock.com/)
+  - [http://www.webdesignclip.com/](http://www.webdesignclip.com/)
   - [https://mediatemple.net/](https://mediatemple.net/)
   - [豆瓣读书](https://book.douban.com/)
   - [当当网](http://www.dangdang.com/)
