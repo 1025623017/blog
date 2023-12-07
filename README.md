@@ -26,6 +26,7 @@
 
   - Videos
     - [PROE/CREO全网最全工程图教程！！！](https://www.bilibili.com/video/BV1xb4y147xf)
+    - [Auto Surface Creo parametric](https://www.youtube.com/watch?v=D8Im7A6oCrw)
 
   - 中英对照表
     - rib 筋
