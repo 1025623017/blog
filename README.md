@@ -30,6 +30,8 @@
 
   - 中英对照表
     - rib 筋
+    - solid 实体化
+    - cut 掏胶 肉抜き
     - thickness 料厚
     - draft 拔模
     - c c角
