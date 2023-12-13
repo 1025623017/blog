@@ -166,9 +166,9 @@
   > 
   > [购买我的GK产品](https://app.gumroad.com/dashboard/sales)
   >
-  > 一般工程工时：30~60个工作日（每日8~11小时）
+  > 一般工程工时： 30~60个工作日 （ 每日8~11小时 ）
   >
-  > 预计时薪：每小时77~100元人民币
+  > 预计时薪： 每小时 77~100元 人民币
   >
   > Go to my 3D Museum [https://1025623017.github.io/blog/museum.html](https://1025623017.github.io/blog/museum.html)
   > 
