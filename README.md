@@ -165,7 +165,7 @@
     - 施工平面图 CAD图
 
   > 
-  > [购买我的GK产品](https://app.gumroad.com/dashboard/sales)
+  > [购买我的GK产品]([https://app.gumroad.com/dashboard/sales](https://murphyleung1344.gumroad.com/))
   >
   > 一般工程工时：30 ~ 60个工作日（每日8~11小时）
   >
