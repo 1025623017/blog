@@ -134,6 +134,7 @@
 
   - GK
     - [万代 扎古 Zaku MG2.0 Frame](https://raw.githubusercontent.com/1025623017/blog/master/images/zaku_frame_top.jpg)
+      - [前往购买](https://murphyleung1344.gumroad.com/l/zakuframe)
     - [独角兽高达 结晶爆发](https://v.douyin.com/iRsYcSct)
     - [1/400 独角兽高达1号机 独角兽模式]
     - [1/400 独角兽高达2号机 独角兽模式]
