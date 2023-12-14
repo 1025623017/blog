@@ -7,4 +7,5 @@
   "keywords": "2",
   "author": "3",
   "viewport": "4",
+  "vue_src": "../vue/vue.min.js"
 }
