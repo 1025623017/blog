@@ -36,7 +36,7 @@ var index = new Vue({
             try {
               eval('index.db = ' + rsp);
               index.db_empty = true;
-              console.log('File '+'"db"'+' in github loaded successful');
+              console.log('File '+'"db"'+' in first time has loaded successful');
             } catch (error){
               console.log(error);
             }
@@ -54,7 +54,7 @@ var index = new Vue({
               setTimeout(()=>{
                 try {
                   eval('index.db = ' + rsp);
-                  console.log('File '+'"db"'+' in github loaded successful');
+                  console.log('File '+'"db"'+' in scond time has loaded successful');
                   index.db_empty = true;
                 } catch (error){
                   console.log(error);
