@@ -22,4 +22,4 @@ var test = new Vue({
   }
 })
 
-test.getData();
+//test.getData();

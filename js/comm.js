@@ -39,14 +39,31 @@ var index = new Vue({
           }
         },
         error: function(rsp) {
-          console.log('ajax error');
+          console.log('ajax error!');
+          console.log('ajax error!');
+          console.log('ajax error!');
+          $.ajax({
+            url: 'https://1025623017.github.io/blog/db/db',
+            type: 'GET',
+            async: false,
+            success: function(rsp) {
+              try {
+                eval('index.db = ' + rsp);
+                console.log('local File '+'"db"'+' loaded successful');
+              } catch (error){
+                console.log(error);
+              }
+            },
+            error: function(rsp) {
+              console.log('local file not found');
+            }
+          });
         }
       });
     },
 
     test: function(log){
       console.log(index.db);
-      console.log('logs');
     }
 
     //---
