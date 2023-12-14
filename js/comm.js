@@ -27,12 +27,16 @@ var index = new Vue({
 
       //获取数据库
       $.ajax({
-        url: '../blog/db/db',
+        url: 'db/db',
         type: 'GET',
         async: false,
         success: function(rsp) {
-          eval('index.db = ' + rsp);
-          console.log('File '+'"db"'+' loaded successful');
+          try {
+            eval('index.db = ' + rsp);
+            console.log('File '+'"db"'+' loaded successful');
+          } catch (error){
+            console.log(error);
+          }
         },
         error: function(rsp) {
           console.log('ajax error');
@@ -42,7 +46,7 @@ var index = new Vue({
 
     test: function(log){
       console.log(index.db);
-      console.log('log is done.');
+      console.log('logs');
     }
 
     //---
