@@ -173,7 +173,7 @@
   >
   > Go to my [3D Museum](https://1025623017.github.io/blog/museum.html)
   >
-  > [https://app.gumroad.com/products](https://app.gumroad.com/products)
+  > Buy them in [https://app.gumroad.com/products](https://app.gumroad.com/products)
   > 
   > To Be Continued...
   > 
