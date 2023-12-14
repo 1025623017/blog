@@ -128,21 +128,15 @@
   <div id="contain">
     <div class="main">
       <h2 class="text-center" style="padding-top:130px;padding-bottom:200px;">欢迎来到我的GitHub博客！</h2>
-  <!--
-<div class="items">
-<ul>
-<li></li>
-<li v-for="el in db.news">
-<h3>
-{{el.title}}
-</h3>
-<p>
-{{el.body}}
-</p>
-</li>
-</ul>
-</div>
-  -->
+      <div class="items">
+        <ul>
+          <li>{{el.title}}</li>
+          <li v-for="el in db.news">
+            <h3>{{el.title}}</h3>
+            <p>{{el.body}}</p>
+          </li>
+        </ul>
+      </div>
     </div>
   </div>
   <!--版权-->

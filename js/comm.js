@@ -2,7 +2,8 @@ var index = new Vue({
   el: '#index',
   data: {
     //数据库
-    db: {}
+    db: {},
+    text_01:'text'
   },
   methods: {
     init: function() {
@@ -25,16 +26,26 @@ var index = new Vue({
 
       //获取数据库
       $.ajax({
-        // 本地测试使用网上数据库
-        // url: 'https://1025623017.github.io/blog/db/db',
+        //rl: 'https://1025623017.github.io/blog/db/db',
         url: '/blog/db/db',
         type: 'GET',
+        //dataType:'json',
         success: function(rsp) {
-          eval('index.db = ' + rsp)
+          eval('index.db = ' + rsp);
         }
+
+      //console.log('1'+index.db);
+
       })
+    },
+
+    vue_log(){
+      console.log('1'+index.db);
     }
+
   }
 })
 
-var t = function()｛document.documentElement.scrollTop=0｝
+index.vue_log();
+
+//var t = function()｛document.documentElement.scrollTop=0｝
