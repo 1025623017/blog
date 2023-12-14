@@ -33,14 +33,12 @@ var index = new Vue({
         success: function(rsp) {
           try {
             eval('index.db = ' + rsp);
-            console.log('File '+'"db"'+' loaded successful');
+            console.log('File '+'"db"'+' in github loaded successful');
           } catch (error){
             console.log(error);
           }
         },
         error: function(rsp) {
-          console.log('ajax error!');
-          console.log('ajax error!');
           console.log('ajax error!');
           $.ajax({
             url: 'https://1025623017.github.io/blog/db/db',
