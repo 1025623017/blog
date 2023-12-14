@@ -27,7 +27,7 @@ var index = new Vue({
 
       //获取数据库
       $.ajax({
-        url: 'https://1025623017.github.io/blog/db/db',
+        url: '../blog/db/db',
         type: 'GET',
         async: false,
         success: function(rsp) {
@@ -42,6 +42,7 @@ var index = new Vue({
 
     test: function(log){
       console.log(index.db);
+      console.log('log is done.');
     }
 
     //---
