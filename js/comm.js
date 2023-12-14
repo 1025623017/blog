@@ -29,7 +29,7 @@ var index = new Vue({
       $.ajax({
         url: 'https://1025623017.github.io/blog/db/db',
         type: 'GET',
-        async: 0,
+        async: false,
         success: function(rsp) {
           eval('index.db = ' + rsp);
           console.log('File '+'"db"'+' loaded successful');
