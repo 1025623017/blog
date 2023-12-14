@@ -3,15 +3,16 @@ var index = new Vue({
   data: {
     //数据库
     db: {},
-    text_01:'text'
+    text_01: 'type_out'
   },
   methods: {
+
     init: function() {
+
       //返回顶部
       var timer_toTop=null;
       var timer_toContent=null;
       var timer_toContent2=null;
-
       $("#toTop").on('click',function() {
         timer_toTop=setInterval(function() {
           if (document.body.scrollTop>0) {/*Chrome*/
@@ -26,26 +27,28 @@ var index = new Vue({
 
       //获取数据库
       $.ajax({
-        //rl: 'https://1025623017.github.io/blog/db/db',
-        url: '/blog/db/db',
+        url: 'https://1025623017.github.io/blog/db/db',
         type: 'GET',
-        //dataType:'json',
         success: function(rsp) {
           eval('index.db = ' + rsp);
+          console.log('File '+'"db"'+' loaded successful');
+        },
+        error: function(rsp) {
+          console.log('ajax error');
         }
-
-      //console.log('1'+index.db);
-
-      })
+      });
     },
 
-    vue_log(){
-      console.log('1'+index.db);
+    test: function(log){
+      console.log(index.db);
     }
+
+    //---
 
   }
 })
 
-index.vue_log();
+index.init();
+index.test();
 
 //var t = function()｛document.documentElement.scrollTop=0｝
