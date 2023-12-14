@@ -3,6 +3,7 @@ var index = new Vue({
   data: {
     //数据库
     db: {},
+    db_empty: true,
     text_01: 'type_out'
   },
   methods: {
@@ -31,29 +32,34 @@ var index = new Vue({
         type: 'GET',
         async: false,
         success: function(rsp) {
-          try {
-            eval('index.db = ' + rsp);
-            console.log('File '+'"db"'+' in github loaded successful');
-          } catch (error){
-            console.log(error);
-          }
+          setTimeout(()=>{
+            try {
+              eval('index.db = ' + rsp);
+              index.db_empty = true;
+              console.log('File '+'"db"'+' in github loaded successful');
+            } catch (error){
+              console.log(error);
+            }
+          },2000);
         },
         error: function(rsp) {
           console.log('ajax error!');
+          index.db_empty = false;
+          //alert('index.db_empty = false;');
           $.ajax({
             url: 'https://1025623017.github.io/blog/db/db',
             type: 'GET',
             async: false,
             success: function(rsp) {
-              try {
-                eval('index.db = ' + rsp);
-                console.log('local File '+'"db"'+' loaded successful');
-              } catch (error){
-                console.log(error);
-              }
-            },
-            error: function(rsp) {
-              console.log('local file not found');
+              setTimeout(()=>{
+                try {
+                  eval('index.db = ' + rsp);
+                  console.log('File '+'"db"'+' in github loaded successful');
+                  index.db_empty = true;
+                } catch (error){
+                  console.log(error);
+                }
+              },2000);
             }
           });
         }
@@ -69,6 +75,8 @@ var index = new Vue({
   }
 })
 
+console.log(eval(index.db).length);
+console.log(index.db);
 index.init();
 index.test();
 
