@@ -129,14 +129,13 @@
     <div class="main">
       <h2 class="text-center" style="padding-bottom:50px;">欢迎来到我的GitHub博客</h2>
       <h2 class="text-center" style="padding-bottom:50px;">Welcome to my blog</h2>
-      <div class="items">
-        <ul>
-          {{db_empty}}
-          <li v-if="db_empty" v-for="el in db.news">
-            <h3>-----</h3>
-            <h3>{{el.title}}1</h3>
-            <p>{{el.body}}1</p>
-          </li>111
+      <div id="database_list" class="items">
+        <ul>{{db.data.length}}
+          <li v-if="{{!db_empty}}" v-for="el in db.news">
+            <h3>{{db_empty}}</h3>
+            <h3>{{el.title}}</h3>
+            <p>{{el.body}}</p>
+          </li>
         </ul>
       </div>
     </div>
