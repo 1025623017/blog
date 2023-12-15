@@ -1,49 +1,34 @@
 var index = new Vue({
   el: '#index',
   data: {
-    //数据库
+    //空的本地数据库
     db: {},
-    db_empty: true,
-    text_01: 'type_out'
+    //是否获取到Ajax数据库
+    db_empty: true
   },
   methods: {
-
     init: function() {
 
-      //返回顶部
-      var timer_toTop=null;
-      var timer_toContent=null;
-      var timer_toContent2=null;
-      $("#toTop").on('click',function() {
-        timer_toTop=setInterval(function() {
-          if (document.body.scrollTop>0) {/*Chrome*/
-            document.body.scrollTop-=90;
-          }else if(document.documentElement.scrollTop>0) {/*Firefox*/
-            document.documentElement.scrollTop-=90;
-          }else{
-            clearInterval(timer_toTop);
-          }
-        },10);
-      });
 
-      //获取数据库
+
+
       $.ajax({
         url: 'db/db',
         type: 'GET',
         async: false,
+        //获取网络数据库
         success: function(rsp) {
+          console.log(rsp.status);
           setTimeout(()=>{
-            try {
               eval('index.db = ' + rsp);
               index.db_empty = true;
-              console.log('File '+'"db"'+' in first time has loaded successful');
-            } catch (error){
-              console.log(error);
-            }
-          },2000);
+              console.log('Database Github Version loaded successful');
+          },0);
         },
+        //获取本地数据库
         error: function(rsp) {
           console.log('ajax error!');
+          console.log(rsp.status);
           index.db_empty = false;
           //alert('index.db_empty = false;');
           $.ajax({
@@ -54,20 +39,25 @@ var index = new Vue({
               setTimeout(()=>{
                 try {
                   eval('index.db = ' + rsp);
-                  console.log('File '+'"db"'+' in scond time has loaded successful');
+                  console.log('You are using the local database');
                   index.db_empty = true;
                 } catch (error){
                   console.log(error);
                 }
-              },2000);
+              },0);
             }
           });
         }
       });
+
+
+      //next initiation
     },
 
     test: function(log){
-      console.log(index.db);
+      console.log(
+        index.db
+      )
     }
 
     //---
@@ -75,8 +65,6 @@ var index = new Vue({
   }
 })
 
-console.log(eval(index.db).length);
-console.log(index.db);
 index.init();
 index.test();
 
