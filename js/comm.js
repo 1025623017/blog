@@ -3,9 +3,7 @@ var index = new Vue({
   data: {
     //空的本地数据库
     db: {},
-    //获取Ajax数据库失败标识
-    db_empty: true,
-    db_rsp:{}
+    db_adress:'https://raw.githubusercontent.com/1025623017/blog/gh-pages/db/db'
   },
   methods: {
     init: function() {
@@ -15,21 +13,20 @@ var index = new Vue({
         type: 'GET',
         async: false,
         success: function(rsp) {
-          eval('index.db = ' + rsp);
-          index.db_empty = false;
-          console.log('Database Github Version loaded successful');
+          index.db = eval('index.db = ' + rsp);
+          console.log('Local db loaded successful');
         },
         error: function(rsp) {
-          console.log('DB loaded fail from Github');
+          console.log('Local db loaded fail');
           $.ajax({
-            url: 'https://1025623017.github.io/blog/db/db',
+            url: index.db_adress,
             type: 'GET',
-            async: false,
+            async: true,
             success: function(rsp) {
-              eval('index.db = ' + rsp);
-              console.log('You are now using the local database');
-              console.log(index.db);
-              index.db_empty = false;
+              index.db = eval('index.db = ' + rsp);
+              console.log(index.db_adress + 'loaded successful!');
+            },error: function(rsp){
+              console.log(index.db_adress +' not found!');
             }
           });
         }
@@ -40,12 +37,10 @@ var index = new Vue({
     },
 
     test: function(){
-      if (!index.db_empty) {
-        console.log('db_empty is '+index.db_empty);
-      };
+      //...
     },
 
-    //---
+    //...
 
   }
 })
