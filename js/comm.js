@@ -13,6 +13,7 @@ var index = new Vue({
         console.log('Testing Mode');
       }else{
         index.db_adress = 'db/db';
+        console.log('VPN is not working!');
       };
       index.uAjax();
     },
