@@ -14,10 +14,10 @@ var index = new Vue({
         async: false,
         success: function(rsp) {
           index.db = eval('index.db = ' + rsp);
-          console.log('Local db loaded successful');
+          console.log('blog/gh-pages/db/db loaded successful');
         },
         error: function(rsp) {
-          console.log('Local db loaded fail');
+          console.log('blog/gh-pages/db/db loaded fail');
           $.ajax({
             url: index.db_adress,
             type: 'GET',
@@ -25,6 +25,7 @@ var index = new Vue({
             success: function(rsp) {
               index.db = eval('index.db = ' + rsp);
               console.log(index.db_adress + 'loaded successful!');
+              console.log('This database is the elder version , uploading the new local database file(push in Github destop) to refresh the page');
             },error: function(rsp){
               console.log(index.db_adress +' not found!');
             }
