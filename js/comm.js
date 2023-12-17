@@ -37,6 +37,7 @@ var index = new Vue({
         url: _adress,
           success: function(rsp) {
             index.db = eval('index.db = ' + rsp);
+            console.log('VPN Opening');
           },
           error: function(rsp) {
             index.uajax_time();
