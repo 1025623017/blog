@@ -111,7 +111,14 @@
   <!--内容-->
   <div id="contain">
     <div class="main">
-      <div id="database_list" class="items">
+
+      <ul id="loading" class="list-unstyled">
+        <li style="font-size: 24px;">
+          Loading...
+        </li>
+      </ul>
+
+      <div id="database_list">
         <ul class="list-unstyled">
           <li v-for="el in db.data">
             <h3>{{el.title}}</h3>

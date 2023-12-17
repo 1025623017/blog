@@ -67,6 +67,7 @@
  *database_showing_in_list
  *********************************************************/
  #database_list{
+   display: none;
    ul{
       margin: 0 0;
    }
@@ -78,6 +79,12 @@
    }
  }
 
+#loading{
+    margin: 10px;
+    padding: 10px;
+    background: #98b3cb12;
+    border-radius: 15px;
+ }
 
 
 /*

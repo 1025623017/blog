@@ -1,3 +1,5 @@
+$('#loading').show();
+
 var index = new Vue({
   el: '#index',
   data: {
@@ -21,6 +23,7 @@ var index = new Vue({
 
     //初始化页面
     init: function() {
+      $('#loading').show();
       index.is_test();
       index.is_vpn();
     },
@@ -44,26 +47,27 @@ var index = new Vue({
     uAjax: function(_adress){
       $.ajax({
         url: _adress,
-          success: function(rsp) {
-            index.db = eval('index.db = ' + rsp);
-            if(!window.location.href.includes('file')){
-              //...
-            }
-          },
-          error: function(rsp) {
-            index.uajax_time();
-            index.db = {
-              data: [
-                {
-                  title: '文章加载失败',
-                  contents: '请确保您的 VPN 处于开启状态',
-                  _date: index.rsp_time
-                }
-              ]
-            };
-            console.log('服务器请求失败');
-          }
-        });
+        success: function(rsp) {
+          index.db = eval('index.db = ' + rsp);
+          $('#loading').hide();
+          $('#database_list').show();
+        },
+        error: function(rsp) {
+          index.uajax_time();
+          $('#loading').hide();
+          index.db = {
+            data: [
+              {
+                title: '文章加载失败',
+                contents: '请确保您的 VPN 处于开启状态',
+                _date: index.rsp_time
+              }
+            ]
+          };
+          $('#database_list').show();
+          console.log('服务器请求失败');
+        }
+      });
     },
 
     //ajax请求时间
