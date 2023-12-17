@@ -38,7 +38,7 @@ var index = new Vue({
           success: function(rsp) {
             index.db = eval('index.db = ' + rsp);
             if(!window.location.href.includes('file')){
-              console.log('2023年12月17日 13:45:08');
+              //console.log('');
             }
           },
           error: function(rsp) {
