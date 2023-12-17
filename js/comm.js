@@ -6,7 +6,9 @@ var index = new Vue({
     //数据库名
     db: {},
     //瞬时请求时间
-    rsp_time: ''
+    rsp_time: '',
+    wiki: '',
+    db_temp:{}
   },
   methods: {
 

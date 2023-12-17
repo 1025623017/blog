@@ -39,8 +39,11 @@
            <a href="museum.html">
             3D Museum
           </a>
-        </li>
         <li class="active">
+          <a href="news.html">News</a>
+        </li>
+        </li>
+        <li>
           <a href="profile.html">My Profile</a>
         </li>
         <li>
@@ -99,6 +102,7 @@
   <!--首屏-->
   <div class="main" style="text-align:center;">
     <iframe src="https://www.78dm.net/news" width="90%" height="550"></iframe>
+    <iframe v-if="{{wiki==''}}" src="{{wiki}}" width="90%" height="550"></iframe>
   </div>
   <!--版权-->
   <div id="footer">
