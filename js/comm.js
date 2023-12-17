@@ -37,7 +37,9 @@ var index = new Vue({
         url: _adress,
           success: function(rsp) {
             index.db = eval('index.db = ' + rsp);
-            console.log('VPN Opening');
+            if(!window.location.href.includes('file')){
+              console.log('Testing Mode');
+            }
           },
           error: function(rsp) {
             index.uajax_time();
