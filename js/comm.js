@@ -4,11 +4,18 @@ var index = new Vue({
     //数据库地址
     db_adress: '',
     //数据库名
-    db: {},
+    db: {
+      data: [
+        {
+          title: 'Loading...',
+          contents: 'Loading...',
+          _date: 'Loading...'
+        }
+      ]
+    },
     //瞬时请求时间
     rsp_time: '',
-    wiki: '',
-    db_temp:{}
+    wiki: ''
   },
   methods: {
 
@@ -40,7 +47,7 @@ var index = new Vue({
           success: function(rsp) {
             index.db = eval('index.db = ' + rsp);
             if(!window.location.href.includes('file')){
-              //console.log('');
+              //...
             }
           },
           error: function(rsp) {
@@ -48,8 +55,8 @@ var index = new Vue({
             index.db = {
               data: [
                 {
-                  title: '服务器请求失败',
-                  contents: '请确保您的VPN处于开启状态',
+                  title: '文章加载失败',
+                  contents: '请确保您的 VPN 处于开启状态',
                   _date: index.rsp_time
                 }
               ]
@@ -64,7 +71,7 @@ var index = new Vue({
       var day = new Date();
       var y = day.getFullYear()+"年";
       var m = (day.getMonth()+1)+"月";
-      var d = day.getDate()+"日";
+      var d = day.getDate()+"日     ";
       var w = "星期";
       switch(day.getDay()){
         case 1: w+="一"; break;
@@ -75,7 +82,7 @@ var index = new Vue({
         case 6: w+="六"; break;
         default: w+="日";
       };
-      index.rsp_time = y+m+d+w;
+      index.rsp_time = day;
     },
 
     //...
