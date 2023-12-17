@@ -68,6 +68,7 @@
  *********************************************************/
  #database_list{
    display: none;
+   overflow-wrap: break-word;
    ul{
       margin: 0 0;
    }
