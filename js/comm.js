@@ -19,7 +19,7 @@ var index = new Vue({
     //是否处于测试模式
     is_test: function(){
       if(window.location.href.includes('file')){
-        console.log('Testing Mode');
+        console.log('https://1025623017.github.io/blog/ is in the Testing Mode now.');
         index.db_adress = 'https://raw.githubusercontent.com/1025623017/blog/gh-pages/db/db';
       }else{
         index.db_adress = 'db/db';

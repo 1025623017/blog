@@ -27,7 +27,7 @@
     },
     {
       title: '博客主页',
-      contents: '数据没加载完的时候直接显示vue的标签页也太难看了一点了吧···<br>1',
+      contents: '数据没加载完的时候直接显示vue的标签页也太难看了一点了吧···',
       _date: '2023年12月16日 22:50:00'
     },
     {
@@ -58,7 +58,7 @@
     {
       title: '茂名职业技术学院-食品安全与质量控制',
       contents: 'https://1025623017.github.io/blog/chemistry/index.html',
-      _date: '<a>https://1025623017.github.io/blog/chemistry/index.html</a>'
+      _date: '2023年12月17日 19:35:16'
     }
   ]
 }
