@@ -19,11 +19,6 @@
       title: '未来的计划',
       contents: '学习Vue3.0',
       _date: '2023年12月16日 22:30:00'
-    },
-    {
-      title: '',
-      contents: '',
-      _date: ''
     }
   ]
 }
