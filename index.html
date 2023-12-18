@@ -130,7 +130,7 @@
         <ul class="list-unstyled">
           <li v-for="el in db.data">
             <h3>{{el.title}}</h3>
-            <p v-if="el.length>1" v-for="el in el.contents">
+            <p v-for="el in el.contents">
               {{el}}
             </p>
             <p style="color: #155799;">{{el._date}}</p>
