@@ -97,7 +97,7 @@
             </li>
             <li class="divider"></li>
             <li>
-              <b>项目</b>
+              <b>Others</b>
               <a style="padding-left: 54px;" href="https://1025623017.github.io/blog/chemistry/index.html">
                 茂职-化工系
               </a>
@@ -130,7 +130,7 @@
         <ul class="list-unstyled">
           <li v-for="el in db.data">
             <h3>{{el.title}}</h3>
-            <p>{{el.contents}}</p>
+            <p v-for="el in db.data.contents"></p>
             <p style="color: #155799;">{{el._date}}</p>
           </li>
         </ul>
