@@ -413,6 +413,14 @@
   - 江门市MXM(Model Cross Me)模型工具店 2017/08/01 ～ 2027/08/01
   - 模具设计X公司 2017/08/01 ～ 2099/00/00
 
+## 科目
+  - 语言（国语、英语、日语）
+  - 数学（编程）
+  - 历史地理政治（摄影、旅游）
+  - 物理（模具设计）
+  - 生物化学（日常运动、伤病急救、中西医）
+  - 艺术（美术、音乐、笑话）
+
 ## 推荐网站
   - [https://zhuanlan.zhihu.com/p/22099626](https://zhuanlan.zhihu.com/p/22099626)
   - [https://zhuanlan.zhihu.com/p/22213177](https://zhuanlan.zhihu.com/p/22213177)
