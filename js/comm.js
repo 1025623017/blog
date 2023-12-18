@@ -6,15 +6,7 @@ var index = new Vue({
     //数据库地址
     db_adress: '',
     //数据库名
-    db: {
-      data: [
-        {
-          title: 'Loading...',
-          contents: 'Loading...',
-          _date: 'Loading...'
-        }
-      ]
-    },
+    db: {},
     //瞬时请求时间
     rsp_time: '',
     wiki: ''
@@ -49,23 +41,18 @@ var index = new Vue({
         url: _adress,
         success: function(rsp) {
           index.db = eval('index.db = ' + rsp);
+          if (!index.db.data) {
+            index.uFail();
+          }
           $('#loading').hide();
           $('#database_list').show();
         },
         error: function(rsp) {
           index.uajax_time();
-          $('#loading').hide();
-          index.db = {
-            data: [
-              {
-                title: '文章加载失败',
-                contents: '请确保您的 VPN 处于开启状态',
-                _date: index.rsp_time
-              }
-            ]
-          };
-          $('#database_list').show();
+          index.uFail();
           console.log('服务器请求失败');
+          $('#loading').hide();
+          $('#database_list').show();
         }
       });
     },
@@ -89,6 +76,17 @@ var index = new Vue({
       index.rsp_time = day;
     },
 
+    uFail: function(){
+      index.db = {
+        data: [
+          {
+            title: '文章加载失败',
+            contents: '请确保您的 VPN 处于开启状态',
+            _date: index.rsp_time
+          }
+        ]
+      }
+    },
     //...
 
   }
