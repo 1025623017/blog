@@ -99,42 +99,34 @@
 
   - 核诚治造
     - [核诚治造 Ma.K Zbv3000 古斯塔夫 P.K.A. Ausf.G](https://www.bilibili.com/video/BV1Ky4y1j7AK))
-    - [核诚治造 Ma.K 其他]
-    - [核诚治造LunchBox熊丸RACOON](https://www.bilibili.com/video/BV18z4y1J7ue)
-    - [核诚治造LunchBox 02]()
-    - [核诚治造LunchBox 03]()
-    - [核诚治造LunchBox 04]()
-    - [核诚治造 机娘 其他]
-    - [核诚治造 驳机制 其他]
+    - [核诚治造 LunchBox熊丸RACOON](https://www.bilibili.com/video/BV18z4y1J7ue)
+    - [核诚治造 LunchBox 02]()
+    - [核诚治造 LunchBox 03]()
+    - [核诚治造 LunchBox 04]()
+    - [核诚治造 机娘 01]
+    - [核诚治造 驳机制 01]
 
   - CCSTOYS
     - [CCS 铁魄 魔装机神 塞巴斯塔 精灵凭依 合金成品模型](https://www.bilibili.com/video/BV1Ze411Q7iT)
 
   - 小号手
-    - [小号手模型 变形金刚 机体01]()
-    - [小号手模型 变形金刚 机体02]()
-    - [小号手模型 变形金刚 机体03]()
-    - [小号手模型 变形金刚 机体04]()
+    - [小号手模型 变形金刚 机体00]()
 
   - 炼技人
-    - [炼技人 A5 遮盖带]()
-    - [炼技人 A5 切割带]()
-    - [炼技人 推刀]()
-    - [炼技人 刻线刀]()
-    - [炼技人 吸尘器]()
+    - [炼技人 A5]()
 
   - 魔封真
     - [魔封真 SD刹帝利]
     - [魔封真 基拉 祖鲁]
     - [魔封真 扎古Ⅰ]
     - [魔封真 京宝梵]
-    - [魔封真 白色女性化机体]()
     - [魔封真 h233_梅萨F-01型]
     - [魔封真 GFFMC 飞翼零式]
 
   - GK
     - [万代 扎古 Zaku MG2.0 Frame](https://raw.githubusercontent.com/1025623017/blog/master/images/zaku_frame_top.jpg)
       - [前往购买](https://murphyleung1344.gumroad.com/l/zakuframe)
+    - [RG 二号机 屋岛作战 盾牌](https://www.zhe2.com/note/628971378978)
     - [独角兽高达 结晶爆发](https://v.douyin.com/iRsYcSct)
     - [1/400 独角兽高达1号机 独角兽模式]
     - [1/400 独角兽高达2号机 独角兽模式]
@@ -143,26 +135,25 @@
     - [1/400 独角兽高达2号机 毁灭模式]
     - [1/400 独角兽高达3号机 毁灭模式]
     - [1/400 刹帝利]
-    - [1/100 自由高达 MG2.0 MB2.0样式改件]()
     - [1/100 刹帝利 网络开源版]()
     - [1/100 BD03 蓝色命运3号机]()
-    - [RG 二号机 屋岛作战 盾牌](https://www.zhe2.com/note/628971378978)
-    - [断空我Nova]
+    - [MG沙扎比 福冈背包改件]
+    - [MB能天使 武器改件]
+    - [1/100 自由高达 MG2.0 MB2.0样式改件]()
     - [钢铁侠 MK5 手提箱 展开模式 GK]
-    - [MG沙扎比 福冈背包]
-    - [MB能天使 三叉炮]
+    - [断空我Nova]
 
   - 其他
-    - [诚造社 大力神](https://www.bilibili.com/video/BV1Tv411v7CR)
     - [白骑士 绝邢战士/EVA初号机觉醒 合金成品](https://www.bilibili.com/video/BV1qx411f7a7)
     - [Metal Power 宇宙骑士](https://www.bilibili.com/video/BV1B34y177eZ)
+    - [诚造社 大力神](https://www.bilibili.com/video/BV1Tv411v7CR)
     - [钢铁侠 MK85](https://www.bilibili.com/video/BV1Cj411d7S4)
     - Disney 迪士尼
       - Hello Kitty
       - Mickey Mouse
     - Marvel Comics 漫威
     - DC Universe Animated Original Movies 华纳DC影视
-    - 施工平面图 CAD图
+    - CAD 图
 
   > 
   > [购买我的GK产品](https://murphyleung1344.gumroad.com/)
