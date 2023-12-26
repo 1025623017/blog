@@ -127,7 +127,8 @@
     - [万代 扎古 Zaku MG2.0 Frame](https://raw.githubusercontent.com/1025623017/blog/master/images/zaku_frame_top.jpg)
       - [前往购买](https://murphyleung1344.gumroad.com/l/zakuframe)
     - [RG 二号机 屋岛作战 盾牌](https://www.zhe2.com/note/628971378978)
-    - [独角兽高达 结晶爆发](https://v.douyin.com/iRsYcSct)
+    - [独角兽高达 结晶爆发 蓝色](https://v.douyin.com/iRsYcSct)
+    - [独角兽高达 结晶爆发 绿色](https://www.douyin.com/video/7269728737820790075)
     - [1/400 独角兽高达1号机 独角兽模式]
     - [1/400 独角兽高达2号机 独角兽模式]
     - [1/400 独角兽高达3号机 独角兽模式]
