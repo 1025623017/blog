@@ -5,9 +5,9 @@
 >
 > [Email to me](mailto:1025623017@qq.com)
 >
-> Web Front Tree Mindmap 01：[https://raw.githubusercontent.com/1025623017/blog/master/Front_End_teee_01.png](https://raw.githubusercontent.com/1025623017/blog/master/Front_End_teee_01.png)
+> Web Front Tree Mindmap 01：[https://raw.githubusercontent.com/1025623017/blog/master/Front_End_teee_01.png](https://raw.githubusercontent.com/1025623017/blog/master/images/Front_End_teee_01.png)
 >
-> Web Front Tree Mindmap 02：[https://raw.githubusercontent.com/1025623017/blog/master/Front_End_teee_02.jpg](https://raw.githubusercontent.com/1025623017/blog/master/Front_End_teee_02.png)
+> Web Front Tree Mindmap 02：[https://raw.githubusercontent.com/1025623017/blog/master/Front_End_teee_02.jpg](https://raw.githubusercontent.com/1025623017/blog/master/images/Front_End_teee_02.png)
 >
 > [Edit this page](https://github.com/1025623017/blog/edit/master/README.md)
 >
