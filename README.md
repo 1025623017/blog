@@ -150,8 +150,9 @@
     - [诚造社 大力神](https://www.bilibili.com/video/BV1Tv411v7CR)
     - [钢铁侠 MK85](https://www.bilibili.com/video/BV1Cj411d7S4)
     - Disney 迪士尼
-      - Hello Kitty
       - Mickey Mouse
+    - Saniro 三丽鸥
+      - Hello Kitty
     - Marvel Comics 漫威
     - DC Universe Animated Original Movies 华纳DC影视
     - CAD 图
