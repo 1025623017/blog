@@ -28,55 +28,9 @@
     - [PROE/CREO全网最全工程图教程！！！](https://www.bilibili.com/video/BV1xb4y147xf)
     - [Auto Surface Creo parametric](https://www.youtube.com/watch?v=D8Im7A6oCrw)
 
-  - 中英对照表
-    - rib 筋
-    - solid 实体化
-    - cut 掏胶 肉抜き
-    - thickness 料厚
-    - draft 拔模
-    - c c角
-    - r 圆角
-
   - Standards
     - Thickness
-      - 成品 2mm/1/5mm
-      - 拼装 1.5mm/1.2mm
-    - 装配
-        - 圆柱 + 圆柱
-        - 圆柱 + 六角柱
-        - D型圆柱
-        - 矩形
-        - 球形
-      - 防反装
-      - 卡位
-        - 0.2mm ~ 0.5mm（卡位应做成容易加胶的形状）
-    - 加强筋
-      - Thickness * 75% ~ 80%
-    - 止口
-      - 起点/终点 0.5mm间隙
-      - 接合面 间隙0.2mm，拔模3°
-      - 间隙 0.1mm
-      - 反止口，做成加强筋一样
-      - 超声止口：干涉角高0.3mm夹角45度，宽0.8mm。中轴离边缘1.1mm，拔模3°，间隙0.2mm
-    - 螺丝柱
-      - 7mm/4.2mm/1.6mm
-      - 8mm/5mm/2mm
-    - 间隙
-      - GK 0.05mm/ABS 0.1mm/PVC 0mm
-      - 活动间隙 0.15mm/0.2mm
-    - 拔模
-      - 前模 1°(0° ~ 1°),如涉及喷油请拔模7° ~ 10°
-      - 后模 0.5°
-      - 分模线跳转处 3°~5°
-      - 碰穿 3°，碰穿面积留空一圈1mm宽
-    - C角(Chamfering)
-      - 0.3mm/0.5mm/1mm
-    - R角(Radius)
-      - 0.2mm/0.3mm/0.5mm/1.5mm/2mm
-      - 0 ~ 3周岁
-        - 大外形的尖锐处 R1.5mm
-        - 其他外形 R0.5mm
-        - 螺丝柱 0.5mm/0.8mm/1mm
+      - 1.5mm
 
 ## 我的产品(My Products)
 
@@ -120,10 +74,6 @@
 
   > 
   > [购买我的GK产品](https://murphyleung1344.gumroad.com/l/zakuframe)
-  >
-  > 一般工程工时：30 ~ 60个工作日（每日8~11小时）
-  >
-  > 预计时薪：每小时77~100元人民币
   >
   > Go to my [3D Museum](https://1025623017.github.io/blog/museum.html)
   >
@@ -364,8 +314,8 @@
 ## 公司 & 任职经历
 
   - 深圳市友福同享信息科技有限公司([Wiki](http://wiki.ufutx.net/doku.php?id=webenvconfig)) 2016/06/12 ～ 2017/07/31
-  - 江门市MXM(Model Cross Me)模型工具店 2017/08/01 ～ 2027/08/01
-  - 模具设计X公司 2017/08/01 ～ 2099/00/00
+  - 模型工具店 2017/08/01 ～ 2099/08/01
+  - 模具设计 2017/08/01 ～ 2099/08/01
 
 ## 科目
   - 语言（国语、英语、日语）
@@ -373,7 +323,7 @@
   - 历史地理政治（摄影、旅游）
   - 物理（模具设计）
   - 生物化学（日常运动、伤病急救、中西医）
-  - 艺术（美术、音乐、笑话）
+  - 艺术（美术、音乐）
 
 ## 推荐网站
   - [https://zhuanlan.zhihu.com/p/22099626](https://zhuanlan.zhihu.com/p/22099626)
@@ -395,22 +345,16 @@
 
 合作伙伴：
 
-  [万代模型](https://weibo.com/u/2042697783)
+  [Bandai](https://weibo.com/u/2042697783)
   |
-  [万代南梦宫中国](https://weibo.com/u/5613764575)
-  |
-  [小号手模型](https://weibo.com/u/3211501815)
-  |
-  [核诚治造](https://weibo.com/u/1962816935)
+  [Bandai Namco](https://weibo.com/u/5613764575)
   |
   [CCSTOYS](https://weibo.com/u/5185539718)
   |
-  [InnovationPoint创新点](https://weibo.com/7200394808)
+  [核诚治造](https://weibo.com/u/1962816935)
   |
-  [炼技人](https://weibo.com/u/7601254400)
+  [小号手模型](https://weibo.com/u/3211501815)
   |
   [魔封真模型工作室](https://weibo.com/u/5674639595)
-  |
-  [柴耀Studio](https://weibo.com/u/2480695131)
 
 ![我的头像](https://avatars1.githubusercontent.com/u/13571820?v=3&s=18) Copyright &copy; 2016-2024 Murphy Leung Powered By Github
