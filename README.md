@@ -25,61 +25,37 @@
     - [3D-Tool CAD-Viewer](https://www.3d-tool.de/)
 
   - Videos
-    - [PROE/CREO全网最全工程图教程！！！](https://www.bilibili.com/video/BV1xb4y147xf)
+    - [PROE/CREO](https://www.bilibili.com/video/BV1xb4y147xf)
     - [Auto Surface Creo parametric](https://www.youtube.com/watch?v=D8Im7A6oCrw)
+    - [CAD](https://www.youtube.com/watch?v=Hh2qNzsb0Mc&list=PLwuqKKyakg67apvX_xwhMcNjVIUN620su)
 
   - Standards
-    - Thickness
-      - 1.5mm
 
 ## 我的产品(My Products)
 
   - BANDAI(日本)
-    - [假面骑士Geats 圣诞铃铛卡扣 圣诞节限定](https://www.bilibili.com/video/BV1UM411m734)
-    - [NX系列 EVA剧场版:│▌ 新二号机α](https://www.bilibili.com/video/BV1jU4y1P7gE)
 
   - BANDAI(中国)
     - [奥特曼 超精细奥特变身器](https://www.bilibili.com/video/BV1Ad4y157Eq)
-    - [奥特曼合体武装](https://www.bilibili.com/video/BV185411i7Lk)
-    - [假面骑士Geats 迷你发声腰带](https://www.bilibili.com/video/BV1EM411Q76h)
-    - [哈罗 Haro UV(Ashley Wood)](https://www.bilibili.com/video/BV1Xz4y1a7SP)
-    - [奥特换装超可动](https://www.bilibili.com/video/BV178411y7qp)
-    - [奥特曼 677xx](https://www.bilibili.com/video/BV1Tp4y1o7iF)
-    - [假面骑士发光头雕](https://www.bilibili.com/video/BV12c411t7XW)
 
   - 核诚治造
-    - [核诚治造 Ma.K Zbv3000 古斯塔夫 P.K.A. Ausf.G](https://www.bilibili.com/video/BV1Ky4y1j7AK))
     - [核诚治造 LunchBox](https://www.bilibili.com/video/BV18z4y1J7ue)
     - [核诚治造 新品发布中！]()
 
   - CCSTOYS
     - [CCSTOYS 铁魄 Cybaster 精灵凭依ver.](https://www.bilibili.com/video/BV1Ze411Q7iT)
 
-  - 小号手
-
-  - 炼技人
-
-  - 魔封真
-
   - GK
-    - [MG沙扎比 福冈背包改件]
-    - [MB能天使 武器改件]
-    - [断空我Nova]
 
   - 其他
     - [白骑士 绝邢战士/EVA初号机觉醒 合金成品](https://www.bilibili.com/video/BV1qx411f7a7)
     - [Metal Power 宇宙骑士](https://www.bilibili.com/video/BV1B34y177eZ)
-    - [诚造社 大力神](https://www.bilibili.com/video/BV1Tv411v7CR)
     - [钢铁侠 MK85](https://www.bilibili.com/video/BV1Cj411d7S4)
 
   > 
-  > [购买我的GK产品](https://murphyleung1344.gumroad.com/l/zakuframe)
-  >
   > Go to my [3D Museum](https://1025623017.github.io/blog/museum.html)
   >
   > Buy them in [https://app.gumroad.com/products](https://app.gumroad.com/products)
-  > 
-  > To Be Continued...
   > 
 
 ## 前端知识分享(Front End)
