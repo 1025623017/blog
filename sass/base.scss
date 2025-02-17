@@ -30,6 +30,7 @@
 .dropdown-menu{
   padding: 10px;
   img{
+    width: 20px;
     margin-right: 10px;
   }
 }
@@ -69,6 +70,9 @@
  #database_list{
    display: none;
    overflow-wrap: break-word;
+   h3{
+      color: #0f7aaf;
+   }
    ul{
       margin: 0 0;
    }
