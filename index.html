@@ -132,7 +132,7 @@
       <div id="database_list">
         <ul class="list-unstyled">
           <li v-for="el in db.data">
-            <h3>{{el.title}}</h3>
+            <h3 v-if="el">{{el.title}}</h3>
             <p v-for="el in el.contents">
               {{el}}
             </p>
