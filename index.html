@@ -133,8 +133,11 @@
         <ul class="list-unstyled">
           <li v-for="el in db.data">
             <h3 v-if="el">{{el.title}}</h3>
-            <p v-for="el in el.contents">
+            <p v-if="rsp_error!=1" v-for="el in el.contents">
               {{el}}
+            </p>
+            <p v-if="rsp_error==1">
+              {{el.contents}}
             </p>
             <p style="color: #6bbec3;padding: 5px;text-align: right;">{{el._date}}</p>
           </li>

@@ -9,7 +9,8 @@ var index = new Vue({
     db: {},
     //瞬时请求时间
     rsp_time: '',
-    wiki: ''
+    wiki: '',
+    rsp_error: ''
   },
   methods: {
 
@@ -48,6 +49,7 @@ var index = new Vue({
           $('#database_list').show();
         },
         error: function(rsp) {
+          index.rsp_error = 1;
           index.uajax_time();
           index.uFail();
           console.log('服务器请求失败');
@@ -81,7 +83,7 @@ var index = new Vue({
         data: [
           {
             title: '文章加载失败',
-            contents: '请确保您的 VPN 处于开启状态',
+            contents: '请确保您的 VPN 处于开启状态！',
             _date: index.rsp_time
           }
         ]
