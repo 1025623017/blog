@@ -1,15 +1,135 @@
-.demo {
-	height: 200px;
-	.exit {
-		width: 1px;
-	}
+@charset "utf-8";
+/*
+ *公共
+ *
+ *重置
+ *导航
+ *首屏
+ *版权
+ *返回顶部
+ *********************************************************/
+
+
+
+/*
+ *重置
+ *********************************************************/
+.navbar{
+  margin: 0;
 }
-.title-wraper {
-	height: 200px;
-	.being {
-		width: 1px;
-	}
-	.type_one {
-		width: 1px;
-	}
+.main{
+  max-width: 750px;
+  margin: 50px auto 0 auto;
+}
+
+
+
+/*
+ *导航
+ *********************************************************/
+.dropdown-menu{
+  padding: 10px;
+  img{
+    width: 20px;
+    margin-right: 10px;
+  }
+}
+
+
+
+/*
+ *首屏
+ *********************************************************/
+#banner{
+  height: 200px;
+  background: #159957;
+  background-image: linear-gradient(120deg,#155799,#159957);
+  text-align: center;
+  color: #fff;
+  h1{
+    margin: 0;
+    padding: 50px 0;
+  }
+  small{
+    display: block;
+    padding: 20px 0;
+    color: #fff;
+  }
+}
+#profile{
+  h2{
+    text-align: center;
+  }
+}
+
+
+
+/*
+ *database_showing_in_list
+ *********************************************************/
+ #database_list{
+   display: none;
+   overflow-wrap: break-word;
+   h3{
+      color: #0f7aaf;
+   }
+   ul{
+      margin: 0 0;
+   }
+   li{
+      margin: 10px;
+      padding: 10px;
+      background: #98b3cb12;
+      border-radius: 15px;
+   }
+ }
+
+#loading{
+    margin: 10px 0 700px 0;
+    padding: 10px;
+    background: #98b3cb12;
+    border-radius: 15px;
+ }
+
+
+/*
+ *版权
+ *********************************************************/
+#footer{
+  padding: 15px 0;
+  margin-top: 75px;
+  line-height: 22px;
+  font-size: 12px;
+  text-align: center;
+  background: #f8f8f8;
+  border-radius: 5px;
+  border: 1px #e7e7e7 solid;
+}
+
+
+
+/*
+ *返回顶部
+ *********************************************************/
+#toTop{
+  position: fixed;
+  bottom: 5%;
+  right: 3%;
+  display: inline-block;
+  width: 45px;
+  height: 45px;
+  font-size: 20px;
+  line-height: 40px;
+  color: #fff;
+  border: 2px #ddd solid;
+  border-radius: 45px;
+  background: #159957;
+  background-image: linear-gradient(120deg,#155799,#159957);
+  text-decoration: none;
+  &:hover{
+    background: #159957;
+    border: 2px #fff solid;
+    color: #fff;
+    text-decoration: none;
+  }
 }
