@@ -300,6 +300,7 @@
   - 物理（模具设计）
   - 生物化学（日常运动、伤病急救、中西医）
   - 艺术（美术、音乐）
+  - 艺术哲学（美学）
 
 ## 推荐网站
   - [https://zhuanlan.zhihu.com/p/22099626](https://zhuanlan.zhihu.com/p/22099626)
@@ -333,4 +334,4 @@
   |
   [魔封真模型工作室](https://weibo.com/u/5674639595)
 
-![我的头像](https://avatars1.githubusercontent.com/u/13571820?v=3&s=18) Copyright &copy; 2016-2024 Murphy Leung Powered By Github
+![我的头像](https://avatars1.githubusercontent.com/u/13571820?v=3&s=18) Copyright &copy; 2016-2025 Murphy Leung Powered By Github
