@@ -18,26 +18,22 @@ var index = new Vue({
     init: function() {
       $('#loading').show();
       index.is_test();
-      index.is_vpn();
     },
 
     //是否处于测试模式
     is_test: function(){
       if(window.location.href.includes('GitHub')){
-        console.log('https://1025623017.github.io/blog/ is in the Testing Mode now.');
         index.db_adress = 'db/db';
+        console.log('https://1025623017.github.io/blog/ is in the Testing Mode now.');
       }else{
         index.db_adress = 'https://raw.githubusercontent.com/1025623017/blog/gh-pages/db/db';
       };
+      index.is_vpn();
     },
 
     //是否开启VPN
     is_vpn: function(){
-      if (index.db_adress != 'db/db') {
-       index.uAjax(index.db_adress);
-      }else{
-        index.uFail();
-      };
+      index.uAjax(index.db_adress);
     },
 
     //ajax
@@ -56,20 +52,25 @@ var index = new Vue({
           index.rsp_error = 1;
           index.uajax_time();
           index.uFail();
-          console.log('服务器请求失败');
           $('#loading').hide();
           $('#database_list').show();
         }
-      });
+      })
     },
 
     //ajax请求时间
     uajax_time: function(){
       var day = new Date();
-      var y = day.getFullYear()+"年";
-      var m = (day.getMonth()+1)+"月";
-      var d = day.getDate()+"日     ";
-      var w = "星期";
+      var y = day.getFullYear()+"年 ";
+      var m = (day.getMonth()+1)+"月 ";
+      var d = day.getDate()+"日 ";
+      var w = " 星期";
+      var _sec = '';
+      if (day.getSeconds()<10) {
+        _sec = '0'+day.getSeconds();
+      }else{
+        _sec = day.getSeconds();
+      };
       switch(day.getDay()){
         case 1: w+="一"; break;
         case 2: w+="二"; break;
@@ -79,7 +80,8 @@ var index = new Vue({
         case 6: w+="六"; break;
         default: w+="日";
       };
-      index.rsp_time = day;
+      index.rsp_time ='Request Time: '+day.getHours()+': '+day.getMinutes()+': '+_sec;
+      console.log('You are using database: '+index.db_adress);
     },
 
     uFail: function(){
@@ -87,7 +89,7 @@ var index = new Vue({
         data: [
           {
             title: '文章加载失败',
-            contents: '请确保您的 VPN 处于开启状态！',
+            contents: '请检查您的网络或VPN状态！',
             _date: index.rsp_time
           }
         ]
