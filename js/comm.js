@@ -66,7 +66,19 @@ var index = new Vue({
       var m = (day.getMonth()+1)+"月 ";
       var d = day.getDate()+"日 ";
       var w = " 星期";
+      var _hor = '';
+      var _min = '';
       var _sec = '';
+      if (day.getHours()<10) {
+        _hor = '0'+day.getHours();
+      }else{
+        _hor = day.getHours();
+      };
+      if (day.getMinutes()<10) {
+        _min = '0'+day.getMinutes();
+      }else{
+        _min = day.getMinutes();
+      };
       if (day.getSeconds()<10) {
         _sec = '0'+day.getSeconds();
       }else{
@@ -81,7 +93,7 @@ var index = new Vue({
         case 6: w+="六"; break;
         default: w+="日";
       };
-      index.rsp_time ='Request Time: '+day.getHours()+': '+day.getMinutes()+': '+_sec;
+      index.rsp_time ='Request Time: '+_hor+': '+_min+': '+_sec;
       console.log('You are using database: '+index.db_adress);
     },
 
