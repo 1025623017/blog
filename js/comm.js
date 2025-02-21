@@ -41,6 +41,7 @@ var index = new Vue({
     uAjax: function(_adress){
       $.ajax({
         url: _adress,
+        timeout: 10,
         success: function(rsp) {
           index.db = eval('index.db = ' + rsp);
           if (!index.db.data) {
@@ -98,18 +99,17 @@ var index = new Vue({
     },
 
     uFail: function(){
-      index.db = {
-        data: [
-          {
-            title: '文章加载失败',
-            contents: '请检查您的网络或VPN状态！',
-            _date: index.rsp_time
-          }
-        ]
-      }
+        index.db = {
+          data: [
+            {
+              title: '文章加载失败',
+              contents: '请检查您的网络或VPN状态！',
+              _date: index.rsp_time
+            }
+          ]
+        };
+        //index.db = eval('/db/db');
     },
-    //...
-
   }
 })
 
