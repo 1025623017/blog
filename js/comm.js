@@ -122,10 +122,10 @@ var index = new Vue({
         },10);
         if (window.location.href.includes('io')) {
           if (index.rsp_error == 1) {
-            console.log('仍在加载中...');
+            console.log('正在尝试重连数据库...');
             setTimeout(function(){
               index.uAjax('https://raw.githubusercontent.com/1025623017/blog/refs/heads/gh-pages/db/db')
-            },30000);
+            },60000);
           }
         }
         index.db = {
