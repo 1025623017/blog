@@ -125,7 +125,7 @@ var index = new Vue({
             console.log('正在尝试重连数据库...');
             setTimeout(function(){
               index.uAjax('https://raw.githubusercontent.com/1025623017/blog/refs/heads/gh-pages/db/db')
-            },60000);
+            },55000);
           }
         }
         index.db = {
