@@ -10,7 +10,9 @@ var index = new Vue({
     //瞬时请求时间
     rsp_time: '',
     wiki: '',
-    rsp_error: ''
+    //mode 0 不请求数据库
+    mode: 1,
+    rsp_error: '',
   },
   methods: {
 
@@ -24,12 +26,16 @@ var index = new Vue({
     is_test: function(){
       if(!window.location.href.includes('io')){
         index.db_adress = 'db/db';
-        console.log('https://1025623017.github.io/blog/ is in the Testing Mode now.');
+        console.log('https://1025623017.github.io/blog/ Testing Mode '+index.mode);
       }else{
         index.db_adress = 'https://raw.githubusercontent.com/1025623017/blog/refs/heads/gh-pages/db/db';
         console.log('Contact me: 1025623017@qq.com');
       };
-      index.is_vpn();
+      if (index.mode == 1) {
+        index.uAjax('https://raw.githubusercontent.com/1025623017/blog/refs/heads/gh-pages/db/db');
+      }else{
+        index.uFail();
+      }
     },
 
     //是否开启VPN
@@ -41,7 +47,6 @@ var index = new Vue({
     uAjax: function(_adress){
       $.ajax({
         url: _adress,
-        timeout: 10,
         success: function(rsp) {
           index.db = eval('index.db = ' + rsp);
           if (!index.db.data) {
@@ -99,17 +104,48 @@ var index = new Vue({
     },
 
     uFail: function(){
+      if (index.mode == 0) {
         index.db = {
           data: [
             {
-              title: '文章加载失败',
-              contents: '请检查您的网络或VPN状态！',
+              title: '离线模式',
+              contents: [''],
               _date: index.rsp_time
             }
           ]
         };
-        //index.db = eval('/db/db');
-    },
+      }else{
+        setTimeout(function(){
+          if (index.mode != 1) {
+            index.uAjax('https://raw.githubusercontent.com/1025623017/blog/refs/heads/gh-pages/db/db')
+          }
+        },10);
+        if (window.location.href.includes('io')) {
+          if (index.rsp_error == 1) {
+            console.log('仍在加载中...');
+            setTimeout(function(){
+              index.uAjax('https://raw.githubusercontent.com/1025623017/blog/refs/heads/gh-pages/db/db')
+            },30000);
+          }
+        }
+        index.db = {
+          data: [
+            {
+              title: '文章加载失败',
+              contents: ['请检查您的网络或VPN状态！'],
+              _date: index.rsp_time
+            }
+          ]
+        };
+      }
+      $('#loading').hide();
+      $('#database_list').show();
+    }
+    //
+    //
+    //
+    //
+    //
   }
 })
 
