@@ -26,7 +26,7 @@ var index = new Vue({
         index.db_adress = 'db/db';
         console.log('https://1025623017.github.io/blog/ is in the Testing Mode now.');
       }else{
-        index.db_adress = 'https://raw.githubusercontent.com/1025623017/blog/gh-pages/db/db';
+        index.db_adress = 'https://raw.githubusercontent.com/1025623017/blog/refs/heads/gh-pages/db/db';
         console.log('Contact me: 1025623017@qq.com');
       };
       index.is_vpn();
