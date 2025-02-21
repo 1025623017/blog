@@ -25,13 +25,11 @@ var index = new Vue({
       if(!window.location.href.includes('io')){
         index.db_adress = 'db/db';
         console.log('https://1025623017.github.io/blog/ is in the Testing Mode now.');
-        var _e = eval(1);
-        console.log(_e);
       }else{
         index.db_adress = 'https://raw.githubusercontent.com/1025623017/blog/gh-pages/db/db';
         console.log('Contact me: 1025623017@qq.com');
-        index.is_vpn();
       };
+      index.is_vpn();
     },
 
     //是否开启VPN
