@@ -27,6 +27,7 @@ var index = new Vue({
       if(!window.location.href.includes('io')){
         index.db_adress = 'db/db';
         console.log('https://1025623017.github.io/blog/ Testing Mode '+index.mode);
+        //index.uAjax(index.db_adress);
       }else{
         index.db_adress = 'https://raw.githubusercontent.com/1025623017/blog/refs/heads/gh-pages/db/db';
         console.log('Contact me: 1025623017@qq.com');
