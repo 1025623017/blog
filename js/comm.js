@@ -53,7 +53,6 @@ var index = new Vue({
           if (!index.db.data) {
             index.uFail();
           };
-          index.rsp_error = 0;
           $('#loading').hide();
           $('#database_list').show();
         },
@@ -141,6 +140,7 @@ var index = new Vue({
             }
           ]
         };
+        index.rsp_error = 0;
       }
       $('#loading').hide();
       $('#database_list').show();
