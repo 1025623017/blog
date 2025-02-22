@@ -52,7 +52,8 @@ var index = new Vue({
           index.db = eval('index.db = ' + rsp);
           if (!index.db.data) {
             index.uFail();
-          }
+          };
+          index.rsp_error = 0;
           $('#loading').hide();
           $('#database_list').show();
         },
