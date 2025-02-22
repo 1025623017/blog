@@ -132,13 +132,13 @@
           <li v-for="el in db.data">
             <h3 v-if="el">{{el.title}}</h3>
             <div class="paragraph" v-if="rsp_error!=1" v-for="(index,el) in el.contents">
-              <div v-if='el == 1'>
-                <p v-for="(index,el) in el">
-                {{el}}
-                <div class="page_num">
-                  Page {{index+1}}
-                </div>
-                </p>
+                <div v-if="el.length > 0">
+                  <p v-for="(index,el) in el">
+                    {{el}}
+                    <div v-if="el.length != 1" class="page_num">
+                      Page {{index+1}}
+                    </div>
+                  </p>
                 </div>
             </div>
             <div class="cp">
