@@ -133,7 +133,7 @@ var index = new Vue({
           data: [
             {
               title: '文章加载失败',
-              contents: ['请检查您的网络或VPN状态！'],
+              contents: [['请检查您的网络或VPN状态！']],
               _date: index.rsp_time
             }
           ]
