@@ -131,13 +131,13 @@
         <ul class="list-unstyled">
           <li v-for="el in db.data">
             <h3 v-if="el">{{el.title}}</h3>
-            <div v-if="rsp_error!=1" v-for="el in el.contents">
-              <p class="paragraph" v-for="(el,index) in el">
+            <div v-if="rsp_error!=1" v-for="(index,el) in el.contents">
+              <p class="paragraph" v-for="(index,el) in el">
                 {{el}}
+                <div style="margin-bottom: 30px;color: #6bbec3;">
+                  Page{{index+1}}
+                </div>
               </p>
-              <div style="margin-bottom: 30px;color: #6bbec3;">
-                Page{{index}}
-              </div>
             </div>
             <p v-if="rsp_error==1">
               {{el.contents}}
