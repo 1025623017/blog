@@ -32,38 +32,38 @@
     },
     {
       title: '推荐一本好书',
-      contents: [
+      contents: [[
         '《Art as Experience》 John Dewey 2005'
-      ],
+      ]],
       _date: '2025年2月20日 01:09:00'
     },
     {
       title: '主页文章需要添加翻页功能',
-      contents: [
+      contents: [[
         '新增功能'
-      ],
+      ]],
       _date: '2025年2月21日 00:00:00'
     },
     {
       title: '2025年',
-      contents: [
+      contents: [[
         '玩具设计的第八年'
-      ],
+      ]],
       _date: '2025年2月20日 01:04:00'
     },
     {
       title: '目前的职业',
-      contents: [
+      contents: [[
         '转行已经很多年，现在主要是做模具设计（玩具设计）'
-      ],
+      ]],
       _date: '2023年12月16日 19:52:00'
     },
     {
       title: '从Vue1.0 到 Vue3.0',
-      contents: [
+      contents: [[
           '目前博客采用的Vue1.0已经是多年前的版本，近期将更新到Vue3.0。',
           'Vue3.0 简化版手册 Wiki 持续更新中。'
-      ],
+      ]],
       _date: '2023年12月16日 19:51:09'
     }
   ]

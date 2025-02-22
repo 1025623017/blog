@@ -68,23 +68,36 @@
  *database_showing_in_list
  *********************************************************/
  #database_list{
-   display: none;
-   overflow-wrap: break-word;
-   h3{
+    display: none;
+    overflow-wrap: break-word;
+    h3{
       color: #0f7aaf;
-   }
-   ul{
+    }
+    ul{
       margin: 0 0;
-   }
-   li{
+    }
+    li{
       margin: 10px;
       padding: 10px;
       background: #98b3cb12;
       border-radius: 15px;
-   }
-   .paragraph{
-    text-indent: 2em;
-   }
+    }
+    .paragraph{
+      text-indent: 2em;
+      padding-top: 20px;
+      .page_num{
+        color: #a1708b;
+        padding: 30px 0;
+        font-weight: bold;
+        text-indent: 0em;
+      }
+    }
+    .cp{
+      color: #38a3e3;
+      padding: 10px;
+      text-align: right;
+      font-weight: bold;
+    }
  }
 
 #loading{
