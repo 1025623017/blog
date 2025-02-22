@@ -132,7 +132,9 @@
           <li v-for="el in db.data">
             <h3 v-if="el">{{el.title}}</h3>
             <p class="paragraph" v-if="rsp_error!=1" v-for="el in el.contents">
-              {{el}}
+              <div v-for="el in el.contents">
+                {{el}}
+              </div>
             </p>
             <p v-if="rsp_error==1">
               {{el.contents}}
