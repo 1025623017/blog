@@ -133,10 +133,10 @@
             <h3 v-if="el">{{el.title}}</h3>
             <div class="paragraph" v-if="rsp_error!=1" v-for="(index,el) in el.contents">
                 <div v-if="el.length > 0">
-                  <p v-for="(index,el) in el">
-                    {{el}}
-                    <div v-if="el.length != 1" class="page_num">
-                      Page {{index+1}}
+                  <p v-if="el[x].length > 0" v-for="(x,y) in el">
+                    {{y}}
+                    <div v-if="(el[0].length + el[1].length) > 90" class="page_num">
+                      Page {{index+1}} 
                     </div>
                   </p>
                 </div>
