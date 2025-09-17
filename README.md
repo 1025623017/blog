@@ -29,7 +29,9 @@
     - [Auto Surface Creo parametric](https://www.youtube.com/watch?v=D8Im7A6oCrw)
     - [CAD](https://www.youtube.com/watch?v=Hh2qNzsb0Mc&list=PLwuqKKyakg67apvX_xwhMcNjVIUN620su)
 
-  - Standards
+  - Standard
+    - 料厚 需要提前确认
+    - 间隙 默认0.1mm但是需要后续调整
 
 ## 我的产品(My Products)
 
